@@ -1,0 +1,21 @@
+customerID,churn_probability,churn_prediction,risk_level,tenure,Contract,MonthlyCharges,TotalCharges,InternetService,OnlineSecurity,TechSupport,PaymentMethod
+4603-JANFB,1.0,Yes,Critical Risk,1,Month-to-month,69.85,69.85,Fiber optic,No,No,Electronic check
+2777-PHDEI,1.0,Yes,Critical Risk,1,Month-to-month,78.05,78.05,Fiber optic,No,No,Electronic check
+7665-TOALD,1.0,Yes,Critical Risk,1,Month-to-month,69.6,69.6,Fiber optic,No,No,Electronic check
+8972-HJWNV,1.0,Yes,Critical Risk,7,Month-to-month,84.55,646.85,Fiber optic,No,No,Electronic check
+1374-DMZUI,1.0,Yes,Critical Risk,4,Month-to-month,94.3,424.45,Fiber optic,No,No,Electronic check
+8603-IJWDN,1.0,Yes,Critical Risk,1,Month-to-month,86.6,86.6,Fiber optic,No,No,Electronic check
+5875-YPQFJ,1.0,Yes,Critical Risk,1,Month-to-month,69.9,69.9,Fiber optic,No,No,Electronic check
+3158-MOERK,1.0,Yes,Critical Risk,2,Month-to-month,96.0,174.8,Fiber optic,No,No,Electronic check
+1273-MTETI,1.0,Yes,Critical Risk,4,Month-to-month,88.85,372.45,Fiber optic,No,No,Electronic check
+4078-SAYYN,1.0,Yes,Critical Risk,11,Month-to-month,100.75,1129.75,Fiber optic,No,No,Electronic check
+1304-NECVQ,1.0,Yes,Critical Risk,2,Month-to-month,78.55,149.55,Fiber optic,No,No,Electronic check
+9025-AOMKI,1.0,Yes,Critical Risk,6,Month-to-month,93.55,536.4,Fiber optic,No,No,Bank transfer (automatic)
+3428-XZMAZ,1.0,Yes,Critical Risk,1,Month-to-month,69.35,69.35,Fiber optic,No,No,Electronic check
+5299-SJCZT,1.0,Yes,Critical Risk,3,Month-to-month,101.55,298.35,Fiber optic,No,No,Bank transfer (automatic)
+5960-WPXQM,1.0,Yes,Critical Risk,1,Month-to-month,79.05,79.05,Fiber optic,No,No,Electronic check
+4424-TKOPW,1.0,Yes,Critical Risk,2,Month-to-month,93.85,196.75,Fiber optic,No,No,Electronic check
+9300-AGZNL,1.0,Yes,Critical Risk,1,Month-to-month,94.0,94,Fiber optic,No,No,Electronic check
+8740-CRYFY,1.0,Yes,Critical Risk,1,Month-to-month,78.95,78.95,Fiber optic,No,No,Electronic check
+8098-LLAZX,1.0,Yes,Critical Risk,4,Month-to-month,95.45,396.1,Fiber optic,No,No,Electronic check
+6892-EZDTG,1.0,Yes,Critical Risk,4,Month-to-month,91.65,365.4,Fiber optic,No,No,Electronic check

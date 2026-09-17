@@ -1,0 +1,1636 @@
+customerID,churn_probability,churn_prediction,risk_level,tenure,Contract,MonthlyCharges,TotalCharges,InternetService,OnlineSecurity,TechSupport,PaymentMethod
+9305-CDSKC,1.0,Yes,Critical Risk,8,Month-to-month,99.65,820.5,Fiber optic,No,No,Electronic check
+6894-LFHLY,1.0,Yes,Critical Risk,1,Month-to-month,75.75,75.75,Fiber optic,No,No,Electronic check
+1066-JKSGK,1.0,Yes,Critical Risk,1,Month-to-month,20.15,20.15,No,No internet service,No internet service,Mailed check
+4102-OQUPX,1.0,Yes,Critical Risk,1,Month-to-month,74.4,74.4,Fiber optic,No,No,Electronic check
+9124-LHCJQ,1.0,Yes,Critical Risk,1,Month-to-month,85.45,85.45,Fiber optic,No,No,Mailed check
+1285-OKIPP,1.0,Yes,Critical Risk,1,Month-to-month,79.9,79.9,Fiber optic,No,No,Electronic check
+1273-MTETI,1.0,Yes,Critical Risk,4,Month-to-month,88.85,372.45,Fiber optic,No,No,Electronic check
+2845-AFFTX,1.0,Yes,Critical Risk,41,Month-to-month,99.8,4259.3,Fiber optic,No,No,Electronic check
+2636-ALXXZ,1.0,Yes,Critical Risk,1,Month-to-month,69.6,69.6,Fiber optic,No,No,Electronic check
+5542-TBBWB,1.0,Yes,Critical Risk,1,Month-to-month,69.9,69.9,Fiber optic,No,No,Electronic check
+0495-RVCBF,1.0,Yes,Critical Risk,1,Month-to-month,79.7,79.7,Fiber optic,No,No,Electronic check
+3066-RRJIO,1.0,Yes,Critical Risk,1,Month-to-month,69.95,69.95,Fiber optic,No,No,Mailed check
+4603-JANFB,1.0,Yes,Critical Risk,1,Month-to-month,69.85,69.85,Fiber optic,No,No,Electronic check
+1304-NECVQ,1.0,Yes,Critical Risk,2,Month-to-month,78.55,149.55,Fiber optic,No,No,Electronic check
+8972-HJWNV,1.0,Yes,Critical Risk,7,Month-to-month,84.55,646.85,Fiber optic,No,No,Electronic check
+9025-AOMKI,1.0,Yes,Critical Risk,6,Month-to-month,93.55,536.4,Fiber optic,No,No,Bank transfer (automatic)
+4910-GMJOT,1.0,Yes,Critical Risk,1,Month-to-month,94.6,94.6,Fiber optic,No,No,Electronic check
+4424-TKOPW,1.0,Yes,Critical Risk,2,Month-to-month,93.85,196.75,Fiber optic,No,No,Electronic check
+5960-WPXQM,1.0,Yes,Critical Risk,1,Month-to-month,79.05,79.05,Fiber optic,No,No,Electronic check
+5299-SJCZT,1.0,Yes,Critical Risk,3,Month-to-month,101.55,298.35,Fiber optic,No,No,Bank transfer (automatic)
+9850-OWRHQ,1.0,Yes,Critical Risk,3,Month-to-month,74.1,228,Fiber optic,No,No,Credit card (automatic)
+7660-HDPJV,1.0,Yes,Critical Risk,1,Month-to-month,69.2,69.2,Fiber optic,No,No,Electronic check
+8098-LLAZX,1.0,Yes,Critical Risk,4,Month-to-month,95.45,396.1,Fiber optic,No,No,Electronic check
+4988-IQIGL,1.0,Yes,Critical Risk,1,Month-to-month,75.35,75.35,Fiber optic,No,No,Electronic check
+4078-SAYYN,1.0,Yes,Critical Risk,11,Month-to-month,100.75,1129.75,Fiber optic,No,No,Electronic check
+9248-OJYKK,1.0,Yes,Critical Risk,1,Month-to-month,76.45,76.45,Fiber optic,No,No,Electronic check
+9399-APLBT,1.0,Yes,Critical Risk,1,Month-to-month,74.7,74.7,Fiber optic,No,No,Electronic check
+3988-RQIXO,1.0,Yes,Critical Risk,1,Month-to-month,91.3,91.3,Fiber optic,No,No,Electronic check
+4695-WJZUE,1.0,Yes,Critical Risk,2,Month-to-month,88.55,179.25,Fiber optic,No,No,Electronic check
+7216-EWTRS,1.0,Yes,Critical Risk,1,Month-to-month,100.8,100.8,Fiber optic,No,No,Electronic check
+0488-GSLFR,1.0,Yes,Critical Risk,1,Month-to-month,69.5,69.5,Fiber optic,No,No,Electronic check
+7665-TOALD,1.0,Yes,Critical Risk,1,Month-to-month,69.6,69.6,Fiber optic,No,No,Electronic check
+2777-PHDEI,1.0,Yes,Critical Risk,1,Month-to-month,78.05,78.05,Fiber optic,No,No,Electronic check
+2982-IHMFT,1.0,Yes,Critical Risk,1,Month-to-month,74.45,74.45,Fiber optic,No,No,Mailed check
+2660-EMUBI,1.0,Yes,Critical Risk,10,Month-to-month,95.35,898.35,Fiber optic,No,No,Electronic check
+5240-IJOQT,1.0,Yes,Critical Risk,1,Month-to-month,74.7,74.7,Fiber optic,No,No,Electronic check
+7638-QVMVY,1.0,Yes,Critical Risk,7,Month-to-month,79.0,522.95,Fiber optic,No,No,Electronic check
+5550-VFRLC,1.0,Yes,Critical Risk,1,Month-to-month,69.85,69.85,Fiber optic,No,No,Electronic check
+5552-ZNFSJ,1.0,Yes,Critical Risk,1,Month-to-month,45.3,45.3,DSL,No,No,Electronic check
+5393-RXQSZ,1.0,Yes,Critical Risk,1,Month-to-month,79.6,79.6,Fiber optic,No,No,Electronic check
+6513-EECDB,1.0,Yes,Critical Risk,1,Month-to-month,73.55,73.55,Fiber optic,No,No,Electronic check
+6941-PMGEP,1.0,Yes,Critical Risk,5,Month-to-month,80.0,412.5,Fiber optic,No,No,Electronic check
+1965-AKTSX,1.0,Yes,Critical Risk,14,Month-to-month,78.95,1101.85,Fiber optic,No,No,Electronic check
+8149-RSOUN,1.0,Yes,Critical Risk,1,Month-to-month,93.85,93.85,Fiber optic,No,No,Electronic check
+5570-PTWEH,1.0,Yes,Critical Risk,3,Month-to-month,75.15,216.75,Fiber optic,No,No,Credit card (automatic)
+3091-FYHKI,1.0,Yes,Critical Risk,1,Month-to-month,35.45,35.45,DSL,No,No,Electronic check
+6457-GIRWB,1.0,Yes,Critical Risk,1,Month-to-month,69.35,69.35,Fiber optic,No,No,Electronic check
+6502-MJQAE,1.0,Yes,Critical Risk,1,Month-to-month,69.6,69.6,Fiber optic,No,No,Electronic check
+4192-GORJT,1.0,Yes,Critical Risk,5,Month-to-month,94.45,498.1,Fiber optic,No,No,Electronic check
+4871-JTKJF,1.0,Yes,Critical Risk,1,Month-to-month,69.65,69.65,Fiber optic,No,No,Electronic check
+4143-OOBWZ,1.0,Yes,Critical Risk,5,Month-to-month,81.3,416.3,Fiber optic,No,No,Electronic check
+7851-WZEKY,1.0,Yes,Critical Risk,2,Month-to-month,95.15,196.9,Fiber optic,No,No,Electronic check
+0841-NULXI,1.0,Yes,Critical Risk,1,Month-to-month,35.55,35.55,DSL,No,No,Electronic check
+5875-YPQFJ,1.0,Yes,Critical Risk,1,Month-to-month,69.9,69.9,Fiber optic,No,No,Electronic check
+8603-IJWDN,1.0,Yes,Critical Risk,1,Month-to-month,86.6,86.6,Fiber optic,No,No,Electronic check
+1374-DMZUI,1.0,Yes,Critical Risk,4,Month-to-month,94.3,424.45,Fiber optic,No,No,Electronic check
+3158-MOERK,1.0,Yes,Critical Risk,2,Month-to-month,96.0,174.8,Fiber optic,No,No,Electronic check
+2868-MZAGQ,1.0,Yes,Critical Risk,1,Month-to-month,79.25,79.25,Fiber optic,No,No,Electronic check
+7206-GZCDC,1.0,Yes,Critical Risk,1,Month-to-month,69.25,69.25,Fiber optic,No,No,Electronic check
+0196-VULGZ,1.0,Yes,Critical Risk,6,Month-to-month,84.35,474.9,Fiber optic,No,No,Electronic check
+6567-HOOPW,1.0,Yes,Critical Risk,1,Month-to-month,79.2,79.2,Fiber optic,No,No,Electronic check
+1934-SJVJK,1.0,Yes,Critical Risk,1,Month-to-month,20.15,20.15,No,No internet service,No internet service,Mailed check
+6424-ELEYH,1.0,Yes,Critical Risk,3,Month-to-month,74.75,229.5,Fiber optic,No,No,Credit card (automatic)
+0375-HVGXO,1.0,Yes,Critical Risk,1,Month-to-month,34.7,34.7,DSL,No,No,Electronic check
+3776-EKTKM,1.0,Yes,Critical Risk,1,Month-to-month,36.45,36.45,DSL,No,No,Electronic check
+9497-QCMMS,1.0,Yes,Critical Risk,1,Month-to-month,93.55,93.55,Fiber optic,No,No,Electronic check
+8000-REIQB,1.0,Yes,Critical Risk,1,Month-to-month,69.95,69.95,Fiber optic,No,No,Electronic check
+8634-MPHTR,1.0,Yes,Critical Risk,47,Month-to-month,100.05,4871.05,Fiber optic,No,No,Electronic check
+3068-OMWZA,1.0,Yes,Critical Risk,1,Month-to-month,88.8,88.8,Fiber optic,No,No,Electronic check
+3049-SOLAY,1.0,Yes,Critical Risk,3,Month-to-month,95.2,292.85,Fiber optic,No,No,Electronic check
+8058-INTPH,1.0,Yes,Critical Risk,1,Month-to-month,79.65,79.65,Fiber optic,No,No,Electronic check
+8375-DKEBR,1.0,Yes,Critical Risk,1,Month-to-month,69.6,69.6,Fiber optic,No,No,Electronic check
+6521-YYTYI,1.0,Yes,Critical Risk,1,Month-to-month,93.3,93.3,Fiber optic,No,No,Electronic check
+2720-WGKHP,1.0,Yes,Critical Risk,2,Month-to-month,94.0,181.7,Fiber optic,No,No,Electronic check
+0107-YHINA,1.0,Yes,Critical Risk,1,Month-to-month,99.75,99.75,Fiber optic,No,No,Electronic check
+9804-ICWBG,1.0,Yes,Critical Risk,1,Month-to-month,69.9,69.9,Fiber optic,No,No,Electronic check
+9681-OXGVC,1.0,Yes,Critical Risk,5,Month-to-month,100.5,514,Fiber optic,No,No,Electronic check
+6892-EZDTG,1.0,Yes,Critical Risk,4,Month-to-month,91.65,365.4,Fiber optic,No,No,Electronic check
+8740-CRYFY,1.0,Yes,Critical Risk,1,Month-to-month,78.95,78.95,Fiber optic,No,No,Electronic check
+7330-WZLNC,1.0,Yes,Critical Risk,5,Month-to-month,90.8,455.5,Fiber optic,No,No,Electronic check
+9300-AGZNL,1.0,Yes,Critical Risk,1,Month-to-month,94.0,94,Fiber optic,No,No,Electronic check
+3428-XZMAZ,1.0,Yes,Critical Risk,1,Month-to-month,69.35,69.35,Fiber optic,No,No,Electronic check
+1963-SVUCV,1.0,Yes,Critical Risk,1,Month-to-month,45.3,45.3,DSL,No,No,Electronic check
+7254-IQWOZ,1.0,Yes,Critical Risk,1,Month-to-month,69.65,69.65,Fiber optic,No,No,Electronic check
+3551-HUAZH,1.0,Yes,Critical Risk,1,Month-to-month,74.4,74.4,Fiber optic,No,No,Electronic check
+9728-FTTVZ,1.0,Yes,Critical Risk,1,Month-to-month,69.2,69.2,Fiber optic,No,No,Electronic check
+3276-HDUEG,0.9983,Yes,Critical Risk,1,Month-to-month,75.05,75.05,Fiber optic,No,No,Mailed check
+5277-ZLOOR,0.995,Yes,Critical Risk,2,Month-to-month,85.55,187.45,Fiber optic,No,No,Electronic check
+3488-PGMQJ,0.995,Yes,Critical Risk,8,Month-to-month,74.5,606.55,Fiber optic,No,No,Electronic check
+5383-MMTWC,0.995,Yes,Critical Risk,8,Month-to-month,84.0,613.4,Fiber optic,No,No,Electronic check
+2135-RXIHG,0.995,Yes,Critical Risk,1,Month-to-month,45.65,45.65,DSL,No,No,Electronic check
+4550-EVXNY,0.995,Yes,Critical Risk,1,Month-to-month,69.65,69.65,Fiber optic,No,No,Electronic check
+6358-LYNGM,0.995,Yes,Critical Risk,1,Month-to-month,74.9,74.9,Fiber optic,No,No,Electronic check
+7294-TMAOP,0.995,Yes,Critical Risk,1,Month-to-month,90.55,90.55,Fiber optic,No,No,Electronic check
+4548-SDBKE,0.995,Yes,Critical Risk,5,Month-to-month,85.2,474.8,Fiber optic,No,No,Electronic check
+4822-RVYBB,0.995,Yes,Critical Risk,8,Month-to-month,100.6,819.4,Fiber optic,No,No,Electronic check
+9185-TQCVP,0.995,Yes,Critical Risk,14,Month-to-month,85.15,1139.2,Fiber optic,No,No,Electronic check
+2968-SSGAA,0.995,Yes,Critical Risk,10,Month-to-month,100.6,1060.2,Fiber optic,No,No,Electronic check
+8042-JVNFH,0.995,Yes,Critical Risk,1,Month-to-month,71.35,71.35,Fiber optic,No,No,Mailed check
+9415-DPEWS,0.995,Yes,Critical Risk,18,Month-to-month,88.35,1639.3,Fiber optic,No,Yes,Electronic check
+7943-RQCHR,0.995,Yes,Critical Risk,9,Month-to-month,94.75,889.9,Fiber optic,No,No,Electronic check
+5835-BEQEU,0.995,Yes,Critical Risk,3,Month-to-month,76.95,228.4,Fiber optic,No,No,Electronic check
+9625-QSTYE,0.995,Yes,Critical Risk,13,Month-to-month,81.15,952.3,Fiber optic,No,No,Electronic check
+0727-IWKVK,0.995,Yes,Critical Risk,9,Month-to-month,79.9,741.7,Fiber optic,No,No,Electronic check
+7024-OHCCK,0.995,Yes,Critical Risk,2,Month-to-month,93.85,170.85,Fiber optic,No,No,Electronic check
+4952-YSOGZ,0.995,Yes,Critical Risk,4,Month-to-month,85.95,381.3,Fiber optic,No,No,Electronic check
+8062-YBDOE,0.995,Yes,Critical Risk,1,Month-to-month,69.65,69.65,Fiber optic,No,No,Electronic check
+5244-IRFIH,0.995,Yes,Critical Risk,33,Month-to-month,94.5,3105.55,Fiber optic,No,No,Electronic check
+0781-LKXBR,0.995,Yes,Critical Risk,9,Month-to-month,100.5,918.6,Fiber optic,No,No,Electronic check
+7480-QNVZJ,0.995,Yes,Critical Risk,50,Month-to-month,95.7,4816.7,Fiber optic,No,No,Electronic check
+0702-PGIBZ,0.995,Yes,Critical Risk,4,Month-to-month,101.7,364.55,Fiber optic,No,No,Electronic check
+0822-GAVAP,0.995,Yes,Critical Risk,2,Month-to-month,34.7,62.25,DSL,No,No,Electronic check
+1447-GIQMR,0.995,Yes,Critical Risk,1,Month-to-month,69.15,69.15,Fiber optic,No,No,Electronic check
+7359-PTSXY,0.995,Yes,Critical Risk,1,Month-to-month,45.75,45.75,DSL,No,No,Electronic check
+5797-APWZC,0.995,Yes,Critical Risk,1,Month-to-month,90.6,90.6,Fiber optic,No,No,Electronic check
+9600-NAXZN,0.995,Yes,Critical Risk,43,Month-to-month,101.4,4528,Fiber optic,No,No,Electronic check
+8931-GJJIQ,0.995,Yes,Critical Risk,9,Month-to-month,83.3,803.3,Fiber optic,No,No,Electronic check
+4415-IJZTP,0.995,Yes,Critical Risk,1,Month-to-month,74.5,74.5,Fiber optic,No,No,Electronic check
+9019-QVLZD,0.995,Yes,Critical Risk,1,Month-to-month,79.55,79.55,Fiber optic,No,No,Electronic check
+1569-TTNYJ,0.995,Yes,Critical Risk,5,Month-to-month,78.75,412.1,Fiber optic,No,No,Electronic check
+5539-TMZLF,0.995,Yes,Critical Risk,1,Month-to-month,69.75,69.75,Fiber optic,No,No,Electronic check
+8414-MYSHR,0.995,Yes,Critical Risk,5,Month-to-month,91.4,449.75,Fiber optic,No,No,Electronic check
+8992-JQYUN,0.995,Yes,Critical Risk,1,Month-to-month,50.35,50.35,DSL,No,No,Electronic check
+9451-LPGOO,0.995,Yes,Critical Risk,7,Month-to-month,86.8,620.35,Fiber optic,No,No,Electronic check
+6128-CZOMY,0.995,Yes,Critical Risk,1,Month-to-month,45.65,45.65,DSL,No,No,Electronic check
+1723-HKXJQ,0.995,Yes,Critical Risk,42,Month-to-month,101.75,4273.45,Fiber optic,No,No,Electronic check
+0334-GDDSO,0.995,Yes,Critical Risk,3,Month-to-month,81.35,233.7,Fiber optic,No,No,Electronic check
+8945-GRKHX,0.995,Yes,Critical Risk,1,Month-to-month,78.65,78.65,Fiber optic,No,No,Electronic check
+5275-SQEIZ,0.995,Yes,Critical Risk,1,Month-to-month,80.85,80.85,Fiber optic,No,No,Mailed check
+6618-RYATB,0.995,Yes,Critical Risk,1,Month-to-month,79.55,79.55,Fiber optic,No,No,Mailed check
+6210-KBBPI,0.995,Yes,Critical Risk,9,Month-to-month,99.45,919.4,Fiber optic,No,No,Credit card (automatic)
+4510-HIMLV,0.995,Yes,Critical Risk,1,Month-to-month,69.8,69.8,Fiber optic,No,No,Electronic check
+3811-VBYBZ,0.995,Yes,Critical Risk,7,Month-to-month,99.8,673.25,Fiber optic,No,No,Electronic check
+4702-IOQDC,0.995,Yes,Critical Risk,1,Month-to-month,70.1,70.1,Fiber optic,No,No,Electronic check
+4110-PFEUZ,0.995,Yes,Critical Risk,1,Month-to-month,69.55,69.55,Fiber optic,No,No,Mailed check
+2514-GINMM,0.995,Yes,Critical Risk,1,Month-to-month,79.5,79.5,Fiber optic,No,No,Electronic check
+0067-DKWBL,0.995,Yes,Critical Risk,2,Month-to-month,49.25,91.1,DSL,Yes,No,Electronic check
+2004-OCQXK,0.995,Yes,Critical Risk,1,Month-to-month,81.95,81.95,Fiber optic,No,No,Electronic check
+7274-RTAPZ,0.995,Yes,Critical Risk,1,Month-to-month,90.55,90.55,Fiber optic,No,No,Electronic check
+0697-ZMSWS,0.995,Yes,Critical Risk,4,Month-to-month,85.65,338.9,Fiber optic,No,No,Electronic check
+1918-ZBFQJ,0.995,Yes,Critical Risk,13,Month-to-month,79.25,1111.65,Fiber optic,No,No,Electronic check
+1761-AEZZR,0.995,Yes,Critical Risk,1,Month-to-month,79.55,79.55,Fiber optic,No,No,Electronic check
+8168-UQWWF,0.995,Yes,Critical Risk,11,Month-to-month,97.85,1105.4,Fiber optic,No,No,Bank transfer (automatic)
+3744-ZRRDZ,0.995,Yes,Critical Risk,21,Month-to-month,82.35,1852.85,Fiber optic,No,No,Electronic check
+0328-GRPMV,0.995,Yes,Critical Risk,1,Month-to-month,70.1,70.1,Fiber optic,No,No,Electronic check
+0661-XEYAN,0.995,Yes,Critical Risk,1,Month-to-month,25.8,25.8,DSL,No,No,Mailed check
+1157-BQCUW,0.995,Yes,Critical Risk,1,Month-to-month,74.95,74.95,Fiber optic,No,No,Electronic check
+3138-BKYAV,0.995,Yes,Critical Risk,6,Month-to-month,85.35,489.45,Fiber optic,No,No,Electronic check
+5834-ASPWA,0.995,Yes,Critical Risk,1,Month-to-month,75.45,75.45,Fiber optic,No,No,Electronic check
+5378-IKEEG,0.995,Yes,Critical Risk,1,Month-to-month,35.75,35.75,DSL,No,No,Electronic check
+8183-ONMXC,0.995,Yes,Critical Risk,2,Month-to-month,80.75,159.45,Fiber optic,No,No,Electronic check
+0195-IESCP,0.995,Yes,Critical Risk,10,Month-to-month,85.25,855.3,Fiber optic,No,No,Electronic check
+0742-NXBGR,0.995,Yes,Critical Risk,1,Month-to-month,82.3,82.3,Fiber optic,No,No,Electronic check
+8473-VUVJN,0.995,Yes,Critical Risk,1,Month-to-month,73.65,73.65,Fiber optic,No,No,Electronic check
+1496-GGSUK,0.995,Yes,Critical Risk,1,Month-to-month,25.7,25.7,DSL,No,No,Mailed check
+6474-FVJLC,0.995,Yes,Critical Risk,2,Month-to-month,86.0,165.45,Fiber optic,No,No,Electronic check
+9300-RENDD,0.99,Yes,Critical Risk,1,Month-to-month,79.95,79.95,Fiber optic,No,No,Electronic check
+4228-ZGYUW,0.99,Yes,Critical Risk,4,Month-to-month,90.05,368.1,Fiber optic,No,No,Electronic check
+7548-SEPYI,0.99,Yes,Critical Risk,5,Month-to-month,96.25,512.45,Fiber optic,No,No,Electronic check
+1567-DSCIC,0.99,Yes,Critical Risk,8,Month-to-month,94.0,773.65,Fiber optic,No,No,Electronic check
+8372-JUXUI,0.99,Yes,Critical Risk,1,Month-to-month,74.35,74.35,Fiber optic,No,No,Electronic check
+4021-RQSNY,0.99,Yes,Critical Risk,29,Month-to-month,98.5,3004.15,Fiber optic,No,No,Electronic check
+9787-XVQIU,0.99,Yes,Critical Risk,1,Month-to-month,75.3,75.3,Fiber optic,No,No,Electronic check
+5356-RHIPP,0.99,Yes,Critical Risk,1,Month-to-month,20.2,20.2,No,No internet service,No internet service,Mailed check
+3746-EUBYR,0.99,Yes,Critical Risk,1,Month-to-month,74.6,74.6,Fiber optic,No,No,Bank transfer (automatic)
+2656-TABEH,0.99,Yes,Critical Risk,4,Month-to-month,100.2,420.2,Fiber optic,No,No,Electronic check
+9306-CPCBC,0.99,Yes,Critical Risk,3,Month-to-month,74.25,210.3,Fiber optic,No,No,Electronic check
+8348-HFYIV,0.99,Yes,Critical Risk,2,Month-to-month,49.25,90.35,DSL,No,No,Electronic check
+5655-JSMZM,0.99,Yes,Critical Risk,49,Month-to-month,96.2,4718.25,Fiber optic,No,No,Electronic check
+6432-TWQLB,0.99,Yes,Critical Risk,5,Month-to-month,85.4,401.1,Fiber optic,No,Yes,Electronic check
+1624-NALOJ,0.99,Yes,Critical Risk,5,Month-to-month,89.8,502.6,Fiber optic,No,No,Electronic check
+7526-BEZQB,0.99,Yes,Critical Risk,12,Month-to-month,96.05,1148.1,Fiber optic,No,No,Electronic check
+8779-QRDMV,0.99,Yes,Critical Risk,1,Month-to-month,39.65,39.65,DSL,No,No,Electronic check
+3318-OSATS,0.99,Yes,Critical Risk,35,Month-to-month,95.45,3474.05,Fiber optic,No,No,Electronic check
+7120-RFMVS,0.99,Yes,Critical Risk,1,Month-to-month,84.5,84.5,Fiber optic,No,No,Electronic check
+8185-UPYBR,0.99,Yes,Critical Risk,6,Month-to-month,75.5,438,Fiber optic,No,No,Electronic check
+7488-MXJIV,0.99,Yes,Critical Risk,4,Month-to-month,85.65,321.65,Fiber optic,No,No,Electronic check
+2205-YMZZJ,0.99,Yes,Critical Risk,7,Month-to-month,84.8,546.95,Fiber optic,No,No,Electronic check
+0746-JTRFU,0.99,Yes,Critical Risk,2,Month-to-month,25.05,56.35,DSL,No,No,Electronic check
+2012-NWRPA,0.99,Yes,Critical Risk,11,Month-to-month,99.55,1131.2,Fiber optic,No,No,Electronic check
+4910-AQFFX,0.99,Yes,Critical Risk,9,Month-to-month,79.35,661.25,Fiber optic,No,No,Bank transfer (automatic)
+5419-JPRRN,0.99,Yes,Critical Risk,1,Month-to-month,101.45,101.45,Fiber optic,No,No,Electronic check
+3621-CEOVK,0.99,Yes,Critical Risk,14,Month-to-month,100.2,1369.8,Fiber optic,No,No,Electronic check
+2612-RRIDN,0.99,Yes,Critical Risk,4,Month-to-month,81.0,340.85,Fiber optic,No,No,Electronic check
+5884-GCYMI,0.99,Yes,Critical Risk,1,Month-to-month,69.4,69.4,Fiber optic,No,No,Mailed check
+2362-IBOOY,0.99,Yes,Critical Risk,36,Month-to-month,84.75,3050.15,Fiber optic,No,No,Electronic check
+5747-PMBSQ,0.99,Yes,Critical Risk,10,Month-to-month,92.5,934.1,Fiber optic,No,Yes,Mailed check
+1820-TQVEV,0.99,Yes,Critical Risk,1,Month-to-month,69.55,69.55,Fiber optic,No,No,Electronic check
+2082-CEFLT,0.99,Yes,Critical Risk,1,Month-to-month,45.6,45.6,DSL,No,No,Electronic check
+7153-OANIO,0.99,Yes,Critical Risk,1,Month-to-month,69.95,69.95,Fiber optic,No,No,Electronic check
+8752-STIVR,0.99,Yes,Critical Risk,4,Month-to-month,79.0,303.15,Fiber optic,No,No,Electronic check
+8580-AECUZ,0.99,Yes,Critical Risk,1,Month-to-month,79.1,79.1,Fiber optic,No,No,Electronic check
+1981-INRFU,0.99,Yes,Critical Risk,2,Month-to-month,79.75,164.5,Fiber optic,No,No,Electronic check
+6101-IMRMM,0.99,Yes,Critical Risk,6,Month-to-month,94.5,575.45,Fiber optic,No,No,Mailed check
+4795-KTRTH,0.99,Yes,Critical Risk,5,Month-to-month,81.0,371.65,Fiber optic,No,No,Electronic check
+3177-LASXD,0.99,Yes,Critical Risk,1,Month-to-month,71.35,71.35,Fiber optic,No,No,Electronic check
+2462-XIIJB,0.99,Yes,Critical Risk,5,Month-to-month,92.5,452.7,Fiber optic,No,No,Electronic check
+8305-VHZBZ,0.99,Yes,Critical Risk,1,Month-to-month,20.2,20.2,No,No internet service,No internet service,Mailed check
+9965-YOKZB,0.99,Yes,Critical Risk,9,Month-to-month,83.85,790.15,Fiber optic,No,No,Electronic check
+7450-NWRTR,0.99,Yes,Critical Risk,12,Month-to-month,99.45,1200.15,Fiber optic,No,No,Electronic check
+6437-UKHMV,0.99,Yes,Critical Risk,7,Month-to-month,79.7,586.05,Fiber optic,No,No,Electronic check
+9985-MWVIX,0.99,Yes,Critical Risk,1,Month-to-month,70.15,70.15,Fiber optic,No,No,Mailed check
+7321-PKUYW,0.99,Yes,Critical Risk,11,Month-to-month,90.15,987.95,Fiber optic,No,Yes,Electronic check
+5229-PRWKT,0.99,Yes,Critical Risk,8,Month-to-month,86.55,649.65,Fiber optic,No,No,Electronic check
+1618-CFHME,0.99,Yes,Critical Risk,2,Month-to-month,75.9,143.35,Fiber optic,No,No,Electronic check
+6379-RXJRQ,0.99,Yes,Critical Risk,10,Month-to-month,70.1,659.65,Fiber optic,No,No,Electronic check
+7503-ZGUZJ,0.99,Yes,Critical Risk,1,Month-to-month,84.65,84.65,Fiber optic,No,No,Mailed check
+4614-NUVZD,0.99,Yes,Critical Risk,1,Month-to-month,81.1,81.1,Fiber optic,No,No,Electronic check
+2619-WFQWU,0.99,Yes,Critical Risk,1,Month-to-month,70.15,70.15,Fiber optic,No,No,Mailed check
+5959-BELXA,0.99,Yes,Critical Risk,32,Month-to-month,96.15,3019.25,Fiber optic,No,No,Credit card (automatic)
+5685-IIXLY,0.99,Yes,Critical Risk,5,Month-to-month,83.6,404.2,Fiber optic,No,No,Electronic check
+5095-AESKG,0.99,Yes,Critical Risk,3,Month-to-month,91.5,242.95,Fiber optic,No,No,Credit card (automatic)
+7568-PODML,0.99,Yes,Critical Risk,1,Month-to-month,45.3,45.3,DSL,No,No,Mailed check
+0378-NHQXU,0.99,Yes,Critical Risk,17,Month-to-month,88.25,1460.65,Fiber optic,No,No,Electronic check
+3727-RJMEO,0.99,Yes,Critical Risk,6,Month-to-month,82.85,460.25,Fiber optic,No,No,Electronic check
+0404-SWRVG,0.99,Yes,Critical Risk,3,Month-to-month,74.4,229.55,Fiber optic,No,No,Electronic check
+4501-EQDRN,0.99,Yes,Critical Risk,1,Month-to-month,69.7,69.7,Fiber optic,No,No,Bank transfer (automatic)
+7839-QRKXN,0.989,Yes,Critical Risk,1,Month-to-month,20.2,20.2,No,No internet service,No internet service,Mailed check
+0151-ONTOV,0.9867,Yes,Critical Risk,1,Month-to-month,70.9,70.9,Fiber optic,No,No,Mailed check
+1195-OIYEJ,0.985,Yes,Critical Risk,13,Month-to-month,91.1,1135.7,Fiber optic,No,No,Electronic check
+8357-EQXFO,0.985,Yes,Critical Risk,7,Month-to-month,95.35,660.9,Fiber optic,No,No,Electronic check
+0897-FEGMU,0.985,Yes,Critical Risk,11,Month-to-month,99.5,1056.95,Fiber optic,No,No,Electronic check
+5293-WXJAK,0.985,Yes,Critical Risk,11,Month-to-month,104.05,1133.65,Fiber optic,No,Yes,Bank transfer (automatic)
+1751-NCDLI,0.985,Yes,Critical Risk,46,Month-to-month,98.85,4564.9,Fiber optic,No,No,Electronic check
+4951-UKAAQ,0.985,Yes,Critical Risk,4,Month-to-month,88.95,355.2,Fiber optic,No,No,Electronic check
+0564-JJHGS,0.985,Yes,Critical Risk,9,Month-to-month,95.5,829.1,Fiber optic,No,No,Electronic check
+0723-DRCLG,0.985,Yes,Critical Risk,1,Month-to-month,74.45,74.45,Fiber optic,No,No,Electronic check
+3834-XUIFC,0.985,Yes,Critical Risk,7,Month-to-month,85.2,602.55,Fiber optic,No,No,Mailed check
+2454-RPBRZ,0.985,Yes,Critical Risk,12,Month-to-month,98.1,1060.2,Fiber optic,No,No,Electronic check
+1501-SGHBW,0.985,Yes,Critical Risk,2,Month-to-month,45.85,81,DSL,No,No,Mailed check
+1724-BQUHA,0.985,Yes,Critical Risk,5,Month-to-month,89.5,477.7,Fiber optic,No,No,Electronic check
+9947-OTFQU,0.985,Yes,Critical Risk,15,Month-to-month,74.4,1074.3,Fiber optic,No,No,Electronic check
+5940-AHUHD,0.985,Yes,Critical Risk,1,Month-to-month,70.6,70.6,Fiber optic,No,No,Mailed check
+1624-WOIWJ,0.985,Yes,Critical Risk,10,Month-to-month,84.7,832.05,Fiber optic,Yes,No,Mailed check
+5567-WSELE,0.985,Yes,Critical Risk,3,Month-to-month,94.6,279.55,Fiber optic,No,No,Electronic check
+1658-BYGOY,0.985,Yes,Critical Risk,18,Month-to-month,95.45,1752.55,Fiber optic,No,No,Electronic check
+4826-XTSOH,0.985,Yes,Critical Risk,1,Month-to-month,86.05,86.05,Fiber optic,No,No,Electronic check
+7825-GKXMW,0.985,Yes,Critical Risk,1,Month-to-month,45.8,45.8,DSL,No,No,Electronic check
+5976-JCJRH,0.985,Yes,Critical Risk,10,Month-to-month,70.3,738.2,Fiber optic,No,No,Electronic check
+2645-QTLMB,0.985,Yes,Critical Risk,7,Month-to-month,94.25,669,Fiber optic,No,No,Electronic check
+8374-XGEJJ,0.985,Yes,Critical Risk,43,Month-to-month,101.0,4388.4,Fiber optic,No,No,Electronic check
+0812-WUPTB,0.985,Yes,Critical Risk,1,Month-to-month,70.85,70.85,Fiber optic,No,No,Mailed check
+6393-WRYZE,0.985,Yes,Critical Risk,34,Month-to-month,97.65,3207.55,Fiber optic,No,No,Electronic check
+6108-OQZDQ,0.985,Yes,Critical Risk,4,Month-to-month,97.95,384.5,Fiber optic,No,No,Electronic check
+6595-YGXIT,0.985,Yes,Critical Risk,25,Month-to-month,88.95,2291.2,Fiber optic,No,No,Electronic check
+3797-VTIDR,0.985,Yes,Critical Risk,1,Month-to-month,23.45,23.45,DSL,No,No,Electronic check
+5494-HECPR,0.985,Yes,Critical Risk,1,Month-to-month,80.25,80.25,Fiber optic,No,No,Electronic check
+9846-GKXAS,0.985,Yes,Critical Risk,9,Month-to-month,90.8,809.75,Fiber optic,No,No,Bank transfer (automatic)
+8510-AWCXC,0.985,Yes,Critical Risk,13,Month-to-month,100.8,1308.1,Fiber optic,Yes,No,Electronic check
+5349-IECLD,0.985,Yes,Critical Risk,2,Month-to-month,94.95,178.1,Fiber optic,No,No,Electronic check
+7341-LXCAF,0.985,Yes,Critical Risk,4,Month-to-month,74.65,301.4,Fiber optic,No,No,Electronic check
+7240-ETPTR,0.985,Yes,Critical Risk,9,Month-to-month,48.75,442.2,DSL,No,No,Electronic check
+5956-VKDTT,0.985,Yes,Critical Risk,5,Month-to-month,74.35,334.8,Fiber optic,No,No,Electronic check
+6029-WTIPC,0.985,Yes,Critical Risk,37,Month-to-month,101.1,3744.05,Fiber optic,No,No,Electronic check
+6298-QDFNH,0.985,Yes,Critical Risk,22,Month-to-month,79.35,1730.35,Fiber optic,No,No,Electronic check
+2154-KVJFF,0.985,Yes,Critical Risk,15,Month-to-month,79.75,1111.85,Fiber optic,No,No,Electronic check
+4514-GFCFI,0.985,Yes,Critical Risk,16,Month-to-month,84.75,1350.15,Fiber optic,No,No,Electronic check
+5502-RLUYV,0.985,Yes,Critical Risk,69,Month-to-month,103.95,7446.9,Fiber optic,No,No,Electronic check
+1062-LHZOD,0.985,Yes,Critical Risk,1,Month-to-month,69.9,69.9,Fiber optic,No,No,Mailed check
+2379-ENZGV,0.985,Yes,Critical Risk,6,Month-to-month,84.85,523.5,Fiber optic,No,No,Electronic check
+1455-UGQVH,0.985,Yes,Critical Risk,10,Month-to-month,98.5,1037.75,Fiber optic,No,No,Electronic check
+7908-QCBCA,0.985,Yes,Critical Risk,1,Month-to-month,69.4,69.4,Fiber optic,No,No,Mailed check
+6110-OHIHY,0.985,Yes,Critical Risk,3,Month-to-month,79.25,267.6,Fiber optic,No,No,Electronic check
+2737-YNGYW,0.985,Yes,Critical Risk,2,Month-to-month,80.55,184.1,Fiber optic,No,No,Electronic check
+9317-WZPGV,0.985,Yes,Critical Risk,2,Month-to-month,79.75,159.4,Fiber optic,No,No,Bank transfer (automatic)
+1031-IIDEO,0.985,Yes,Critical Risk,1,Month-to-month,70.85,70.85,Fiber optic,No,No,Electronic check
+4285-GYRQC,0.985,Yes,Critical Risk,7,Month-to-month,86.25,587.1,Fiber optic,No,No,Electronic check
+4529-CKBCL,0.985,Yes,Critical Risk,2,Month-to-month,80.2,146.05,Fiber optic,No,No,Electronic check
+5364-EVNIB,0.985,Yes,Critical Risk,13,Month-to-month,79.8,973.45,Fiber optic,No,No,Electronic check
+2867-UIMSS,0.985,Yes,Critical Risk,1,Month-to-month,80.5,80.5,Fiber optic,No,No,Electronic check
+3683-QKIUE,0.985,Yes,Critical Risk,6,Month-to-month,50.8,288.05,DSL,No,Yes,Bank transfer (automatic)
+5564-NEMQO,0.985,Yes,Critical Risk,1,Month-to-month,75.3,75.3,Fiber optic,No,No,Bank transfer (automatic)
+8775-LHDJH,0.985,Yes,Critical Risk,1,Month-to-month,90.6,90.6,Fiber optic,No,No,Electronic check
+0818-OCPZO,0.985,Yes,Critical Risk,27,Month-to-month,81.45,2122.05,Fiber optic,No,No,Electronic check
+9546-CQJSU,0.985,Yes,Critical Risk,2,Month-to-month,91.4,193.6,Fiber optic,No,No,Electronic check
+7394-FKDNK,0.985,Yes,Critical Risk,9,Month-to-month,89.45,853.1,Fiber optic,No,No,Electronic check
+1907-UBQFC,0.985,Yes,Critical Risk,10,Month-to-month,72.85,688.65,Fiber optic,No,No,Electronic check
+2344-JMOGN,0.985,Yes,Critical Risk,9,Month-to-month,94.85,890.6,Fiber optic,No,Yes,Mailed check
+8433-WXGNA,0.985,Yes,Critical Risk,2,Month-to-month,75.7,189.2,Fiber optic,Yes,No,Electronic check
+4572-DVCGN,0.985,Yes,Critical Risk,10,Month-to-month,80.25,846,Fiber optic,No,No,Bank transfer (automatic)
+9117-SHLZX,0.985,Yes,Critical Risk,1,Month-to-month,45.7,45.7,DSL,No,No,Mailed check
+7074-IEVOJ,0.985,Yes,Critical Risk,3,Month-to-month,79.4,205.05,Fiber optic,No,No,Electronic check
+4315-MURBD,0.985,Yes,Critical Risk,12,Month-to-month,98.9,1120.95,Fiber optic,Yes,Yes,Bank transfer (automatic)
+2656-FMOKZ,0.985,Yes,Critical Risk,15,Month-to-month,74.45,1145.7,Fiber optic,No,No,Mailed check
+3389-YGYAI,0.985,Yes,Critical Risk,8,Month-to-month,105.5,829.55,Fiber optic,No,No,Electronic check
+5380-AFSSK,0.985,Yes,Critical Risk,5,Month-to-month,93.9,486.85,Fiber optic,No,No,Mailed check
+6683-VLCTZ,0.985,Yes,Critical Risk,20,Month-to-month,98.55,1842.8,Fiber optic,No,No,Electronic check
+3074-GQWYX,0.985,Yes,Critical Risk,5,Month-to-month,75.9,357.75,Fiber optic,No,No,Bank transfer (automatic)
+9223-UCPVT,0.985,Yes,Critical Risk,1,Month-to-month,94.4,94.4,Fiber optic,No,No,Electronic check
+0887-HJGAR,0.985,Yes,Critical Risk,1,Month-to-month,45.7,45.7,DSL,No,No,Mailed check
+1678-FYZOW,0.985,Yes,Critical Risk,3,Month-to-month,79.4,244.65,Fiber optic,No,No,Electronic check
+2055-PDADH,0.985,Yes,Critical Risk,3,Month-to-month,70.4,204.7,Fiber optic,No,No,Electronic check
+1086-LXKFY,0.985,Yes,Critical Risk,1,Month-to-month,69.1,69.1,Fiber optic,No,No,Mailed check
+9885-CSMWE,0.985,Yes,Critical Risk,1,Month-to-month,78.45,78.45,Fiber optic,No,No,Electronic check
+8058-JMEQO,0.985,Yes,Critical Risk,9,Month-to-month,84.45,762.5,Fiber optic,No,No,Electronic check
+4822-NGOCH,0.985,Yes,Critical Risk,13,Month-to-month,84.45,1058.6,Fiber optic,No,No,Electronic check
+9172-ANCRX,0.985,Yes,Critical Risk,10,Month-to-month,98.7,973.25,Fiber optic,Yes,No,Electronic check
+7892-POOKP,0.985,Yes,Critical Risk,28,Month-to-month,104.8,3046.05,Fiber optic,No,Yes,Electronic check
+3494-JCHRQ,0.985,Yes,Critical Risk,1,Month-to-month,70.05,70.05,Fiber optic,No,No,Electronic check
+4210-QFJMF,0.985,Yes,Critical Risk,4,Month-to-month,79.15,317.25,Fiber optic,No,No,Electronic check
+3198-VELRD,0.985,Yes,Critical Risk,3,Month-to-month,84.75,264.85,Fiber optic,No,No,Bank transfer (automatic)
+8382-SHQEH,0.985,Yes,Critical Risk,8,Month-to-month,84.9,764.95,Fiber optic,No,No,Electronic check
+5940-NFXKV,0.985,Yes,Critical Risk,19,Month-to-month,83.65,1465.75,Fiber optic,No,No,Electronic check
+3049-NDXFL,0.985,Yes,Critical Risk,1,Month-to-month,85.8,85.8,Fiber optic,No,No,Mailed check
+6015-VVHHE,0.98,Yes,Critical Risk,5,Month-to-month,83.15,446.05,Fiber optic,No,No,Credit card (automatic)
+2516-VQRRV,0.98,Yes,Critical Risk,2,Month-to-month,75.45,158.4,Fiber optic,No,No,Mailed check
+5569-KGJHX,0.98,Yes,Critical Risk,9,Month-to-month,85.35,754.65,Fiber optic,No,No,Bank transfer (automatic)
+7576-OYWBN,0.98,Yes,Critical Risk,3,Month-to-month,76.05,231.8,Fiber optic,No,No,Electronic check
+2642-DTVCO,0.98,Yes,Critical Risk,9,Month-to-month,85.05,746.5,Fiber optic,No,No,Electronic check
+2026-TGDHM,0.98,Yes,Critical Risk,7,Month-to-month,79.3,523.15,Fiber optic,No,No,Electronic check
+3387-VATUS,0.98,Yes,Critical Risk,5,Month-to-month,94.85,462.8,Fiber optic,No,No,Bank transfer (automatic)
+9253-QXKBE,0.98,Yes,Critical Risk,29,Month-to-month,94.45,2653.65,Fiber optic,No,No,Electronic check
+4958-XCBDQ,0.98,Yes,Critical Risk,35,Month-to-month,101.4,3496.3,Fiber optic,No,No,Electronic check
+0219-YTZUE,0.98,Yes,Critical Risk,4,Month-to-month,84.8,371.9,Fiber optic,No,No,Bank transfer (automatic)
+6688-UZPWD,0.98,Yes,Critical Risk,11,Month-to-month,102.0,1145.35,Fiber optic,No,No,Electronic check
+5804-LEPIM,0.98,Yes,Critical Risk,2,Month-to-month,70.35,139.05,Fiber optic,No,No,Electronic check
+4626-GYCZP,0.98,Yes,Critical Risk,7,Month-to-month,93.85,635.6,Fiber optic,No,No,Electronic check
+5077-DXTCG,0.98,Yes,Critical Risk,1,Month-to-month,45.3,45.3,DSL,No,No,Electronic check
+2990-HWIML,0.98,Yes,Critical Risk,6,Month-to-month,89.5,573.3,Fiber optic,No,No,Electronic check
+1565-RHDJD,0.98,Yes,Critical Risk,4,Month-to-month,84.05,333.55,Fiber optic,No,No,Bank transfer (automatic)
+9330-IJWIO,0.98,Yes,Critical Risk,13,Month-to-month,100.35,1358.85,Fiber optic,Yes,No,Electronic check
+3902-FOIGH,0.98,Yes,Critical Risk,12,Month-to-month,101.35,1218.55,Fiber optic,No,No,Electronic check
+7693-LCKZL,0.98,Yes,Critical Risk,5,Month-to-month,80.15,385,Fiber optic,No,No,Electronic check
+7779-LGOVN,0.98,Yes,Critical Risk,10,Month-to-month,86.65,856.65,Fiber optic,No,No,Electronic check
+9436-ZBZCT,0.98,Yes,Critical Risk,14,Month-to-month,89.95,1178.4,Fiber optic,No,Yes,Electronic check
+6275-YDUVO,0.98,Yes,Critical Risk,2,Month-to-month,86.2,178.7,Fiber optic,No,No,Mailed check
+4423-YLHDV,0.98,Yes,Critical Risk,21,Month-to-month,104.4,2200.25,Fiber optic,Yes,No,Bank transfer (automatic)
+4290-BSXUX,0.98,Yes,Critical Risk,3,Month-to-month,79.65,251.75,Fiber optic,No,Yes,Bank transfer (automatic)
+0940-OUQEC,0.98,Yes,Critical Risk,10,Month-to-month,80.7,788.8,Fiber optic,No,No,Bank transfer (automatic)
+5896-NPFWW,0.98,Yes,Critical Risk,3,Month-to-month,50.15,168.15,DSL,No,No,Electronic check
+5134-IKDAY,0.98,Yes,Critical Risk,1,Month-to-month,69.8,69.8,Fiber optic,No,No,Electronic check
+7270-BDIOA,0.98,Yes,Critical Risk,22,Month-to-month,90.0,1993.8,Fiber optic,No,Yes,Electronic check
+8816-VXNZD,0.98,Yes,Critical Risk,1,Month-to-month,75.1,75.1,Fiber optic,No,No,Electronic check
+7594-RQHXR,0.98,Yes,Critical Risk,1,Month-to-month,79.6,79.6,Fiber optic,No,No,Electronic check
+2074-GKOWZ,0.98,Yes,Critical Risk,2,Month-to-month,89.55,185.55,Fiber optic,No,No,Bank transfer (automatic)
+7295-JOMMD,0.98,Yes,Critical Risk,4,Month-to-month,98.1,396.3,Fiber optic,No,Yes,Bank transfer (automatic)
+6140-QNRQQ,0.98,Yes,Critical Risk,1,Month-to-month,71.55,71.55,Fiber optic,No,No,Mailed check
+6005-OBZPH,0.98,Yes,Critical Risk,26,Month-to-month,89.15,2277.65,Fiber optic,No,No,Electronic check
+3398-FSHON,0.98,Yes,Critical Risk,12,Month-to-month,91.3,1094.5,Fiber optic,No,No,Electronic check
+9837-BMCLM,0.98,Yes,Critical Risk,3,Month-to-month,78.5,242.05,Fiber optic,No,No,Electronic check
+8065-YKXKD,0.98,Yes,Critical Risk,10,Month-to-month,74.75,799.65,Fiber optic,No,No,Electronic check
+0023-HGHWL,0.98,Yes,Critical Risk,1,Month-to-month,25.1,25.1,DSL,No,No,Electronic check
+3178-FESZO,0.98,Yes,Critical Risk,1,Month-to-month,100.25,100.25,Fiber optic,No,No,Credit card (automatic)
+8922-LIEGH,0.98,Yes,Critical Risk,25,Month-to-month,89.7,2187.55,Fiber optic,No,No,Electronic check
+7089-IVVAZ,0.98,Yes,Critical Risk,8,Month-to-month,103.35,847.3,Fiber optic,Yes,Yes,Bank transfer (automatic)
+9601-BRXPO,0.98,Yes,Critical Risk,25,Month-to-month,104.95,2566.5,Fiber optic,No,Yes,Bank transfer (automatic)
+7028-DVOIQ,0.98,Yes,Critical Risk,35,Month-to-month,99.05,3395.8,Fiber optic,No,No,Electronic check
+3871-IKPYH,0.98,Yes,Critical Risk,1,Month-to-month,69.1,69.1,Fiber optic,No,No,Electronic check
+7142-HVGBG,0.98,Yes,Critical Risk,43,Month-to-month,103.0,4414.3,Fiber optic,No,No,Electronic check
+5519-NPHVG,0.98,Yes,Critical Risk,12,Month-to-month,94.2,1046.1,Fiber optic,No,No,Electronic check
+7538-GWHML,0.98,Yes,Critical Risk,2,Month-to-month,69.65,145.15,Fiber optic,No,No,Electronic check
+2024-BASKD,0.98,Yes,Critical Risk,1,Month-to-month,74.6,74.6,Fiber optic,No,No,Mailed check
+5175-AOBHI,0.98,Yes,Critical Risk,4,Month-to-month,46.0,193.6,DSL,No,No,Mailed check
+2446-BEGGB,0.98,Yes,Critical Risk,6,Month-to-month,98.25,560.6,Fiber optic,No,No,Electronic check
+8263-JQAIK,0.98,Yes,Critical Risk,2,Month-to-month,24.45,47.5,DSL,No,No,Mailed check
+4822-YCXMX,0.98,Yes,Critical Risk,25,Month-to-month,84.8,2043.45,Fiber optic,No,No,Electronic check
+9944-HKVVB,0.98,Yes,Critical Risk,3,Month-to-month,95.1,307.4,Fiber optic,No,No,Electronic check
+5054-IEXZT,0.98,Yes,Critical Risk,1,Month-to-month,75.35,75.35,Fiber optic,No,No,Electronic check
+9282-IZGQK,0.98,Yes,Critical Risk,1,Month-to-month,85.0,85,Fiber optic,No,No,Electronic check
+3934-HXCFZ,0.98,Yes,Critical Risk,23,Month-to-month,99.25,2186.4,Fiber optic,Yes,No,Electronic check
+7511-YMXVQ,0.98,Yes,Critical Risk,9,Month-to-month,45.4,418.8,DSL,No,No,Electronic check
+4897-QSUYC,0.979,Yes,Critical Risk,1,Month-to-month,20.15,20.15,No,No internet service,No internet service,Mailed check
+0519-XUZJU,0.9767,Yes,Critical Risk,1,Month-to-month,70.75,70.75,Fiber optic,No,No,Mailed check
+4800-VHZKI,0.9751,Yes,Critical Risk,1,Month-to-month,19.9,19.9,No,No internet service,No internet service,Mailed check
+1866-RZZQS,0.975,Yes,Critical Risk,41,Month-to-month,98.4,4187.75,Fiber optic,No,No,Electronic check
+3165-HDOEW,0.975,Yes,Critical Risk,1,Month-to-month,45.85,45.85,DSL,No,No,Mailed check
+4817-QRJSX,0.975,Yes,Critical Risk,10,Month-to-month,81.0,818.05,Fiber optic,No,No,Credit card (automatic)
+1579-KLYDT,0.975,Yes,Critical Risk,7,Month-to-month,90.45,593.45,Fiber optic,No,No,Electronic check
+2612-RANWT,0.975,Yes,Critical Risk,12,Month-to-month,100.15,1164.3,Fiber optic,No,No,Bank transfer (automatic)
+6017-PPLPX,0.975,Yes,Critical Risk,20,Month-to-month,70.45,1470.95,Fiber optic,No,No,Electronic check
+9026-RNUJS,0.975,Yes,Critical Risk,5,Month-to-month,50.35,237.25,DSL,No,No,Electronic check
+5519-YLDGW,0.975,Yes,Critical Risk,21,Month-to-month,103.9,2254.2,Fiber optic,Yes,No,Electronic check
+5919-TMRGD,0.975,Yes,Critical Risk,1,Month-to-month,79.35,79.35,Fiber optic,No,No,Electronic check
+8999-BOHSE,0.975,Yes,Critical Risk,11,Month-to-month,89.7,1047.7,Fiber optic,No,No,Bank transfer (automatic)
+7881-INRLC,0.975,Yes,Critical Risk,45,Month-to-month,100.85,4740,Fiber optic,No,No,Credit card (automatic)
+7760-OYPDY,0.975,Yes,Critical Risk,2,Month-to-month,80.65,144.15,Fiber optic,No,No,Electronic check
+2685-SREOM,0.975,Yes,Critical Risk,25,Month-to-month,89.1,2368.4,Fiber optic,No,No,Electronic check
+6221-AVQYL,0.975,Yes,Critical Risk,2,Month-to-month,73.25,131.05,Fiber optic,No,No,Credit card (automatic)
+8276-MQBYC,0.975,Yes,Critical Risk,51,Month-to-month,97.8,4913.3,Fiber optic,No,No,Electronic check
+4090-KPJIP,0.975,Yes,Critical Risk,3,Month-to-month,74.95,212.4,Fiber optic,No,No,Electronic check
+6168-WFVVF,0.975,Yes,Critical Risk,3,Month-to-month,70.3,235.5,Fiber optic,No,No,Electronic check
+4763-PGDPO,0.975,Yes,Critical Risk,4,Month-to-month,70.4,281,Fiber optic,No,No,Electronic check
+1213-NGCUN,0.975,Yes,Critical Risk,6,Month-to-month,49.65,267.35,DSL,No,Yes,Bank transfer (automatic)
+2528-HFYZX,0.975,Yes,Critical Risk,17,Month-to-month,76.45,1233.4,Fiber optic,No,No,Electronic check
+9231-ZJYAM,0.975,Yes,Critical Risk,4,Month-to-month,78.85,292.8,Fiber optic,No,No,Electronic check
+6996-KNSML,0.975,Yes,Critical Risk,1,Month-to-month,74.9,74.9,Fiber optic,No,No,Electronic check
+5192-EBGOV,0.975,Yes,Critical Risk,1,Month-to-month,85.7,85.7,Fiber optic,No,No,Electronic check
+2359-KMGLI,0.975,Yes,Critical Risk,24,Month-to-month,80.25,1861.5,Fiber optic,No,No,Electronic check
+0947-MUGVO,0.975,Yes,Critical Risk,20,Month-to-month,73.65,1463.5,Fiber optic,No,No,Electronic check
+6960-HVYXR,0.975,Yes,Critical Risk,1,Month-to-month,76.0,76,Fiber optic,No,No,Electronic check
+1925-TIBLE,0.975,Yes,Critical Risk,7,Month-to-month,86.5,582.5,Fiber optic,No,No,Electronic check
+0872-NXJYS,0.975,Yes,Critical Risk,9,Month-to-month,79.55,723.4,Fiber optic,No,No,Electronic check
+2952-QAYZF,0.975,Yes,Critical Risk,5,Month-to-month,85.3,424.15,Fiber optic,No,No,Electronic check
+1976-CFOCS,0.975,Yes,Critical Risk,1,Month-to-month,46.0,46,DSL,No,No,Electronic check
+8481-YYXWG,0.975,Yes,Critical Risk,5,Month-to-month,89.35,461.7,Fiber optic,No,Yes,Electronic check
+5597-GLBUC,0.975,Yes,Critical Risk,1,Month-to-month,85.45,85.45,Fiber optic,No,No,Electronic check
+1010-DIAUQ,0.975,Yes,Critical Risk,5,Month-to-month,96.5,492.55,Fiber optic,No,No,Bank transfer (automatic)
+0013-EXCHZ,0.975,Yes,Critical Risk,3,Month-to-month,83.9,267.4,Fiber optic,No,Yes,Mailed check
+9190-MFJLN,0.975,Yes,Critical Risk,19,Month-to-month,95.9,1777.9,Fiber optic,No,No,Credit card (automatic)
+8010-EZLOU,0.975,Yes,Critical Risk,15,Month-to-month,80.2,1217.25,Fiber optic,No,No,Electronic check
+6356-ELRKD,0.975,Yes,Critical Risk,1,Month-to-month,95.6,95.6,Fiber optic,Yes,No,Electronic check
+2013-SGDXK,0.975,Yes,Critical Risk,1,Month-to-month,84.3,84.3,Fiber optic,No,No,Electronic check
+7615-ESMYF,0.975,Yes,Critical Risk,2,Month-to-month,44.6,97.1,DSL,No,No,Electronic check
+3685-YLCMQ,0.975,Yes,Critical Risk,58,One year,104.65,6219.6,Fiber optic,No,Yes,Electronic check
+5445-UTODQ,0.975,Yes,Critical Risk,7,Month-to-month,81.1,576.65,Fiber optic,No,No,Electronic check
+2962-XPMCQ,0.975,Yes,Critical Risk,2,Month-to-month,45.15,98.5,DSL,No,No,Electronic check
+3765-JXVKY,0.975,Yes,Critical Risk,1,Month-to-month,74.7,74.7,Fiber optic,No,No,Electronic check
+4816-LXZYW,0.975,Yes,Critical Risk,23,Month-to-month,79.15,1676.95,Fiber optic,No,No,Electronic check
+1564-NTYXF,0.975,Yes,Critical Risk,13,Month-to-month,82.0,1127.2,Fiber optic,No,No,Electronic check
+3376-BMGFE,0.975,Yes,Critical Risk,4,Month-to-month,70.9,273,Fiber optic,No,No,Bank transfer (automatic)
+4236-XPXAV,0.975,Yes,Critical Risk,5,Month-to-month,99.15,465.05,Fiber optic,No,Yes,Mailed check
+9191-MYQKX,0.975,Yes,Critical Risk,7,Month-to-month,75.15,496.9,Fiber optic,No,No,Bank transfer (automatic)
+5624-BQSSA,0.9727,Yes,Critical Risk,1,Month-to-month,20.95,20.95,No,No internet service,No internet service,Mailed check
+2472-OVKUP,0.97,Yes,Critical Risk,6,Month-to-month,91.0,531,Fiber optic,No,No,Electronic check
+5299-RULOA,0.97,Yes,Critical Risk,10,Month-to-month,100.25,1064.65,Fiber optic,Yes,No,Electronic check
+7825-ECJRF,0.97,Yes,Critical Risk,19,Month-to-month,106.6,1934.45,Fiber optic,Yes,Yes,Electronic check
+1875-QIVME,0.97,Yes,Critical Risk,2,Month-to-month,104.4,242.8,Fiber optic,No,Yes,Electronic check
+2232-DMLXU,0.97,Yes,Critical Risk,1,Month-to-month,55.2,55.2,DSL,No,No,Mailed check
+7234-FECYN,0.97,Yes,Critical Risk,8,Month-to-month,101.35,780.5,Fiber optic,No,No,Electronic check
+0772-GYEQQ,0.97,Yes,Critical Risk,3,Month-to-month,88.35,262.05,Fiber optic,No,Yes,Mailed check
+2265-CYWIV,0.97,Yes,Critical Risk,4,Month-to-month,99.6,347.65,Fiber optic,Yes,No,Electronic check
+2672-HUYVI,0.97,Yes,Critical Risk,6,Month-to-month,91.1,455.3,Fiber optic,No,No,Electronic check
+7508-MYBOG,0.97,Yes,Critical Risk,14,Month-to-month,86.1,1235.55,Fiber optic,No,No,Electronic check
+6496-SLWHQ,0.97,Yes,Critical Risk,3,Month-to-month,105.0,294.45,Fiber optic,No,No,Electronic check
+4445-ZJNMU,0.97,Yes,Critical Risk,9,Month-to-month,99.3,918.75,Fiber optic,No,No,Credit card (automatic)
+4013-TLDHQ,0.97,Yes,Critical Risk,19,Month-to-month,78.25,1490.95,Fiber optic,No,No,Electronic check
+4145-UQXUQ,0.97,Yes,Critical Risk,8,Month-to-month,92.1,729.95,Fiber optic,No,No,Electronic check
+8854-CCVSQ,0.97,Yes,Critical Risk,18,Month-to-month,80.65,1451.9,Fiber optic,No,No,Electronic check
+5442-BHQNG,0.97,Yes,Critical Risk,2,Month-to-month,70.35,139.25,Fiber optic,No,No,Electronic check
+3320-VEOYC,0.97,Yes,Critical Risk,14,Month-to-month,95.6,1273.3,Fiber optic,No,No,Electronic check
+8943-URTMR,0.97,Yes,Critical Risk,2,Month-to-month,79.65,152.7,Fiber optic,No,No,Mailed check
+1589-AGTLK,0.97,Yes,Critical Risk,3,Month-to-month,45.35,141.5,DSL,No,No,Electronic check
+5729-KLZAR,0.97,Yes,Critical Risk,4,Month-to-month,80.85,302.75,Fiber optic,No,No,Electronic check
+7969-AULMZ,0.97,Yes,Critical Risk,21,Month-to-month,97.35,2119.5,Fiber optic,No,No,Electronic check
+1069-XAIEM,0.97,Yes,Critical Risk,1,Month-to-month,85.05,85.05,Fiber optic,No,No,Electronic check
+9514-JDSKI,0.97,Yes,Critical Risk,1,Month-to-month,40.2,40.2,DSL,No,No,Electronic check
+8784-CGILN,0.97,Yes,Critical Risk,18,Month-to-month,99.85,1776.95,Fiber optic,No,Yes,Bank transfer (automatic)
+7379-POKDZ,0.97,Yes,Critical Risk,3,Month-to-month,70.3,208.85,Fiber optic,No,No,Electronic check
+0655-RBDUG,0.97,Yes,Critical Risk,7,Month-to-month,98.05,713,Fiber optic,No,No,Bank transfer (automatic)
+3753-TSEMP,0.97,Yes,Critical Risk,15,Month-to-month,88.15,1390.6,Fiber optic,No,No,Electronic check
+8258-GSTJK,0.97,Yes,Critical Risk,3,Month-to-month,77.0,237.75,Fiber optic,No,No,Electronic check
+8519-IMDHU,0.97,Yes,Critical Risk,15,Month-to-month,85.6,1345.55,Fiber optic,No,No,Bank transfer (automatic)
+3643-AHCFP,0.97,Yes,Critical Risk,7,Month-to-month,95.6,644.35,Fiber optic,No,No,Bank transfer (automatic)
+1977-STDKI,0.97,Yes,Critical Risk,1,Month-to-month,73.0,73,Fiber optic,No,No,Electronic check
+1389-CXMLU,0.97,Yes,Critical Risk,3,Month-to-month,91.05,289.1,Fiber optic,No,No,Electronic check
+6390-DSAZX,0.97,Yes,Critical Risk,1,Month-to-month,73.6,73.6,Fiber optic,Yes,No,Mailed check
+2272-QAGFO,0.97,Yes,Critical Risk,14,Month-to-month,74.3,1096.25,Fiber optic,No,No,Electronic check
+5561-NWEVX,0.97,Yes,Critical Risk,2,Month-to-month,79.2,172.85,Fiber optic,No,No,Electronic check
+9444-JTXHZ,0.97,Yes,Critical Risk,1,Month-to-month,76.2,76.2,Fiber optic,No,No,Electronic check
+2983-ZANRP,0.97,Yes,Critical Risk,2,Month-to-month,73.55,145.4,Fiber optic,No,No,Bank transfer (automatic)
+3372-KWFBM,0.97,Yes,Critical Risk,16,Month-to-month,86.6,1281,Fiber optic,No,No,Electronic check
+1262-OPMFY,0.97,Yes,Critical Risk,9,Month-to-month,75.75,655.9,Fiber optic,No,No,Bank transfer (automatic)
+2608-BHKFN,0.97,Yes,Critical Risk,4,Month-to-month,70.05,266.9,Fiber optic,No,No,Credit card (automatic)
+4759-TRPLW,0.97,Yes,Critical Risk,1,Month-to-month,70.4,70.4,Fiber optic,No,No,Electronic check
+7156-MHUGY,0.97,Yes,Critical Risk,13,Month-to-month,90.5,1201.15,Fiber optic,No,No,Electronic check
+8051-HJRLT,0.97,Yes,Critical Risk,1,Month-to-month,70.55,70.55,Fiber optic,No,No,Electronic check
+5931-FLJJF,0.97,Yes,Critical Risk,7,Month-to-month,70.1,467.55,Fiber optic,No,No,Mailed check
+5712-PTIWW,0.97,Yes,Critical Risk,2,Month-to-month,79.85,152.45,Fiber optic,No,Yes,Electronic check
+2506-CLAKW,0.97,Yes,Critical Risk,6,Month-to-month,98.15,567.45,Fiber optic,Yes,Yes,Bank transfer (automatic)
+3097-NQYSN,0.97,Yes,Critical Risk,2,Month-to-month,86.85,156.35,Fiber optic,No,No,Mailed check
+2683-BPJSO,0.97,Yes,Critical Risk,29,Month-to-month,84.45,2467.1,Fiber optic,Yes,No,Electronic check
+0515-YPMCW,0.97,Yes,Critical Risk,1,Month-to-month,70.45,70.45,Fiber optic,No,No,Mailed check
+7783-YKGDV,0.97,Yes,Critical Risk,12,Month-to-month,99.7,1238.45,Fiber optic,Yes,No,Bank transfer (automatic)
+2873-ZLIWT,0.97,Yes,Critical Risk,40,Month-to-month,84.85,3303.05,Fiber optic,No,Yes,Electronic check
+3793-MMFUH,0.97,Yes,Critical Risk,13,Month-to-month,95.05,1290,Fiber optic,No,No,Electronic check
+0094-OIFMO,0.97,Yes,Critical Risk,11,Month-to-month,95.0,1120.3,Fiber optic,No,No,Electronic check
+4816-JBHOV,0.97,Yes,Critical Risk,2,Month-to-month,44.7,93.7,DSL,No,No,Electronic check
+4112-LUEIZ,0.97,Yes,Critical Risk,10,Month-to-month,89.5,863.1,Fiber optic,No,No,Electronic check
+3801-HMYNL,0.97,Yes,Critical Risk,1,Month-to-month,89.15,89.15,Fiber optic,No,No,Mailed check
+2545-EBUPK,0.97,Yes,Critical Risk,2,Month-to-month,84.05,186.05,Fiber optic,No,No,Electronic check
+2609-IAICY,0.97,Yes,Critical Risk,1,Month-to-month,77.15,77.15,Fiber optic,No,No,Electronic check
+7547-EKNFS,0.97,Yes,Critical Risk,42,Month-to-month,95.25,3959.35,Fiber optic,No,No,Bank transfer (automatic)
+8111-RKSPX,0.97,Yes,Critical Risk,4,Month-to-month,72.2,305.55,Fiber optic,No,No,Bank transfer (automatic)
+3106-ULWFW,0.97,Yes,Critical Risk,8,Month-to-month,85.2,627.4,Fiber optic,No,No,Credit card (automatic)
+0684-AOSIH,0.97,Yes,Critical Risk,1,Month-to-month,95.0,95,Fiber optic,Yes,No,Electronic check
+6861-XWTWQ,0.97,Yes,Critical Risk,7,Month-to-month,99.25,665.45,Fiber optic,No,No,Electronic check
+6877-TJMBR,0.97,Yes,Critical Risk,1,Month-to-month,84.8,84.8,Fiber optic,No,Yes,Electronic check
+1455-ESIQH,0.97,Yes,Critical Risk,1,Month-to-month,89.1,89.1,Fiber optic,No,No,Electronic check
+4349-GFQHK,0.97,Yes,Critical Risk,1,Month-to-month,54.35,54.35,DSL,No,No,Electronic check
+1833-VGRUM,0.97,Yes,Critical Risk,1,Month-to-month,74.2,74.2,Fiber optic,No,No,Electronic check
+2868-SNELZ,0.9688,Yes,Critical Risk,2,Month-to-month,80.6,155.8,Fiber optic,No,No,Mailed check
+0148-DCDOS,0.965,Yes,Critical Risk,25,Month-to-month,94.7,2362.1,Fiber optic,No,No,Bank transfer (automatic)
+8290-YWKHZ,0.965,Yes,Critical Risk,32,Month-to-month,93.2,2931,Fiber optic,No,No,Electronic check
+3440-JPSCL,0.965,Yes,Critical Risk,6,Month-to-month,99.95,547.65,Fiber optic,No,Yes,Mailed check
+7599-FKVXZ,0.965,Yes,Critical Risk,42,Month-to-month,106.15,4512.7,Fiber optic,No,Yes,Bank transfer (automatic)
+4385-GZQXV,0.965,Yes,Critical Risk,16,Month-to-month,94.45,1511.2,Fiber optic,No,Yes,Electronic check
+5583-SXDAG,0.965,Yes,Critical Risk,1,Month-to-month,70.0,70,Fiber optic,No,No,Electronic check
+6100-QQHEB,0.965,Yes,Critical Risk,17,Month-to-month,92.55,1515.1,Fiber optic,No,No,Electronic check
+0637-KVDLV,0.965,Yes,Critical Risk,2,Month-to-month,76.5,162.45,Fiber optic,No,No,Electronic check
+6326-MTTXK,0.965,Yes,Critical Risk,8,Month-to-month,100.85,819.55,Fiber optic,No,No,Electronic check
+5204-QZXPU,0.965,Yes,Critical Risk,19,Month-to-month,39.65,733.35,DSL,No,No,Electronic check
+2737-WFVYW,0.965,Yes,Critical Risk,2,Month-to-month,45.25,85.5,DSL,No,No,Electronic check
+0345-HKJVM,0.965,Yes,Critical Risk,6,Month-to-month,89.3,577.6,Fiber optic,No,No,Electronic check
+3235-ETOOB,0.965,Yes,Critical Risk,8,Month-to-month,74.5,609.9,Fiber optic,Yes,No,Electronic check
+9961-JBNMK,0.965,Yes,Critical Risk,21,Month-to-month,96.8,2030.3,Fiber optic,No,No,Bank transfer (automatic)
+5196-SGOAK,0.965,Yes,Critical Risk,1,Month-to-month,75.7,75.7,Fiber optic,No,No,Electronic check
+1143-NMNQJ,0.965,Yes,Critical Risk,2,Month-to-month,85.7,169.8,Fiber optic,No,No,Electronic check
+8878-HMWBV,0.965,Yes,Critical Risk,3,Month-to-month,49.15,169.05,DSL,No,No,Electronic check
+8086-OVPWV,0.965,Yes,Critical Risk,2,Month-to-month,80.2,181.1,Fiber optic,No,No,Electronic check
+0947-IDHRQ,0.965,Yes,Critical Risk,7,Month-to-month,80.3,526.7,Fiber optic,No,No,Mailed check
+7598-UAASY,0.965,Yes,Critical Risk,2,Month-to-month,76.4,151.8,Fiber optic,No,No,Electronic check
+0135-NMXAP,0.965,Yes,Critical Risk,12,Month-to-month,89.75,1052.4,Fiber optic,No,No,Bank transfer (automatic)
+1415-YFWLT,0.965,Yes,Critical Risk,1,Month-to-month,89.3,89.3,Fiber optic,No,No,Electronic check
+6993-OHLXR,0.965,Yes,Critical Risk,2,Month-to-month,68.95,119.75,Fiber optic,No,No,Electronic check
+0378-TOVMS,0.965,Yes,Critical Risk,3,Month-to-month,85.8,272.2,Fiber optic,No,Yes,Electronic check
+9430-FRQOC,0.965,Yes,Critical Risk,4,Month-to-month,87.1,341.45,Fiber optic,No,Yes,Mailed check
+5364-XYIRR,0.965,Yes,Critical Risk,51,Month-to-month,94.65,4812.75,Fiber optic,No,No,Electronic check
+1602-IJQQE,0.965,Yes,Critical Risk,4,Month-to-month,75.35,338.1,Fiber optic,No,No,Electronic check
+1268-ASBGA,0.965,Yes,Critical Risk,16,Month-to-month,85.35,1375.15,Fiber optic,No,No,Credit card (automatic)
+2276-YDAVZ,0.965,Yes,Critical Risk,3,Month-to-month,75.1,270.7,Fiber optic,No,No,Credit card (automatic)
+4581-SSPWD,0.965,Yes,Critical Risk,3,Month-to-month,75.8,246.3,Fiber optic,No,No,Electronic check
+9912-GVSEQ,0.965,Yes,Critical Risk,26,Month-to-month,93.85,2381.55,Fiber optic,No,No,Electronic check
+0754-UKWQP,0.965,Yes,Critical Risk,2,Month-to-month,95.85,197.7,Fiber optic,No,No,Electronic check
+8443-WVPSS,0.965,Yes,Critical Risk,10,Month-to-month,99.85,990.9,Fiber optic,No,Yes,Electronic check
+0362-ZBZWJ,0.965,Yes,Critical Risk,36,Month-to-month,84.9,3067.2,Fiber optic,No,No,Electronic check
+3315-TOTBP,0.965,Yes,Critical Risk,15,Month-to-month,76.0,1130.85,Fiber optic,No,No,Mailed check
+4659-NZRUF,0.965,Yes,Critical Risk,19,Month-to-month,95.15,1789.25,Fiber optic,Yes,No,Electronic check
+8337-UPOAQ,0.965,Yes,Critical Risk,10,Month-to-month,89.8,914.3,Fiber optic,No,No,Electronic check
+8182-BJDSI,0.965,Yes,Critical Risk,28,Month-to-month,89.95,2625.55,Fiber optic,No,No,Electronic check
+6161-UUUTA,0.965,Yes,Critical Risk,3,Month-to-month,79.9,260.9,Fiber optic,No,No,Electronic check
+6087-MVHJH,0.965,Yes,Critical Risk,16,Month-to-month,88.45,1422.1,Fiber optic,No,No,Electronic check
+0259-GBZSH,0.965,Yes,Critical Risk,2,Month-to-month,85.65,181.5,Fiber optic,No,No,Electronic check
+3722-WPXTK,0.965,Yes,Critical Risk,1,Month-to-month,88.35,88.35,Fiber optic,No,No,Electronic check
+3269-ATYWD,0.965,Yes,Critical Risk,39,Month-to-month,95.65,3759.05,Fiber optic,No,No,Bank transfer (automatic)
+9734-YWGEX,0.965,Yes,Critical Risk,9,Month-to-month,98.3,923.5,Fiber optic,No,No,Credit card (automatic)
+3254-YRILK,0.965,Yes,Critical Risk,19,Month-to-month,88.2,1775.8,Fiber optic,No,No,Electronic check
+5208-HFSBT,0.965,Yes,Critical Risk,2,Month-to-month,55.05,102.75,DSL,No,Yes,Credit card (automatic)
+9851-QXEEQ,0.965,Yes,Critical Risk,41,Month-to-month,104.7,4346.4,Fiber optic,No,No,Electronic check
+9809-IMGCQ,0.965,Yes,Critical Risk,22,Month-to-month,96.7,2082.95,Fiber optic,No,No,Electronic check
+9600-UDOPK,0.965,Yes,Critical Risk,30,Month-to-month,94.05,2866.45,Fiber optic,No,No,Credit card (automatic)
+4074-SJFFA,0.965,Yes,Critical Risk,1,Month-to-month,54.75,54.75,DSL,No,No,Mailed check
+5143-EGQFK,0.965,Yes,Critical Risk,10,Month-to-month,29.65,291.4,DSL,No,Yes,Electronic check
+3143-JQEGI,0.965,Yes,Critical Risk,13,Month-to-month,88.35,1222.8,Fiber optic,No,No,Electronic check
+7802-EFKNY,0.965,Yes,Critical Risk,5,Month-to-month,24.95,100.4,DSL,No,No,Electronic check
+2951-QOQTK,0.965,Yes,Critical Risk,4,Month-to-month,80.8,332.45,Fiber optic,No,Yes,Credit card (automatic)
+3754-DXMRT,0.965,Yes,Critical Risk,2,Month-to-month,44.15,92.65,DSL,No,No,Electronic check
+2672-DZUOY,0.965,Yes,Critical Risk,1,Month-to-month,25.15,25.15,DSL,No,No,Electronic check
+1740-CSDJP,0.965,Yes,Critical Risk,1,Month-to-month,35.25,35.25,DSL,No,No,Bank transfer (automatic)
+1915-IOFGU,0.965,Yes,Critical Risk,1,Month-to-month,70.5,70.5,Fiber optic,No,No,Electronic check
+0329-GTIAJ,0.965,Yes,Critical Risk,3,Month-to-month,97.9,315.3,Fiber optic,No,Yes,Electronic check
+8161-QYMTT,0.965,Yes,Critical Risk,7,Month-to-month,94.1,701.3,Fiber optic,No,No,Electronic check
+1342-JPNKI,0.965,Yes,Critical Risk,10,Month-to-month,86.05,834.1,Fiber optic,No,No,Bank transfer (automatic)
+6457-USBER,0.965,Yes,Critical Risk,1,Month-to-month,80.8,80.8,Fiber optic,No,No,Electronic check
+0680-DFNNY,0.965,Yes,Critical Risk,15,Month-to-month,101.1,1504.05,Fiber optic,No,No,Electronic check
+4124-MMETB,0.965,Yes,Critical Risk,22,Month-to-month,94.65,2104.55,Fiber optic,No,No,Credit card (automatic)
+8111-SLLHI,0.965,Yes,Critical Risk,39,Month-to-month,105.65,4284.8,Fiber optic,No,No,Electronic check
+9763-PDTKK,0.965,Yes,Critical Risk,4,Month-to-month,94.4,387.2,Fiber optic,Yes,Yes,Bank transfer (automatic)
+3027-ZTDHO,0.965,Yes,Critical Risk,1,Month-to-month,89.9,89.9,Fiber optic,No,No,Electronic check
+4844-JJWUY,0.965,Yes,Critical Risk,1,Month-to-month,86.0,86,Fiber optic,No,No,Electronic check
+4918-QLLIW,0.965,Yes,Critical Risk,3,Month-to-month,53.4,188.7,DSL,No,No,Credit card (automatic)
+1122-JWTJW,0.965,Yes,Critical Risk,1,Month-to-month,70.65,70.65,Fiber optic,No,No,Mailed check
+0093-XWZFY,0.965,Yes,Critical Risk,40,Month-to-month,104.5,4036.85,Fiber optic,No,No,Credit card (automatic)
+4484-CGXFK,0.965,Yes,Critical Risk,3,Month-to-month,55.3,196.15,DSL,No,No,Electronic check
+6615-ZGEDR,0.9615,Yes,Critical Risk,1,Month-to-month,19.7,19.7,No,No internet service,No internet service,Mailed check
+3096-IZETN,0.96,Yes,Critical Risk,12,Month-to-month,78.1,947.3,Fiber optic,No,No,Bank transfer (automatic)
+0280-XJGEX,0.96,Yes,Critical Risk,49,Month-to-month,103.7,5036.3,Fiber optic,No,No,Bank transfer (automatic)
+0621-TWIEM,0.96,Yes,Critical Risk,10,Month-to-month,45.55,402.6,DSL,No,No,Electronic check
+3669-OYSJI,0.96,Yes,Critical Risk,1,Month-to-month,46.2,46.2,DSL,No,No,Credit card (automatic)
+6689-TCZHQ,0.96,Yes,Critical Risk,5,Month-to-month,78.95,378.4,Fiber optic,No,No,Electronic check
+2430-USGXP,0.96,Yes,Critical Risk,24,Month-to-month,101.05,2391.8,Fiber optic,No,No,Electronic check
+9239-ZBZZV,0.96,Yes,Critical Risk,6,Month-to-month,47.95,305.1,DSL,No,No,Electronic check
+6416-TVAIH,0.96,Yes,Critical Risk,1,Month-to-month,68.5,68.5,Fiber optic,No,No,Electronic check
+1254-IZEYF,0.96,Yes,Critical Risk,31,Month-to-month,99.95,3186.65,Fiber optic,No,No,Electronic check
+1583-IHQZE,0.96,Yes,Critical Risk,12,Month-to-month,112.95,1384.75,Fiber optic,No,Yes,Mailed check
+1184-PJVDB,0.96,Yes,Critical Risk,10,Month-to-month,79.95,857.2,Fiber optic,No,No,Electronic check
+7854-FOKSF,0.96,Yes,Critical Risk,1,Month-to-month,35.9,35.9,DSL,No,No,Electronic check
+9095-HFAFX,0.96,Yes,Critical Risk,5,Month-to-month,81.0,389.6,Fiber optic,No,No,Credit card (automatic)
+3804-RVTGV,0.96,Yes,Critical Risk,50,Month-to-month,103.85,5017.9,Fiber optic,No,No,Bank transfer (automatic)
+3538-WZPHD,0.96,Yes,Critical Risk,3,Month-to-month,29.6,79.45,DSL,No,No,Electronic check
+3445-HXXGF,0.96,Yes,Critical Risk,58,Month-to-month,45.3,2651.2,DSL,No,No,Electronic check
+5673-FSSMF,0.96,Yes,Critical Risk,1,Month-to-month,60.15,60.15,DSL,No,No,Electronic check
+5868-YWPDW,0.96,Yes,Critical Risk,6,Month-to-month,84.2,519.15,Fiber optic,No,No,Electronic check
+4274-OWWYO,0.96,Yes,Critical Risk,1,Month-to-month,74.35,74.35,Fiber optic,No,No,Electronic check
+2446-PLQVO,0.96,Yes,Critical Risk,1,Month-to-month,70.3,70.3,Fiber optic,No,No,Electronic check
+3393-FMZPV,0.96,Yes,Critical Risk,25,Month-to-month,100.25,2387.75,Fiber optic,No,No,Electronic check
+5842-POCOP,0.96,Yes,Critical Risk,5,Month-to-month,88.9,454.15,Fiber optic,Yes,No,Mailed check
+9894-EZEWG,0.96,Yes,Critical Risk,1,Month-to-month,74.3,74.3,Fiber optic,No,No,Credit card (automatic)
+3006-XIMLN,0.96,Yes,Critical Risk,2,Month-to-month,94.2,193.8,Fiber optic,No,No,Bank transfer (automatic)
+3001-CBHLQ,0.96,Yes,Critical Risk,32,Month-to-month,104.9,3351.55,Fiber optic,No,Yes,Electronic check
+4636-QRJKY,0.96,Yes,Critical Risk,6,Month-to-month,80.5,502.85,Fiber optic,No,Yes,Electronic check
+9057-MSWCO,0.96,Yes,Critical Risk,27,Month-to-month,30.75,805.1,DSL,Yes,No,Credit card (automatic)
+6599-CEBNN,0.96,Yes,Critical Risk,34,Month-to-month,73.95,2524.45,Fiber optic,No,No,Credit card (automatic)
+1660-HSOOQ,0.96,Yes,Critical Risk,1,Month-to-month,49.65,49.65,DSL,No,No,Mailed check
+9063-ZGTUY,0.96,Yes,Critical Risk,61,Month-to-month,19.4,1182.55,No,No internet service,No internet service,Mailed check
+5261-QSHQM,0.96,Yes,Critical Risk,4,Month-to-month,24.45,86.6,DSL,No,No,Electronic check
+7242-QZLXF,0.96,Yes,Critical Risk,1,Month-to-month,25.3,25.3,DSL,No,No,Electronic check
+3703-VAVCL,0.96,Yes,Critical Risk,2,Month-to-month,90.0,190.05,Fiber optic,No,Yes,Credit card (automatic)
+5914-DVBWJ,0.96,Yes,Critical Risk,18,Month-to-month,85.45,1505.85,Fiber optic,No,Yes,Electronic check
+6961-VCPMC,0.96,Yes,Critical Risk,46,Month-to-month,80.4,3605.2,Fiber optic,No,No,Electronic check
+9057-SIHCH,0.96,Yes,Critical Risk,3,Month-to-month,96.6,291.9,Fiber optic,No,No,Electronic check
+4919-MOAVT,0.96,Yes,Critical Risk,3,Month-to-month,69.65,220.1,Fiber optic,No,No,Electronic check
+7563-BIUPC,0.96,Yes,Critical Risk,5,Month-to-month,80.6,415.55,Fiber optic,No,No,Electronic check
+0220-EBGCE,0.96,Yes,Critical Risk,2,Month-to-month,85.85,167.3,Fiber optic,No,No,Electronic check
+0925-VYDLG,0.96,Yes,Critical Risk,3,Month-to-month,75.25,242,Fiber optic,No,No,Electronic check
+4729-XKASR,0.96,Yes,Critical Risk,1,Month-to-month,24.75,24.75,DSL,No,No,Electronic check
+7079-QRCBC,0.96,Yes,Critical Risk,24,Month-to-month,98.75,2407.3,Fiber optic,No,No,Electronic check
+3186-BAXNB,0.96,Yes,Critical Risk,1,Month-to-month,91.7,91.7,Fiber optic,No,Yes,Electronic check
+9526-JAWYF,0.96,Yes,Critical Risk,26,Month-to-month,89.8,2335.3,Fiber optic,No,No,Electronic check
+3565-UNOCC,0.96,Yes,Critical Risk,29,Month-to-month,99.05,2952.85,Fiber optic,No,No,Bank transfer (automatic)
+1084-UQCHV,0.96,Yes,Critical Risk,1,Month-to-month,69.75,69.75,Fiber optic,No,No,Bank transfer (automatic)
+2180-DXNEG,0.96,Yes,Critical Risk,12,Month-to-month,96.0,1062.1,Fiber optic,No,No,Electronic check
+8868-WOZGU,0.96,Yes,Critical Risk,28,Month-to-month,105.7,2979.5,Fiber optic,No,No,Electronic check
+4342-HENTK,0.96,Yes,Critical Risk,2,Month-to-month,70.65,142.35,Fiber optic,No,No,Electronic check
+1363-TXLSL,0.96,Yes,Critical Risk,1,Month-to-month,70.3,70.3,Fiber optic,No,No,Electronic check
+9874-QLCLH,0.96,Yes,Critical Risk,17,Month-to-month,104.2,1743.5,Fiber optic,Yes,No,Electronic check
+8063-GBATB,0.96,Yes,Critical Risk,27,Month-to-month,85.25,2287.25,Fiber optic,No,No,Electronic check
+5520-FVEWJ,0.96,Yes,Critical Risk,12,Month-to-month,84.5,916.9,Fiber optic,No,No,Electronic check
+3751-KTZEL,0.96,Yes,Critical Risk,1,Month-to-month,35.05,35.05,DSL,No,No,Mailed check
+8485-GJCDN,0.96,Yes,Critical Risk,5,Month-to-month,69.05,318.5,Fiber optic,No,No,Mailed check
+0231-LXVAP,0.96,Yes,Critical Risk,1,Month-to-month,75.9,75.9,Fiber optic,No,Yes,Electronic check
+7831-QGOXH,0.96,Yes,Critical Risk,18,Month-to-month,85.2,1553.9,Fiber optic,No,No,Electronic check
+7384-GHBPI,0.96,Yes,Critical Risk,3,Month-to-month,35.15,99.75,DSL,No,No,Electronic check
+7841-TZDMQ,0.96,Yes,Critical Risk,2,Month-to-month,46.0,84.5,DSL,No,No,Credit card (automatic)
+4598-XLKNJ,0.96,Yes,Critical Risk,25,Month-to-month,98.5,2514.5,Fiber optic,No,No,Electronic check
+9274-CNFMO,0.96,Yes,Critical Risk,4,Month-to-month,74.95,308.7,Fiber optic,No,No,Electronic check
+3640-PHQXK,0.96,Yes,Critical Risk,31,Month-to-month,89.9,2806.9,Fiber optic,No,No,Electronic check
+3398-ZOUAA,0.96,Yes,Critical Risk,21,Month-to-month,69.1,1474.75,Fiber optic,No,No,Electronic check
+5998-VVEJY,0.96,Yes,Critical Risk,26,Month-to-month,80.5,2088.8,Fiber optic,No,Yes,Electronic check
+0415-MOSGF,0.96,Yes,Critical Risk,1,Month-to-month,44.4,44.4,DSL,No,No,Mailed check
+4289-DTDKW,0.96,Yes,Critical Risk,40,Month-to-month,101.3,4113.1,Fiber optic,No,No,Electronic check
+1450-GALXR,0.96,Yes,Critical Risk,10,Month-to-month,98.5,1058.25,Fiber optic,No,Yes,Electronic check
+3223-WZWJM,0.96,Yes,Critical Risk,26,Month-to-month,83.95,2254.2,Fiber optic,No,No,Electronic check
+9367-WXLCH,0.96,Yes,Critical Risk,8,Month-to-month,84.5,662.65,Fiber optic,No,No,Bank transfer (automatic)
+3296-SILRA,0.9583,Yes,Critical Risk,1,Month-to-month,76.4,76.4,Fiber optic,No,No,Mailed check
+0786-VSSUD,0.955,Yes,Critical Risk,16,Month-to-month,39.0,679.85,DSL,No,No,Mailed check
+8008-HAWED,0.955,Yes,Critical Risk,14,Month-to-month,50.75,712.75,DSL,No,No,Electronic check
+4013-UBXWQ,0.955,Yes,Critical Risk,7,Month-to-month,74.65,521.1,DSL,No,Yes,Electronic check
+2108-XWMPY,0.955,Yes,Critical Risk,3,Month-to-month,35.45,106.85,DSL,Yes,No,Mailed check
+5178-LMXOP,0.955,Yes,Critical Risk,1,Month-to-month,95.1,95.1,Fiber optic,No,No,Electronic check
+1612-EOHDH,0.955,Yes,Critical Risk,1,Month-to-month,45.15,45.15,DSL,No,No,Electronic check
+4566-GOLUK,0.955,Yes,Critical Risk,47,Month-to-month,107.35,5118.95,Fiber optic,No,Yes,Bank transfer (automatic)
+3668-QPYBK,0.955,Yes,Critical Risk,2,Month-to-month,53.85,108.15,DSL,Yes,No,Mailed check
+7613-LLQFO,0.955,Yes,Critical Risk,12,Month-to-month,84.45,1059.55,Fiber optic,No,No,Electronic check
+2568-BRGYX,0.955,Yes,Critical Risk,4,Month-to-month,70.2,237.95,Fiber optic,No,No,Electronic check
+6711-FLDFB,0.955,Yes,Critical Risk,7,Month-to-month,74.9,541.15,Fiber optic,No,No,Electronic check
+9637-EIHEQ,0.955,Yes,Critical Risk,1,Month-to-month,50.8,50.8,DSL,No,Yes,Electronic check
+1309-BXVOQ,0.955,Yes,Critical Risk,21,Month-to-month,106.1,2249.95,Fiber optic,No,Yes,Electronic check
+4433-JCGCG,0.955,Yes,Critical Risk,46,Month-to-month,101.0,4680.05,Fiber optic,No,No,Electronic check
+4806-HIPDW,0.955,Yes,Critical Risk,1,Month-to-month,68.95,68.95,Fiber optic,No,No,Electronic check
+2725-KXXWT,0.955,Yes,Critical Risk,1,Month-to-month,90.75,90.75,Fiber optic,No,No,Electronic check
+6771-XWBDM,0.955,Yes,Critical Risk,57,Month-to-month,104.5,5921.35,Fiber optic,No,No,Credit card (automatic)
+9488-HGMJH,0.955,Yes,Critical Risk,1,Month-to-month,71.15,71.15,Fiber optic,No,No,Electronic check
+3319-DWOEP,0.955,Yes,Critical Risk,6,Month-to-month,95.75,573.75,Fiber optic,No,No,Electronic check
+4077-CROMM,0.955,Yes,Critical Risk,31,Month-to-month,104.2,3243.45,Fiber optic,No,Yes,Electronic check
+6400-BWQKW,0.955,Yes,Critical Risk,6,Month-to-month,79.05,434.5,Fiber optic,Yes,No,Electronic check
+4750-ZRXIU,0.955,Yes,Critical Risk,4,Month-to-month,84.6,360.1,Fiber optic,No,No,Electronic check
+5087-SUURX,0.955,Yes,Critical Risk,18,Month-to-month,39.05,669.85,DSL,No,No,Electronic check
+0137-OCGAB,0.955,Yes,Critical Risk,1,Month-to-month,80.2,80.2,Fiber optic,No,No,Mailed check
+1792-UXAFY,0.955,Yes,Critical Risk,17,Month-to-month,89.15,1496.9,Fiber optic,No,No,Electronic check
+3583-EKAPL,0.955,Yes,Critical Risk,1,Month-to-month,55.0,55,DSL,No,No,Electronic check
+7625-XCQRH,0.955,Yes,Critical Risk,11,Month-to-month,76.5,837.95,Fiber optic,No,No,Electronic check
+5590-YRFJT,0.955,Yes,Critical Risk,20,Month-to-month,24.45,482.8,DSL,No,No,Electronic check
+4282-YMKNA,0.955,Yes,Critical Risk,9,Month-to-month,74.75,706.6,Fiber optic,No,No,Electronic check
+0946-CLJTI,0.955,Yes,Critical Risk,58,Month-to-month,98.7,5812.6,Fiber optic,No,No,Electronic check
+0495-ZBNGW,0.955,Yes,Critical Risk,5,Month-to-month,79.9,343.95,Fiber optic,No,No,Bank transfer (automatic)
+4550-VBOFE,0.955,Yes,Critical Risk,70,Month-to-month,102.95,7101.5,Fiber optic,No,No,Electronic check
+2207-NHRJK,0.955,Yes,Critical Risk,1,Month-to-month,50.8,50.8,DSL,No,No,Electronic check
+4847-QNOKA,0.955,Yes,Critical Risk,1,Month-to-month,44.9,44.9,DSL,No,No,Bank transfer (automatic)
+1704-NRWYE,0.955,Yes,Critical Risk,9,Month-to-month,80.85,751.65,Fiber optic,No,No,Electronic check
+6142-VSJQO,0.955,Yes,Critical Risk,1,Month-to-month,44.35,44.35,DSL,No,No,Bank transfer (automatic)
+2506-TNFCO,0.955,Yes,Critical Risk,1,Month-to-month,69.55,69.55,Fiber optic,No,No,Electronic check
+2984-MIIZL,0.955,Yes,Critical Risk,4,Month-to-month,74.8,321.9,Fiber optic,No,No,Bank transfer (automatic)
+3755-JBMNH,0.955,Yes,Critical Risk,16,Month-to-month,71.8,1167.8,Fiber optic,No,No,Bank transfer (automatic)
+2034-CGRHZ,0.955,Yes,Critical Risk,24,Month-to-month,102.95,2496.7,Fiber optic,No,No,Credit card (automatic)
+2929-ERCFZ,0.955,Yes,Critical Risk,8,Month-to-month,94.2,777.3,Fiber optic,No,No,Electronic check
+7377-DMMRI,0.955,Yes,Critical Risk,2,Month-to-month,47.8,92.45,DSL,Yes,No,Electronic check
+0295-PPHDO,0.955,Yes,Critical Risk,1,Month-to-month,95.45,95.45,Fiber optic,No,No,Electronic check
+7730-IUTDZ,0.955,Yes,Critical Risk,43,Month-to-month,75.2,3198.6,Fiber optic,Yes,No,Electronic check
+0709-TVGUR,0.955,Yes,Critical Risk,9,Month-to-month,74.55,622.9,Fiber optic,No,No,Electronic check
+2219-MVUSO,0.955,Yes,Critical Risk,8,Month-to-month,45.15,438.4,DSL,No,No,Mailed check
+4547-KQRTM,0.955,Yes,Critical Risk,10,Month-to-month,80.05,830.7,Fiber optic,No,No,Bank transfer (automatic)
+4086-YQSNZ,0.955,Yes,Critical Risk,3,Month-to-month,80.4,224.05,Fiber optic,No,No,Electronic check
+2260-USTRB,0.955,Yes,Critical Risk,2,Month-to-month,70.2,115.95,Fiber optic,No,No,Bank transfer (automatic)
+0318-QUUOB,0.955,Yes,Critical Risk,1,Month-to-month,80.55,80.55,Fiber optic,No,No,Electronic check
+1794-HBQTJ,0.955,Yes,Critical Risk,1,Month-to-month,48.6,48.6,DSL,Yes,No,Credit card (automatic)
+2320-JRSDE,0.955,Yes,Critical Risk,1,Month-to-month,19.9,19.9,No,No internet service,No internet service,Electronic check
+7314-OXENN,0.955,Yes,Critical Risk,2,Month-to-month,82.0,184.65,Fiber optic,No,No,Electronic check
+1689-MRZQR,0.955,Yes,Critical Risk,34,Month-to-month,78.3,2564.3,Fiber optic,No,No,Electronic check
+5569-OUICF,0.955,Yes,Critical Risk,28,Month-to-month,101.3,2812.2,Fiber optic,No,Yes,Credit card (automatic)
+6581-NQCBA,0.955,Yes,Critical Risk,16,Month-to-month,49.95,810.2,DSL,No,Yes,Electronic check
+4471-KXAUH,0.955,Yes,Critical Risk,42,Month-to-month,84.3,3588.4,Fiber optic,No,Yes,Electronic check
+0224-HJAPT,0.955,Yes,Critical Risk,5,Month-to-month,47.15,223.15,DSL,No,No,Electronic check
+7493-TPUWZ,0.955,Yes,Critical Risk,1,Month-to-month,79.15,79.15,Fiber optic,No,No,Electronic check
+5673-TIYIB,0.955,Yes,Critical Risk,2,Month-to-month,40.4,77.15,DSL,No,Yes,Credit card (automatic)
+9158-VCTQB,0.955,Yes,Critical Risk,41,Month-to-month,113.6,4594.95,Fiber optic,Yes,Yes,Bank transfer (automatic)
+0236-HFWSV,0.955,Yes,Critical Risk,15,Month-to-month,93.35,1444.65,Fiber optic,No,No,Electronic check
+1626-ERCMM,0.955,Yes,Critical Risk,20,Month-to-month,94.55,1899.65,Fiber optic,No,No,Electronic check
+2079-FBMZK,0.955,Yes,Critical Risk,6,Month-to-month,69.25,418.4,Fiber optic,No,No,Mailed check
+6402-ZFPPI,0.955,Yes,Critical Risk,25,Month-to-month,102.8,2660.2,Fiber optic,Yes,No,Mailed check
+0722-TROQR,0.955,Yes,Critical Risk,4,Month-to-month,74.9,321.75,Fiber optic,No,No,Electronic check
+4629-NRXKX,0.955,Yes,Critical Risk,2,Month-to-month,70.4,147.15,Fiber optic,No,No,Electronic check
+6877-LGWXO,0.955,Yes,Critical Risk,18,Month-to-month,78.55,1422.65,Fiber optic,No,No,Electronic check
+3070-DVEYC,0.955,Yes,Critical Risk,7,Month-to-month,73.75,545.15,Fiber optic,No,No,Mailed check
+5981-ITEMU,0.955,Yes,Critical Risk,40,Month-to-month,97.1,3706.95,Fiber optic,No,No,Bank transfer (automatic)
+5669-SRAIP,0.955,Yes,Critical Risk,5,Month-to-month,39.5,210.75,DSL,No,No,Electronic check
+7952-OBOYL,0.955,Yes,Critical Risk,3,Month-to-month,89.85,244.45,Fiber optic,No,Yes,Mailed check
+4080-OGPJL,0.955,Yes,Critical Risk,8,Month-to-month,71.15,563.65,DSL,Yes,Yes,Electronic check
+8685-WHQPW,0.955,Yes,Critical Risk,22,Month-to-month,74.4,1692.6,Fiber optic,No,No,Bank transfer (automatic)
+3803-KMQFW,0.9525,Yes,Critical Risk,1,Month-to-month,20.55,20.55,No,No internet service,No internet service,Mailed check
+6086-ESGRL,0.9525,Yes,Critical Risk,1,Month-to-month,80.15,80.15,Fiber optic,No,No,Credit card (automatic)
+0637-YLETY,0.95,Yes,Critical Risk,16,Month-to-month,95.6,1555.65,Fiber optic,No,No,Credit card (automatic)
+6352-TWCAU,0.95,Yes,Critical Risk,35,Month-to-month,86.45,3029.1,Fiber optic,No,No,Electronic check
+5442-XSDCW,0.95,Yes,Critical Risk,11,Month-to-month,79.5,868.5,Fiber optic,No,No,Bank transfer (automatic)
+1768-ZAIFU,0.95,Yes,Critical Risk,1,Month-to-month,25.2,25.2,DSL,No,No,Electronic check
+1075-BGWOH,0.95,Yes,Critical Risk,16,Month-to-month,98.75,1587.55,Fiber optic,No,No,Electronic check
+2082-OJVTK,0.95,Yes,Critical Risk,29,Month-to-month,89.2,2698.35,Fiber optic,No,No,Electronic check
+6127-ISGTU,0.95,Yes,Critical Risk,16,Month-to-month,84.95,1378.25,Fiber optic,No,No,Electronic check
+6599-RCLCJ,0.95,Yes,Critical Risk,47,Month-to-month,109.55,5124.55,Fiber optic,No,Yes,Electronic check
+9992-RRAMN,0.95,Yes,Critical Risk,22,Month-to-month,85.1,1873.7,Fiber optic,No,No,Electronic check
+6330-JKLPC,0.95,Yes,Critical Risk,11,Month-to-month,80.5,896.9,Fiber optic,No,No,Bank transfer (automatic)
+7228-OMTPN,0.95,Yes,Critical Risk,4,Month-to-month,88.45,370.65,Fiber optic,No,No,Electronic check
+2982-VPSGI,0.95,Yes,Critical Risk,11,Month-to-month,94.0,1078.9,Fiber optic,No,No,Electronic check
+9172-JITSM,0.95,Yes,Critical Risk,26,Month-to-month,90.8,2361.8,Fiber optic,No,No,Electronic check
+9647-ERGBE,0.95,Yes,Critical Risk,30,Month-to-month,100.05,3046.15,Fiber optic,No,No,Electronic check
+8417-FMLZI,0.95,Yes,Critical Risk,6,Month-to-month,83.55,477.55,Fiber optic,No,No,Credit card (automatic)
+4009-ALQFH,0.95,Yes,Critical Risk,25,Month-to-month,99.5,2369.05,Fiber optic,No,No,Electronic check
+0306-JAELE,0.95,Yes,Critical Risk,5,Month-to-month,96.1,453.4,Fiber optic,No,Yes,Electronic check
+9090-SGQXL,0.95,Yes,Critical Risk,68,Month-to-month,105.3,7299.65,Fiber optic,No,No,Electronic check
+6646-VRFOL,0.95,Yes,Critical Risk,53,Month-to-month,103.85,5485.5,Fiber optic,No,No,Electronic check
+7409-KIUTL,0.95,Yes,Critical Risk,1,Month-to-month,71.0,71,Fiber optic,No,No,Electronic check
+2956-GGUCQ,0.95,Yes,Critical Risk,24,Month-to-month,78.85,1772.25,Fiber optic,Yes,No,Electronic check
+0311-UNPFF,0.95,Yes,Critical Risk,26,Month-to-month,88.8,2274.35,Fiber optic,No,No,Bank transfer (automatic)
+9897-KXHCM,0.95,Yes,Critical Risk,3,Month-to-month,80.3,250.05,Fiber optic,No,No,Electronic check
+0122-OAHPZ,0.95,Yes,Critical Risk,7,Month-to-month,73.85,511.25,Fiber optic,No,No,Electronic check
+9102-IAYHT,0.95,Yes,Critical Risk,17,Month-to-month,85.45,1451.6,Fiber optic,No,No,Electronic check
+6702-OHFWR,0.95,Yes,Critical Risk,1,Month-to-month,43.3,43.3,DSL,No,No,Electronic check
+8844-TONUD,0.95,Yes,Critical Risk,13,Month-to-month,96.65,1162.85,Fiber optic,No,No,Mailed check
+9824-BEMCV,0.95,Yes,Critical Risk,17,Month-to-month,69.0,1149.65,Fiber optic,No,No,Electronic check
+4030-VPZBD,0.95,Yes,Critical Risk,2,Month-to-month,30.9,59.05,DSL,No,Yes,Electronic check
+8066-POXGX,0.95,Yes,Critical Risk,13,Month-to-month,35.1,446.1,DSL,No,No,Electronic check
+4855-SNKMY,0.95,Yes,Critical Risk,1,Month-to-month,44.1,44.1,DSL,No,No,Electronic check
+5565-FILXA,0.95,Yes,Critical Risk,16,Month-to-month,96.15,1529.2,Fiber optic,No,No,Electronic check
+5049-GLYVG,0.95,Yes,Critical Risk,1,Month-to-month,20.6,20.6,No,No internet service,No internet service,Mailed check
+9606-PBKBQ,0.95,Yes,Critical Risk,32,Month-to-month,85.0,2642.05,Fiber optic,No,No,Electronic check
+7786-WBJYI,0.95,Yes,Critical Risk,4,Month-to-month,77.95,305.55,Fiber optic,No,No,Bank transfer (automatic)
+3217-FZDMN,0.95,Yes,Critical Risk,8,Month-to-month,94.45,742.95,Fiber optic,No,No,Credit card (automatic)
+9722-UJOJR,0.95,Yes,Critical Risk,29,Month-to-month,70.75,1974.8,Fiber optic,No,No,Electronic check
+3976-NLDEZ,0.95,Yes,Critical Risk,1,Month-to-month,20.6,20.6,No,No internet service,No internet service,Mailed check
+3716-BDVDB,0.95,Yes,Critical Risk,1,Month-to-month,69.1,69.1,Fiber optic,No,No,Electronic check
+2519-FAKOD,0.95,Yes,Critical Risk,38,Month-to-month,99.25,3777.15,Fiber optic,No,No,Bank transfer (automatic)
+9136-ALYBR,0.95,Yes,Critical Risk,1,Month-to-month,24.45,24.45,DSL,No,No,Mailed check
+3346-BRMIS,0.95,Yes,Critical Risk,18,Month-to-month,48.35,810.7,DSL,No,No,Electronic check
+2397-BRLOM,0.95,Yes,Critical Risk,8,Month-to-month,80.45,583.45,Fiber optic,No,No,Credit card (automatic)
+1597-LHYNC,0.95,Yes,Critical Risk,26,Month-to-month,95.0,2497.2,Fiber optic,Yes,No,Electronic check
+6956-SMUCM,0.95,Yes,Critical Risk,3,Month-to-month,99.0,287.4,Fiber optic,Yes,No,Credit card (automatic)
+4094-NSEDU,0.95,Yes,Critical Risk,21,Month-to-month,94.25,1973.75,Fiber optic,No,No,Electronic check
+2884-GBPFB,0.95,Yes,Critical Risk,35,Month-to-month,70.3,2416.55,Fiber optic,No,No,Electronic check
+9412-GHEEC,0.95,Yes,Critical Risk,40,Month-to-month,104.8,4131.95,Fiber optic,No,Yes,Bank transfer (automatic)
+5108-ADXWO,0.95,Yes,Critical Risk,11,Month-to-month,73.5,791.75,Fiber optic,Yes,No,Electronic check
+6615-NGGZJ,0.95,Yes,Critical Risk,14,Month-to-month,100.55,1415.55,Fiber optic,No,No,Electronic check
+3164-AALRN,0.95,Yes,Critical Risk,5,One year,70.0,347.4,DSL,No,No,Mailed check
+0402-CQAJN,0.95,Yes,Critical Risk,37,Month-to-month,101.9,3545.35,Fiber optic,No,No,Bank transfer (automatic)
+6692-UDPJC,0.95,Yes,Critical Risk,14,Month-to-month,91.65,1301,Fiber optic,No,Yes,Electronic check
+0886-QGENL,0.95,Yes,Critical Risk,27,Month-to-month,101.25,2754.45,Fiber optic,Yes,No,Electronic check
+1846-XWOQN,0.95,Yes,Critical Risk,1,Month-to-month,70.15,70.15,Fiber optic,No,No,Electronic check
+5136-KCKGI,0.95,Yes,Critical Risk,33,One year,103.7,3467,Fiber optic,Yes,No,Mailed check
+4678-DVQEO,0.95,Yes,Critical Risk,1,Month-to-month,52.2,52.2,DSL,No,Yes,Electronic check
+9828-AOQLM,0.95,Yes,Critical Risk,1,Month-to-month,45.7,45.7,DSL,No,No,Electronic check
+6987-XQSJT,0.95,Yes,Critical Risk,54,Month-to-month,79.5,4370.25,Fiber optic,No,No,Electronic check
+6331-EWIEB,0.95,Yes,Critical Risk,20,Month-to-month,85.25,1734.5,Fiber optic,No,No,Electronic check
+2856-NNASM,0.95,Yes,Critical Risk,43,Month-to-month,89.55,3856.75,Fiber optic,No,No,Mailed check
+3424-NMNBO,0.95,Yes,Critical Risk,58,One year,108.85,6287.25,Fiber optic,Yes,No,Electronic check
+3097-NNSPB,0.95,Yes,Critical Risk,2,Month-to-month,49.05,91.1,DSL,No,No,Credit card (automatic)
+8083-YTZES,0.945,Yes,Critical Risk,4,Month-to-month,74.35,265.35,Fiber optic,No,No,Electronic check
+3606-TWKGI,0.945,Yes,Critical Risk,13,Month-to-month,106.9,1364.3,Fiber optic,No,No,Electronic check
+4803-AXVYP,0.945,Yes,Critical Risk,38,Month-to-month,99.55,3734.25,Fiber optic,No,Yes,Electronic check
+9574-RKJIF,0.945,Yes,Critical Risk,30,Month-to-month,94.4,2838.7,Fiber optic,Yes,No,Electronic check
+3473-XIIIT,0.945,Yes,Critical Risk,16,Month-to-month,100.0,1534.75,Fiber optic,No,No,Electronic check
+0654-HMSHN,0.945,Yes,Critical Risk,21,Month-to-month,104.4,2157.95,Fiber optic,No,No,Electronic check
+9530-EHPOH,0.945,Yes,Critical Risk,11,Month-to-month,53.75,608,DSL,No,No,Electronic check
+3926-CUQZX,0.945,Yes,Critical Risk,1,Month-to-month,45.1,45.1,DSL,No,No,Bank transfer (automatic)
+3085-QUOZK,0.945,Yes,Critical Risk,1,Month-to-month,43.95,43.95,DSL,No,No,Mailed check
+9237-HQITU,0.945,Yes,Critical Risk,2,Month-to-month,70.7,151.65,Fiber optic,No,No,Electronic check
+6060-DRTNL,0.945,Yes,Critical Risk,5,Month-to-month,84.85,415.55,Fiber optic,No,No,Mailed check
+9206-GVPEQ,0.945,Yes,Critical Risk,13,Month-to-month,54.45,706.85,DSL,Yes,Yes,Electronic check
+4446-BZKHU,0.945,Yes,Critical Risk,61,Month-to-month,105.55,6281.45,Fiber optic,No,No,Electronic check
+6900-PXRMS,0.945,Yes,Critical Risk,26,Month-to-month,105.75,2710.25,Fiber optic,No,No,Electronic check
+3550-SAHFP,0.945,Yes,Critical Risk,33,Month-to-month,83.35,2757.85,Fiber optic,No,No,Electronic check
+7207-RMRDB,0.945,Yes,Critical Risk,65,Month-to-month,105.5,6985.65,Fiber optic,No,No,Electronic check
+5644-PDMZC,0.945,Yes,Critical Risk,2,Month-to-month,89.5,161.5,Fiber optic,No,No,Electronic check
+4351-QLCSU,0.945,Yes,Critical Risk,1,Month-to-month,55.0,55,DSL,No,No,Credit card (automatic)
+3874-EQOEP,0.945,Yes,Critical Risk,7,Month-to-month,95.0,655.5,Fiber optic,No,No,Mailed check
+3677-TNKIO,0.945,Yes,Critical Risk,14,Month-to-month,71.0,914,Fiber optic,No,No,Credit card (automatic)
+1264-BYWMS,0.945,Yes,Critical Risk,55,Month-to-month,96.8,5283.95,Fiber optic,No,No,Electronic check
+8364-TRMMK,0.945,Yes,Critical Risk,3,Month-to-month,50.65,151.3,DSL,No,No,Mailed check
+8429-XIBUM,0.945,Yes,Critical Risk,22,Month-to-month,101.35,2317.1,Fiber optic,Yes,No,Bank transfer (automatic)
+8824-RWFXJ,0.945,Yes,Critical Risk,3,Month-to-month,56.15,168.15,DSL,No,No,Mailed check
+8837-VVWLQ,0.945,Yes,Critical Risk,8,Month-to-month,84.95,668.4,Fiber optic,Yes,No,Electronic check
+7395-IGJOS,0.945,Yes,Critical Risk,17,Month-to-month,81.5,1329.2,Fiber optic,No,No,Bank transfer (automatic)
+5536-RTPWK,0.945,Yes,Critical Risk,49,Month-to-month,99.05,4853.75,Fiber optic,No,No,Bank transfer (automatic)
+3806-DXQOM,0.945,Yes,Critical Risk,4,Month-to-month,33.65,137.85,DSL,Yes,No,Electronic check
+9061-TIHDA,0.945,Yes,Critical Risk,13,Month-to-month,95.25,1233.65,Fiber optic,No,No,Electronic check
+5949-XIKAE,0.945,Yes,Critical Risk,8,Month-to-month,83.55,680.05,Fiber optic,No,No,Electronic check
+4587-NUKOX,0.945,Yes,Critical Risk,3,Month-to-month,79.1,246.5,Fiber optic,Yes,No,Electronic check
+5883-GTGVD,0.945,Yes,Critical Risk,19,Month-to-month,99.95,1931.75,Fiber optic,No,No,Electronic check
+7979-CORPM,0.945,Yes,Critical Risk,24,Month-to-month,90.55,2282.55,Fiber optic,No,No,Credit card (automatic)
+3143-ILDAL,0.945,Yes,Critical Risk,56,Month-to-month,94.45,5124.6,Fiber optic,No,Yes,Electronic check
+9658-WYUFB,0.945,Yes,Critical Risk,17,Month-to-month,94.4,1617.5,Fiber optic,Yes,No,Electronic check
+2408-WITXK,0.945,Yes,Critical Risk,10,Month-to-month,34.7,329.8,DSL,No,No,Electronic check
+4184-TJFAN,0.945,Yes,Critical Risk,3,Month-to-month,88.3,273.75,Fiber optic,Yes,Yes,Mailed check
+5923-GXUOC,0.945,Yes,Critical Risk,10,Month-to-month,104.4,1081.45,Fiber optic,Yes,No,Electronic check
+2369-UAPKZ,0.945,Yes,Critical Risk,5,Month-to-month,104.1,541.9,Fiber optic,No,No,Mailed check
+7278-CKDNC,0.945,Yes,Critical Risk,24,Month-to-month,80.5,2088.45,Fiber optic,No,No,Electronic check
+5167-GBFRE,0.945,Yes,Critical Risk,4,Month-to-month,25.2,102.5,DSL,No,No,Bank transfer (automatic)
+0011-IGKFF,0.945,Yes,Critical Risk,13,Month-to-month,98.0,1237.85,Fiber optic,No,No,Electronic check
+7248-VZQLC,0.945,Yes,Critical Risk,47,Month-to-month,85.2,3969.35,Fiber optic,No,No,Bank transfer (automatic)
+7780-OTDSO,0.945,Yes,Critical Risk,18,Month-to-month,99.4,1742.95,Fiber optic,Yes,No,Electronic check
+2979-SXESE,0.945,Yes,Critical Risk,17,Month-to-month,94.4,1607.2,Fiber optic,Yes,No,Electronic check
+2719-BDAQO,0.945,Yes,Critical Risk,17,Month-to-month,93.85,1625.65,Fiber optic,Yes,No,Electronic check
+2856-HYAPG,0.945,Yes,Critical Risk,1,Month-to-month,68.65,68.65,Fiber optic,No,No,Electronic check
+7479-NITWS,0.945,Yes,Critical Risk,7,Month-to-month,89.35,631.85,Fiber optic,No,No,Credit card (automatic)
+4201-JMNGR,0.945,Yes,Critical Risk,1,Month-to-month,55.8,55.8,DSL,Yes,No,Electronic check
+2842-JTCCU,0.945,Yes,Critical Risk,2,Month-to-month,46.05,80.35,DSL,No,No,Bank transfer (automatic)
+3671-SHRSP,0.945,Yes,Critical Risk,4,Month-to-month,80.6,319.15,Fiber optic,No,Yes,Mailed check
+4140-MUHUG,0.945,Yes,Critical Risk,3,Month-to-month,86.85,220.95,Fiber optic,No,No,Electronic check
+7180-PISOG,0.945,Yes,Critical Risk,1,Month-to-month,74.5,74.5,Fiber optic,No,No,Electronic check
+2114-MGINA,0.945,Yes,Critical Risk,14,Month-to-month,89.8,1129.1,Fiber optic,No,No,Mailed check
+4597-NUCQV,0.945,Yes,Critical Risk,24,Month-to-month,101.25,2440.15,Fiber optic,No,No,Electronic check
+0877-SDMBN,0.94,Yes,Critical Risk,54,One year,103.95,5639.05,Fiber optic,Yes,No,Bank transfer (automatic)
+2640-PMGFL,0.94,Yes,Critical Risk,27,Month-to-month,79.5,2180.55,Fiber optic,No,Yes,Electronic check
+4325-NFSKC,0.94,Yes,Critical Risk,19,Month-to-month,90.6,1660,Fiber optic,Yes,No,Electronic check
+6653-CBBOM,0.94,Yes,Critical Risk,1,Month-to-month,70.3,70.3,Fiber optic,No,No,Electronic check
+3799-ISUZQ,0.94,Yes,Critical Risk,7,Month-to-month,69.95,529.5,Fiber optic,No,No,Bank transfer (automatic)
+6629-CZTTH,0.94,Yes,Critical Risk,1,Month-to-month,55.7,55.7,DSL,No,No,Mailed check
+0643-OKLRP,0.94,Yes,Critical Risk,47,Month-to-month,80.35,3825.85,Fiber optic,Yes,No,Electronic check
+4116-TZAQJ,0.94,Yes,Critical Risk,9,Month-to-month,74.25,639.65,Fiber optic,Yes,No,Credit card (automatic)
+9391-EOYLI,0.94,Yes,Critical Risk,12,Month-to-month,80.45,950.2,Fiber optic,No,No,Electronic check
+1571-SAVHK,0.94,Yes,Critical Risk,12,Month-to-month,99.95,1132.75,Fiber optic,No,Yes,Mailed check
+4250-FDVOU,0.94,Yes,Critical Risk,6,Month-to-month,56.25,389.1,DSL,Yes,No,Electronic check
+6397-JNZZG,0.94,Yes,Critical Risk,43,Month-to-month,55.55,2342.2,DSL,No,No,Credit card (automatic)
+5047-LHVLY,0.94,Yes,Critical Risk,1,Month-to-month,50.15,50.15,DSL,No,No,Mailed check
+2249-YPRNG,0.94,Yes,Critical Risk,20,Month-to-month,105.85,2239.65,Fiber optic,No,No,Bank transfer (automatic)
+9689-PTNPG,0.94,Yes,Critical Risk,2,Month-to-month,80.25,144.55,Fiber optic,No,No,Electronic check
+2003-CKLOR,0.94,Yes,Critical Risk,66,Month-to-month,99.5,6710.5,Fiber optic,No,No,Electronic check
+1891-UAWWU,0.94,Yes,Critical Risk,20,Month-to-month,90.8,1951,Fiber optic,No,No,Electronic check
+2254-DLXRI,0.94,Yes,Critical Risk,1,Month-to-month,79.15,79.15,Fiber optic,No,No,Mailed check
+5385-SUIRI,0.94,Yes,Critical Risk,52,Month-to-month,104.2,5568.35,Fiber optic,Yes,No,Electronic check
+8063-RJYNF,0.94,Yes,Critical Risk,16,Month-to-month,94.25,1483.25,Fiber optic,Yes,No,Electronic check
+1428-GTBJJ,0.94,Yes,Critical Risk,11,Month-to-month,74.55,824.75,Fiber optic,No,No,Electronic check
+6518-LGAOV,0.94,Yes,Critical Risk,38,Month-to-month,105.0,4026.4,Fiber optic,No,Yes,Electronic check
+4831-EOBFE,0.94,Yes,Critical Risk,29,Month-to-month,94.65,2649.15,Fiber optic,Yes,No,Credit card (automatic)
+1465-VINDH,0.94,Yes,Critical Risk,10,Month-to-month,102.1,1068.85,Fiber optic,No,No,Credit card (automatic)
+4585-HETAI,0.94,Yes,Critical Risk,4,Month-to-month,73.75,325.45,Fiber optic,No,No,Electronic check
+3946-MHCZW,0.94,Yes,Critical Risk,1,Month-to-month,50.9,50.9,DSL,No,No,Mailed check
+4432-ADRLB,0.94,Yes,Critical Risk,2,Month-to-month,44.65,74.9,DSL,No,No,Mailed check
+3990-QYKBE,0.94,Yes,Critical Risk,37,Month-to-month,92.5,3473.4,Fiber optic,No,No,Electronic check
+5219-YIPTK,0.94,Yes,Critical Risk,33,Month-to-month,104.4,3409.6,Fiber optic,No,No,Electronic check
+0927-LCSMG,0.94,Yes,Critical Risk,7,Month-to-month,74.65,544.55,Fiber optic,No,No,Mailed check
+0207-MDKNV,0.94,Yes,Critical Risk,15,Month-to-month,105.1,1582.75,Fiber optic,Yes,Yes,Electronic check
+5482-PLVPE,0.94,Yes,Critical Risk,2,Month-to-month,24.35,41.85,DSL,No,No,Electronic check
+9462-MJUAW,0.94,Yes,Critical Risk,4,Month-to-month,50.4,206.6,DSL,No,No,Mailed check
+0257-ZESQC,0.94,Yes,Critical Risk,27,Month-to-month,75.2,1929.35,Fiber optic,Yes,No,Bank transfer (automatic)
+3737-GCSPV,0.94,Yes,Critical Risk,11,Month-to-month,96.2,1222.05,Fiber optic,Yes,Yes,Credit card (automatic)
+2774-LVQUS,0.94,Yes,Critical Risk,15,Month-to-month,83.05,1258.3,Fiber optic,No,Yes,Electronic check
+4277-PVRAN,0.94,Yes,Critical Risk,8,Month-to-month,80.1,679.3,Fiber optic,No,No,Bank transfer (automatic)
+7938-OUHIO,0.94,Yes,Critical Risk,3,Month-to-month,98.7,293.65,Fiber optic,No,Yes,Electronic check
+4255-DDUOU,0.94,Yes,Critical Risk,1,Month-to-month,20.5,20.5,No,No internet service,No internet service,Mailed check
+8651-ENBZX,0.94,Yes,Critical Risk,60,One year,106.0,6441.4,Fiber optic,No,Yes,Electronic check
+4039-HEUNW,0.94,Yes,Critical Risk,36,Month-to-month,96.5,3436.1,Fiber optic,No,No,Electronic check
+1396-QWFBJ,0.94,Yes,Critical Risk,21,Month-to-month,74.05,1565.7,Fiber optic,No,No,Bank transfer (automatic)
+7641-EUYET,0.94,Yes,Critical Risk,46,Month-to-month,100.7,4541.2,Fiber optic,Yes,No,Electronic check
+3058-HJCUY,0.94,Yes,Critical Risk,41,One year,102.6,4213.35,Fiber optic,No,Yes,Electronic check
+1450-SKCVI,0.94,Yes,Critical Risk,56,Month-to-month,73.85,4092.85,Fiber optic,No,No,Electronic check
+8267-ZNYVZ,0.94,Yes,Critical Risk,33,One year,103.75,3361.05,Fiber optic,Yes,Yes,Electronic check
+6372-RFVNS,0.94,Yes,Critical Risk,1,Month-to-month,78.8,78.8,Fiber optic,No,No,Electronic check
+4704-ERYFC,0.94,Yes,Critical Risk,22,Month-to-month,69.25,1554,Fiber optic,No,No,Electronic check
+2894-QOJRX,0.935,Yes,Critical Risk,25,Month-to-month,34.0,853,DSL,No,No,Bank transfer (automatic)
+7890-VYYWG,0.935,Yes,Critical Risk,3,Month-to-month,36.45,93.7,DSL,No,No,Mailed check
+0895-DQHEW,0.935,Yes,Critical Risk,54,Month-to-month,104.3,5278.15,Fiber optic,No,No,Electronic check
+3838-OZURD,0.935,Yes,Critical Risk,66,Month-to-month,105.0,7133.25,Fiber optic,No,No,Credit card (automatic)
+2408-TZMJL,0.935,Yes,Critical Risk,59,One year,110.15,6448.05,Fiber optic,Yes,No,Electronic check
+7198-GLXTC,0.935,Yes,Critical Risk,2,Month-to-month,79.0,143.65,Fiber optic,No,No,Electronic check
+9921-ZVRHG,0.935,Yes,Critical Risk,14,Month-to-month,80.45,1072,Fiber optic,No,No,Electronic check
+2189-WWOEW,0.935,Yes,Critical Risk,15,Month-to-month,85.9,1269.55,Fiber optic,No,No,Bank transfer (automatic)
+2474-BRUCM,0.935,Yes,Critical Risk,40,Month-to-month,101.85,4086.3,Fiber optic,Yes,No,Electronic check
+6876-ADESB,0.935,Yes,Critical Risk,1,Month-to-month,48.95,48.95,DSL,No,No,Electronic check
+5366-IJEQJ,0.935,Yes,Critical Risk,20,Month-to-month,88.7,1761.45,Fiber optic,No,No,Electronic check
+6204-IEUXJ,0.935,Yes,Critical Risk,3,Month-to-month,80.1,217.55,Fiber optic,No,Yes,Credit card (automatic)
+8019-ENHXU,0.935,Yes,Critical Risk,42,Month-to-month,99.45,4138.05,Fiber optic,No,Yes,Electronic check
+8436-BJUMM,0.935,Yes,Critical Risk,26,Month-to-month,83.75,2070.6,Fiber optic,No,No,Electronic check
+4250-ZBWLV,0.935,Yes,Critical Risk,68,One year,108.45,7176.55,Fiber optic,No,Yes,Electronic check
+1447-PJGGA,0.935,Yes,Critical Risk,57,Two year,95.25,5464.65,Fiber optic,No,No,Electronic check
+8808-ELEHO,0.935,Yes,Critical Risk,8,Month-to-month,81.25,585.95,Fiber optic,No,No,Electronic check
+6172-FECYY,0.935,Yes,Critical Risk,49,Month-to-month,84.5,4254.85,Fiber optic,No,No,Electronic check
+4441-NIHPT,0.935,Yes,Critical Risk,13,Month-to-month,74.3,940.35,Fiber optic,No,No,Electronic check
+7486-KSRVI,0.935,Yes,Critical Risk,43,One year,100.0,4211.55,Fiber optic,No,Yes,Electronic check
+6595-COKXZ,0.935,Yes,Critical Risk,1,Month-to-month,44.45,44.45,DSL,No,No,Mailed check
+4361-JEIVL,0.935,Yes,Critical Risk,1,Month-to-month,44.4,44.4,DSL,No,No,Electronic check
+0125-LZQXK,0.935,Yes,Critical Risk,15,Month-to-month,101.35,1553.95,Fiber optic,No,Yes,Electronic check
+4361-BKAXE,0.935,Yes,Critical Risk,41,Month-to-month,114.5,4527.45,Fiber optic,Yes,Yes,Bank transfer (automatic)
+2592-SEIFQ,0.935,Yes,Critical Risk,3,Month-to-month,24.75,66.95,DSL,No,No,Electronic check
+5027-QPKTE,0.935,Yes,Critical Risk,7,Month-to-month,69.35,451.1,Fiber optic,No,No,Electronic check
+3647-GMGDH,0.935,Yes,Critical Risk,22,Month-to-month,94.7,1914.9,Fiber optic,No,No,Credit card (automatic)
+9524-EGPJC,0.935,Yes,Critical Risk,18,Month-to-month,90.1,1612.75,Fiber optic,No,Yes,Electronic check
+8818-XYFCQ,0.935,Yes,Critical Risk,32,Month-to-month,99.55,3204.65,Fiber optic,Yes,No,Credit card (automatic)
+1095-JUDTC,0.935,Yes,Critical Risk,47,Month-to-month,95.05,4504.55,Fiber optic,No,Yes,Electronic check
+7903-CMPEY,0.935,Yes,Critical Risk,1,Month-to-month,80.3,80.3,Fiber optic,Yes,No,Electronic check
+1260-TTRXI,0.935,Yes,Critical Risk,4,Month-to-month,54.3,195.3,DSL,No,No,Electronic check
+8802-UNOJF,0.935,Yes,Critical Risk,12,Month-to-month,83.8,1029.75,Fiber optic,No,Yes,Mailed check
+2840-XANRC,0.935,Yes,Critical Risk,24,Month-to-month,93.15,2231.05,Fiber optic,No,No,Electronic check
+4373-MAVJG,0.935,Yes,Critical Risk,14,Month-to-month,90.9,1259,Fiber optic,No,No,Bank transfer (automatic)
+6772-KSATR,0.935,Yes,Critical Risk,1,Month-to-month,81.7,81.7,Fiber optic,Yes,No,Electronic check
+3656-TKRVZ,0.935,Yes,Critical Risk,3,Month-to-month,55.35,165.2,DSL,Yes,No,Electronic check
+0939-YAPAF,0.935,Yes,Critical Risk,35,Month-to-month,100.25,3527.6,Fiber optic,No,No,Electronic check
+2568-OIADY,0.935,Yes,Critical Risk,37,Month-to-month,99.5,3762,Fiber optic,No,No,Electronic check
+4720-VSTSI,0.935,Yes,Critical Risk,44,Month-to-month,84.8,3862.55,Fiber optic,No,No,Bank transfer (automatic)
+8709-KRDVL,0.935,Yes,Critical Risk,33,Month-to-month,100.0,3320.6,Fiber optic,No,No,Electronic check
+0880-TKATG,0.935,Yes,Critical Risk,4,Month-to-month,101.15,385.9,Fiber optic,No,No,Electronic check
+4749-VFKVB,0.935,Yes,Critical Risk,1,Month-to-month,50.1,50.1,DSL,No,No,Mailed check
+3247-ZVOUO,0.935,Yes,Critical Risk,10,Month-to-month,85.55,851.75,Fiber optic,No,No,Electronic check
+4853-RULSV,0.935,Yes,Critical Risk,70,Two year,104.0,7250.15,Fiber optic,Yes,Yes,Credit card (automatic)
+6502-HCJTI,0.935,Yes,Critical Risk,7,Month-to-month,94.7,673.1,Fiber optic,Yes,No,Credit card (automatic)
+3415-TAILE,0.935,Yes,Critical Risk,2,Month-to-month,65.7,134.35,DSL,No,No,Mailed check
+2636-OHFMN,0.935,Yes,Critical Risk,4,Month-to-month,48.55,201,DSL,No,No,Electronic check
+3045-XETSH,0.935,Yes,Critical Risk,10,Month-to-month,94.85,953.45,Fiber optic,No,No,Electronic check
+2911-UREFD,0.935,Yes,Critical Risk,39,Month-to-month,55.9,2184.35,DSL,Yes,No,Electronic check
+6907-NZZIJ,0.935,Yes,Critical Risk,36,Month-to-month,99.15,3615.6,Fiber optic,No,No,Electronic check
+8739-WWKDU,0.935,Yes,Critical Risk,25,Month-to-month,89.5,2196.15,Fiber optic,No,No,Electronic check
+8017-LXHFA,0.935,Yes,Critical Risk,23,Month-to-month,94.75,2293.6,Fiber optic,No,No,Electronic check
+7932-WPTDS,0.935,Yes,Critical Risk,1,Month-to-month,24.8,24.8,DSL,No,No,Electronic check
+8722-NGNBH,0.93,Yes,Critical Risk,5,Month-to-month,40.0,223.45,DSL,Yes,Yes,Mailed check
+0529-ONKER,0.93,Yes,Critical Risk,15,Month-to-month,75.65,1146.65,Fiber optic,No,No,Electronic check
+2691-NZETQ,0.93,Yes,Critical Risk,9,Month-to-month,85.35,758.6,Fiber optic,No,No,Electronic check
+1980-KXVPM,0.93,Yes,Critical Risk,3,Month-to-month,75.05,256.25,Fiber optic,No,No,Credit card (automatic)
+5609-CEBID,0.93,Yes,Critical Risk,20,Month-to-month,94.1,1782.4,Fiber optic,No,No,Electronic check
+6047-YHPVI,0.93,Yes,Critical Risk,5,Month-to-month,69.7,316.9,Fiber optic,No,No,Electronic check
+5376-DEQCP,0.93,Yes,Critical Risk,1,Month-to-month,70.6,70.6,Fiber optic,No,No,Electronic check
+8337-MSSXB,0.93,Yes,Critical Risk,14,Month-to-month,86.3,1180.95,Fiber optic,No,No,Electronic check
+9948-YPTDG,0.93,Yes,Critical Risk,38,Month-to-month,79.45,3013.05,Fiber optic,Yes,No,Electronic check
+9889-TMAHG,0.93,Yes,Critical Risk,8,Month-to-month,100.3,832.35,Fiber optic,Yes,Yes,Credit card (automatic)
+2722-JMONI,0.93,Yes,Critical Risk,1,Month-to-month,49.55,49.55,DSL,Yes,No,Electronic check
+7517-SAWMO,0.93,Yes,Critical Risk,19,Month-to-month,73.2,1441.1,Fiber optic,Yes,No,Electronic check
+8861-HGGKB,0.93,Yes,Critical Risk,10,Month-to-month,86.45,830.85,Fiber optic,No,No,Electronic check
+3768-NLUBH,0.93,Yes,Critical Risk,57,Month-to-month,100.6,5746.15,Fiber optic,No,No,Electronic check
+3348-CFRNX,0.93,Yes,Critical Risk,28,Month-to-month,92.35,2602.9,Fiber optic,Yes,No,Mailed check
+8642-GVWRF,0.93,Yes,Critical Risk,2,Month-to-month,79.7,165,Fiber optic,No,No,Bank transfer (automatic)
+4929-BSTRX,0.93,Yes,Critical Risk,1,Month-to-month,53.55,53.55,DSL,No,No,Mailed check
+1334-FJSVR,0.93,Yes,Critical Risk,1,Month-to-month,24.25,24.25,DSL,No,No,Electronic check
+3190-XFANI,0.93,Yes,Critical Risk,49,One year,100.6,5069.65,Fiber optic,No,Yes,Bank transfer (automatic)
+5130-IEKQT,0.93,Yes,Critical Risk,25,Month-to-month,105.95,2655.25,Fiber optic,No,No,Mailed check
+5889-LFOLL,0.93,Yes,Critical Risk,13,Month-to-month,84.6,1115.2,Fiber optic,No,No,Electronic check
+9269-CQOOL,0.93,Yes,Critical Risk,3,Month-to-month,54.7,169.45,DSL,No,No,Credit card (automatic)
+7249-WBIYX,0.93,Yes,Critical Risk,10,Month-to-month,85.6,813.85,Fiber optic,No,No,Electronic check
+3707-GNWHM,0.93,Yes,Critical Risk,1,Month-to-month,74.25,74.25,Fiber optic,No,No,Mailed check
+2869-ADAWR,0.93,Yes,Critical Risk,45,Month-to-month,89.3,4016.85,Fiber optic,No,No,Credit card (automatic)
+8884-ADFVN,0.93,Yes,Critical Risk,7,Month-to-month,101.95,700.85,Fiber optic,No,No,Electronic check
+5138-WVKYJ,0.93,Yes,Critical Risk,10,Month-to-month,98.55,1008.55,Fiber optic,Yes,No,Electronic check
+8622-ZLFKO,0.93,Yes,Critical Risk,6,Month-to-month,90.75,512.25,Fiber optic,No,No,Electronic check
+5143-WMWOG,0.93,Yes,Critical Risk,1,Month-to-month,19.95,19.95,No,No internet service,No internet service,Electronic check
+8413-VONUO,0.93,Yes,Critical Risk,2,Month-to-month,95.65,167.3,Fiber optic,No,No,Electronic check
+2058-DCJBE,0.93,Yes,Critical Risk,5,Month-to-month,69.75,324.6,Fiber optic,No,No,Electronic check
+2034-GDRCN,0.93,Yes,Critical Risk,2,Month-to-month,90.4,168.2,Fiber optic,No,No,Electronic check
+0032-PGELS,0.93,Yes,Critical Risk,1,Month-to-month,30.5,30.5,DSL,Yes,No,Bank transfer (automatic)
+8118-LSUEL,0.93,Yes,Critical Risk,23,Month-to-month,106.4,2483.5,Fiber optic,No,No,Electronic check
+0322-YINQP,0.93,Yes,Critical Risk,1,Month-to-month,48.55,48.55,DSL,Yes,No,Mailed check
+7758-XKCBS,0.93,Yes,Critical Risk,15,Month-to-month,29.7,438.25,DSL,No,Yes,Electronic check
+0302-JOIVN,0.93,Yes,Critical Risk,8,Month-to-month,101.15,842.9,Fiber optic,No,No,Electronic check
+4883-QICIH,0.93,Yes,Critical Risk,32,Month-to-month,69.75,2347.9,Fiber optic,No,No,Bank transfer (automatic)
+4958-GZWIY,0.93,Yes,Critical Risk,7,Month-to-month,48.7,340.25,DSL,No,No,Electronic check
+6173-ITPWD,0.93,Yes,Critical Risk,47,Month-to-month,83.35,4065,Fiber optic,No,No,Bank transfer (automatic)
+1024-VRZHF,0.93,Yes,Critical Risk,11,Month-to-month,74.95,825.7,Fiber optic,No,No,Electronic check
+3144-AUDBS,0.93,Yes,Critical Risk,6,Month-to-month,49.15,270.8,DSL,No,Yes,Electronic check
+3096-JRDSO,0.93,Yes,Critical Risk,27,Month-to-month,104.3,2867.75,Fiber optic,Yes,Yes,Bank transfer (automatic)
+7112-OPOTK,0.93,Yes,Critical Risk,33,Month-to-month,68.25,2171.15,Fiber optic,No,No,Electronic check
+2235-ZGKPT,0.93,Yes,Critical Risk,4,Month-to-month,50.85,239.55,DSL,No,No,Mailed check
+5480-TBGPH,0.93,Yes,Critical Risk,24,Month-to-month,99.3,2431.35,Fiber optic,No,No,Credit card (automatic)
+4439-JMPMT,0.93,Yes,Critical Risk,5,Month-to-month,85.75,470.95,Fiber optic,No,Yes,Electronic check
+7562-GSUHK,0.93,Yes,Critical Risk,16,Month-to-month,93.2,1573.7,Fiber optic,No,No,Credit card (automatic)
+7137-RYLPP,0.93,Yes,Critical Risk,37,Month-to-month,85.7,3171.15,Fiber optic,No,No,Electronic check
+5899-MQZZL,0.93,Yes,Critical Risk,13,Month-to-month,75.0,999.45,Fiber optic,No,No,Mailed check
+3132-TVFDZ,0.93,Yes,Critical Risk,57,Month-to-month,44.85,2572.95,DSL,No,No,Electronic check
+5909-ECHUI,0.93,Yes,Critical Risk,1,Month-to-month,56.25,56.25,DSL,No,No,Electronic check
+3663-MITLP,0.93,Yes,Critical Risk,15,Month-to-month,101.25,1457.25,Fiber optic,No,No,Electronic check
+9725-SCPZG,0.93,Yes,Critical Risk,1,Month-to-month,90.85,90.85,Fiber optic,No,No,Electronic check
+8593-WHYHV,0.93,Yes,Critical Risk,3,Month-to-month,85.3,264.8,Fiber optic,No,No,Electronic check
+3669-LVWZB,0.93,Yes,Critical Risk,5,Month-to-month,51.0,305.95,DSL,No,No,Mailed check
+2626-URJFX,0.93,Yes,Critical Risk,4,Month-to-month,50.9,225.6,DSL,No,No,Electronic check
+0115-TFERT,0.93,Yes,Critical Risk,21,Month-to-month,111.2,2317.1,Fiber optic,No,Yes,Electronic check
+0156-FVPTA,0.93,Yes,Critical Risk,22,Month-to-month,54.2,1152.7,DSL,Yes,Yes,Electronic check
+4628-CTTLA,0.93,Yes,Critical Risk,57,Month-to-month,39.3,2111.45,DSL,No,No,Electronic check
+9189-JWSHV,0.93,Yes,Critical Risk,24,Month-to-month,93.55,2264.05,Fiber optic,No,No,Electronic check
+0612-RTZZA,0.93,Yes,Critical Risk,1,Month-to-month,25.25,25.25,DSL,No,No,Electronic check
+7065-YUNRY,0.93,Yes,Critical Risk,1,Month-to-month,45.3,45.3,DSL,No,No,Mailed check
+9174-FKWZE,0.9288,Yes,Critical Risk,1,Month-to-month,19.45,19.45,No,No internet service,No internet service,Electronic check
+8073-IJDCM,0.9265,Yes,Critical Risk,1,Month-to-month,20.3,20.3,No,No internet service,No internet service,Mailed check
+9134-CEQMF,0.925,Yes,Critical Risk,7,Month-to-month,89.5,676.7,Fiber optic,No,No,Electronic check
+4391-RESHN,0.925,Yes,Critical Risk,23,Month-to-month,104.05,2470.1,Fiber optic,No,Yes,Mailed check
+5650-VDUDS,0.925,Yes,Critical Risk,4,Month-to-month,24.25,96.05,DSL,No,No,Mailed check
+8708-XPXHZ,0.925,Yes,Critical Risk,42,Month-to-month,94.2,4186.3,Fiber optic,No,No,Electronic check
+6311-UEUME,0.925,Yes,Critical Risk,29,Month-to-month,78.9,2384.15,Fiber optic,No,No,Electronic check
+7273-TEFQD,0.925,Yes,Critical Risk,3,Month-to-month,41.15,132.2,DSL,No,No,Electronic check
+5649-ANRML,0.925,Yes,Critical Risk,2,Month-to-month,95.1,180.25,Fiber optic,No,Yes,Credit card (automatic)
+3815-SLMEF,0.925,Yes,Critical Risk,3,Month-to-month,34.25,139.35,DSL,Yes,Yes,Mailed check
+2696-NARTR,0.925,Yes,Critical Risk,11,Month-to-month,73.85,926.25,Fiber optic,No,Yes,Electronic check
+7963-GQRMY,0.925,Yes,Critical Risk,3,Month-to-month,44.3,134.5,DSL,No,No,Mailed check
+3005-NFMTA,0.925,Yes,Critical Risk,55,Month-to-month,98.8,5617.75,Fiber optic,Yes,No,Electronic check
+5389-FFVKB,0.925,Yes,Critical Risk,32,Month-to-month,80.3,2483.05,Fiber optic,No,No,Credit card (automatic)
+6467-CHFZW,0.925,Yes,Critical Risk,47,Month-to-month,99.35,4749.15,Fiber optic,No,No,Electronic check
+6583-QGCSI,0.925,Yes,Critical Risk,50,Month-to-month,88.05,4367.35,Fiber optic,No,No,Electronic check
+4625-EWPTF,0.925,Yes,Critical Risk,8,Month-to-month,30.45,226.45,DSL,Yes,No,Electronic check
+6439-GTPCA,0.925,Yes,Critical Risk,45,Month-to-month,87.25,3941.7,Fiber optic,No,Yes,Electronic check
+8780-IXSTS,0.925,Yes,Critical Risk,6,Month-to-month,90.1,521.3,Fiber optic,No,No,Electronic check
+8625-AZYZY,0.925,Yes,Critical Risk,24,Month-to-month,104.65,2542.45,Fiber optic,No,No,Electronic check
+1323-OOEPC,0.925,Yes,Critical Risk,53,Month-to-month,98.4,5149.5,Fiber optic,No,No,Credit card (automatic)
+1196-AMORA,0.925,Yes,Critical Risk,7,Month-to-month,73.6,520,Fiber optic,No,No,Electronic check
+8020-BWHYL,0.925,Yes,Critical Risk,15,Month-to-month,75.3,1147.45,Fiber optic,No,No,Credit card (automatic)
+2239-JALAW,0.925,Yes,Critical Risk,58,One year,103.25,6017.65,Fiber optic,No,No,Bank transfer (automatic)
+5276-KQWHG,0.925,Yes,Critical Risk,2,Month-to-month,69.6,131.65,Fiber optic,No,No,Electronic check
+3329-WDIOK,0.925,Yes,Critical Risk,3,Month-to-month,50.6,155.35,DSL,No,No,Electronic check
+5908-QMGOE,0.925,Yes,Critical Risk,15,Month-to-month,74.2,1133.9,Fiber optic,No,No,Credit card (automatic)
+1644-IRKSF,0.925,Yes,Critical Risk,33,One year,93.8,3124.5,Fiber optic,No,No,Electronic check
+3426-NIYYL,0.925,Yes,Critical Risk,15,Month-to-month,51.55,765.5,DSL,No,No,Electronic check
+6413-XKKPU,0.925,Yes,Critical Risk,17,Month-to-month,89.4,1539.45,Fiber optic,Yes,No,Electronic check
+1481-ZUWZA,0.925,Yes,Critical Risk,28,Month-to-month,94.5,2659.4,Fiber optic,Yes,No,Credit card (automatic)
+6328-ZPBGN,0.925,Yes,Critical Risk,11,Month-to-month,95.15,997.65,Fiber optic,No,No,Bank transfer (automatic)
+0475-RIJEP,0.925,Yes,Critical Risk,43,Month-to-month,77.85,3365.85,Fiber optic,No,No,Electronic check
+9448-REEVD,0.925,Yes,Critical Risk,1,Month-to-month,44.7,44.7,DSL,No,No,Credit card (automatic)
+3500-RMZLT,0.925,Yes,Critical Risk,15,Month-to-month,96.3,1426.75,Fiber optic,Yes,Yes,Mailed check
+2833-SLKDQ,0.925,Yes,Critical Risk,1,Month-to-month,45.05,45.05,DSL,No,No,Mailed check
+9474-PHLYD,0.925,Yes,Critical Risk,15,Month-to-month,59.45,892.65,DSL,No,No,Electronic check
+3943-KDREE,0.925,Yes,Critical Risk,26,Month-to-month,74.95,1834.95,Fiber optic,No,No,Bank transfer (automatic)
+1240-KNSEZ,0.925,Yes,Critical Risk,1,Month-to-month,20.1,20.1,No,No internet service,No internet service,Mailed check
+1891-FZYSA,0.925,Yes,Critical Risk,69,Month-to-month,89.95,6143.15,Fiber optic,No,No,Electronic check
+4797-AXPXK,0.925,Yes,Critical Risk,1,Month-to-month,60.0,60,DSL,Yes,Yes,Electronic check
+0193-ESZXP,0.925,Yes,Critical Risk,58,One year,105.5,6205.5,Fiber optic,Yes,Yes,Credit card (automatic)
+6769-DCQLI,0.925,Yes,Critical Risk,52,One year,105.0,5426.85,Fiber optic,No,Yes,Bank transfer (automatic)
+8128-YVJRG,0.925,Yes,Critical Risk,7,Month-to-month,79.65,604.7,Fiber optic,Yes,No,Mailed check
+7752-XUSCI,0.925,Yes,Critical Risk,60,Month-to-month,105.9,6396.45,Fiber optic,No,No,Electronic check
+3814-MLAXC,0.925,Yes,Critical Risk,31,Month-to-month,79.85,2404.15,Fiber optic,No,Yes,Credit card (automatic)
+3945-GFWQL,0.925,Yes,Critical Risk,12,Month-to-month,44.55,480.6,DSL,No,No,Electronic check
+6305-YLBMM,0.925,Yes,Critical Risk,69,One year,104.05,7262,Fiber optic,No,Yes,Bank transfer (automatic)
+8229-TNIQA,0.925,Yes,Critical Risk,4,Month-to-month,45.3,196.95,DSL,No,No,Mailed check
+0679-IDSTG,0.925,Yes,Critical Risk,1,Month-to-month,69.25,69.25,Fiber optic,No,No,Electronic check
+0504-HHAPI,0.925,Yes,Critical Risk,27,Month-to-month,88.3,2467.75,Fiber optic,No,No,Credit card (automatic)
+1000-AJSLD,0.925,Yes,Critical Risk,1,Month-to-month,20.1,20.1,No,No internet service,No internet service,Mailed check
+5099-BAILX,0.925,Yes,Critical Risk,43,Month-to-month,110.75,4687.9,Fiber optic,No,Yes,Bank transfer (automatic)
+1582-RAFML,0.925,Yes,Critical Risk,1,Month-to-month,60.1,60.1,DSL,No,Yes,Mailed check
+2091-RFFBA,0.925,Yes,Critical Risk,31,Month-to-month,73.9,2217.15,Fiber optic,No,No,Electronic check
+9058-CBREO,0.925,Yes,Critical Risk,1,Month-to-month,50.55,50.55,DSL,No,No,Mailed check
+7927-AUXBZ,0.925,Yes,Critical Risk,30,Month-to-month,85.15,2555.9,Fiber optic,No,Yes,Electronic check
+0133-BMFZO,0.925,Yes,Critical Risk,2,Month-to-month,86.25,181.65,Fiber optic,Yes,Yes,Electronic check
+6235-VDHOM,0.925,Yes,Critical Risk,5,Month-to-month,28.45,131.05,DSL,No,No,Electronic check
+5577-OTWWW,0.925,Yes,Critical Risk,15,Month-to-month,19.75,297.3,No,No internet service,No internet service,Bank transfer (automatic)
+2372-HWUHI,0.925,Yes,Critical Risk,2,Month-to-month,44.35,81.25,DSL,No,No,Electronic check
+9408-SSNVZ,0.925,Yes,Critical Risk,4,Month-to-month,70.15,268.35,Fiber optic,No,No,Electronic check
+6856-RAURS,0.9233,Yes,Critical Risk,2,Month-to-month,74.9,136.05,Fiber optic,No,No,Mailed check
+1041-RXHRA,0.92,Yes,Critical Risk,41,Month-to-month,70.25,2868.05,Fiber optic,No,No,Bank transfer (automatic)
+9564-KCLHR,0.92,Yes,Critical Risk,1,Month-to-month,51.25,51.25,DSL,No,Yes,Mailed check
+5536-SLHPM,0.92,Yes,Critical Risk,55,Month-to-month,77.75,4458.15,Fiber optic,No,No,Electronic check
+6394-MFYNG,0.92,Yes,Critical Risk,48,Month-to-month,107.4,5121.3,Fiber optic,No,No,Bank transfer (automatic)
+3791-LGQCY,0.92,Yes,Critical Risk,56,Month-to-month,100.65,5688.05,Fiber optic,No,No,Bank transfer (automatic)
+0533-BNWKF,0.92,Yes,Critical Risk,55,Month-to-month,85.45,4874.7,Fiber optic,No,No,Electronic check
+5442-UTCVD,0.92,Yes,Critical Risk,3,Month-to-month,91.85,257.05,Fiber optic,No,No,Electronic check
+6410-LEFEN,0.92,Yes,Critical Risk,9,Month-to-month,45.15,416.45,DSL,No,No,Electronic check
+7743-EXURX,0.92,Yes,Critical Risk,8,Month-to-month,51.05,415.05,DSL,No,No,Electronic check
+6641-XRPSU,0.92,Yes,Critical Risk,34,Month-to-month,70.0,2416.1,Fiber optic,No,No,Credit card (automatic)
+2037-SGXHH,0.92,Yes,Critical Risk,38,Month-to-month,94.65,3624.3,Fiber optic,No,No,Electronic check
+0611-DFXKO,0.92,Yes,Critical Risk,20,Month-to-month,89.0,1820.45,Fiber optic,No,No,Mailed check
+8775-ERLNB,0.92,Yes,Critical Risk,1,Month-to-month,74.3,74.3,Fiber optic,No,No,Electronic check
+2189-UXTKY,0.92,Yes,Critical Risk,22,Month-to-month,79.2,1742.75,DSL,Yes,Yes,Electronic check
+6905-NIQIN,0.92,Yes,Critical Risk,1,Month-to-month,50.65,50.65,DSL,No,No,Mailed check
+1113-IUJYX,0.92,Yes,Critical Risk,14,One year,105.95,1348.9,Fiber optic,Yes,Yes,Mailed check
+1251-KRREG,0.92,Yes,Critical Risk,2,Month-to-month,54.4,114.1,DSL,No,No,Mailed check
+6906-ANDWJ,0.92,Yes,Critical Risk,15,Month-to-month,74.9,1107.25,Fiber optic,No,No,Bank transfer (automatic)
+5027-XWQHA,0.92,Yes,Critical Risk,6,Month-to-month,44.75,270.95,DSL,No,No,Electronic check
+0601-WZHJF,0.92,Yes,Critical Risk,14,Month-to-month,46.35,667.7,DSL,No,No,Electronic check
+1343-EHPYB,0.92,Yes,Critical Risk,63,Month-to-month,103.4,6603,Fiber optic,No,No,Electronic check
+2403-BCASL,0.92,Yes,Critical Risk,41,One year,111.95,4534.9,Fiber optic,No,Yes,Electronic check
+3249-ZPQRG,0.92,Yes,Critical Risk,4,Month-to-month,78.45,330.05,Fiber optic,No,No,Electronic check
+2898-LSJGD,0.92,Yes,Critical Risk,21,One year,55.95,1157.05,DSL,Yes,No,Electronic check
+8644-XLFBW,0.92,Yes,Critical Risk,1,Month-to-month,71.65,71.65,Fiber optic,No,No,Electronic check
+3317-HRTNN,0.92,Yes,Critical Risk,5,Month-to-month,45.7,198,DSL,No,No,Electronic check
+4971-PUYQO,0.92,Yes,Critical Risk,27,Month-to-month,94.55,2724.6,Fiber optic,No,No,Mailed check
+9940-HPQPG,0.92,Yes,Critical Risk,9,Month-to-month,91.75,865.8,Fiber optic,Yes,No,Bank transfer (automatic)
+0639-TSIQW,0.92,Yes,Critical Risk,67,Month-to-month,102.95,6886.25,Fiber optic,Yes,No,Credit card (automatic)
+5154-VEKBL,0.92,Yes,Critical Risk,9,Month-to-month,58.5,539.85,DSL,Yes,Yes,Mailed check
+9250-WYPLL,0.92,Yes,Critical Risk,5,Month-to-month,75.55,413.65,Fiber optic,No,No,Electronic check
+1862-SKORY,0.92,Yes,Critical Risk,40,Month-to-month,39.3,1637.4,DSL,No,No,Electronic check
+9492-TOKRI,0.92,Yes,Critical Risk,18,Month-to-month,90.0,1527.35,Fiber optic,No,No,Credit card (automatic)
+4911-BANWH,0.92,Yes,Critical Risk,31,Month-to-month,86.55,2697.4,Fiber optic,No,No,Credit card (automatic)
+4902-OHLSK,0.92,Yes,Critical Risk,29,Month-to-month,98.65,2862.75,Fiber optic,No,Yes,Electronic check
+6347-DCUIK,0.92,Yes,Critical Risk,10,Month-to-month,74.15,811.8,Fiber optic,No,No,Mailed check
+0337-CNPZE,0.92,Yes,Critical Risk,41,Month-to-month,106.3,4443.45,Fiber optic,No,No,Electronic check
+3336-JORSO,0.92,Yes,Critical Risk,33,Month-to-month,110.45,3655.45,Fiber optic,No,Yes,Electronic check
+2959-MJHIC,0.92,Yes,Critical Risk,4,Month-to-month,80.35,307.4,Fiber optic,No,No,Electronic check
+8225-BTJAU,0.92,Yes,Critical Risk,10,Month-to-month,79.25,793.55,Fiber optic,No,No,Electronic check
+7593-XFKDI,0.92,Yes,Critical Risk,1,Month-to-month,46.3,46.3,DSL,No,No,Mailed check
+6032-KRXXO,0.92,Yes,Critical Risk,30,Month-to-month,90.25,2755.35,Fiber optic,No,No,Electronic check
+3976-BWUCK,0.92,Yes,Critical Risk,30,Month-to-month,94.1,2804.45,Fiber optic,No,Yes,Credit card (automatic)
+3148-BLQJT,0.92,Yes,Critical Risk,1,Month-to-month,20.1,20.1,No,No internet service,No internet service,Mailed check
+8740-XLHDR,0.92,Yes,Critical Risk,5,Month-to-month,43.25,219,DSL,Yes,Yes,Mailed check
+3521-SYVOR,0.92,Yes,Critical Risk,37,Month-to-month,64.75,2345.2,DSL,No,No,Electronic check
+3886-CERTZ,0.92,Yes,Critical Risk,72,One year,109.25,8109.8,Fiber optic,No,Yes,Electronic check
+7739-LAXOG,0.92,Yes,Critical Risk,32,Month-to-month,91.05,2954.5,Fiber optic,No,No,Bank transfer (automatic)
+6923-EFPNL,0.92,Yes,Critical Risk,4,Month-to-month,51.75,201.1,DSL,No,No,Credit card (automatic)
+0320-JDNQG,0.92,Yes,Critical Risk,23,Month-to-month,99.85,2331.3,Fiber optic,Yes,Yes,Electronic check
+4558-FANTW,0.92,Yes,Critical Risk,17,Month-to-month,91.85,1574.45,Fiber optic,Yes,Yes,Electronic check
+0406-BPDVR,0.92,Yes,Critical Risk,54,One year,101.5,5373.1,Fiber optic,No,No,Credit card (automatic)
+8949-JTMAY,0.92,Yes,Critical Risk,29,Month-to-month,98.6,2933.2,Fiber optic,No,No,Credit card (automatic)
+0727-BMPLR,0.92,Yes,Critical Risk,55,One year,100.0,5509.3,Fiber optic,No,No,Electronic check
+7853-GVUDZ,0.92,Yes,Critical Risk,1,Month-to-month,20.15,20.15,No,No internet service,No internet service,Credit card (automatic)
+5394-SVGJV,0.915,Yes,Critical Risk,37,Month-to-month,98.8,3475.55,Fiber optic,No,Yes,Bank transfer (automatic)
+8155-IBNHG,0.915,Yes,Critical Risk,24,Month-to-month,75.4,1747.85,Fiber optic,No,No,Credit card (automatic)
+9614-RMGHA,0.915,Yes,Critical Risk,65,Month-to-month,91.85,5940.85,Fiber optic,No,No,Bank transfer (automatic)
+7854-EDSSA,0.915,Yes,Critical Risk,22,Month-to-month,59.0,1254.7,DSL,Yes,No,Electronic check
+9578-VRMNM,0.915,Yes,Critical Risk,16,Month-to-month,65.2,1043.35,DSL,No,No,Credit card (automatic)
+8565-CLBZW,0.915,Yes,Critical Risk,24,Month-to-month,89.85,2165.05,Fiber optic,No,No,Mailed check
+1226-UDFZR,0.915,Yes,Critical Risk,2,Month-to-month,49.6,114.7,DSL,No,No,Mailed check
+2722-VOJQL,0.915,Yes,Critical Risk,64,One year,105.65,6903.1,Fiber optic,No,Yes,Credit card (automatic)
+9661-ACXBS,0.915,Yes,Critical Risk,42,Month-to-month,105.2,4400.75,Fiber optic,Yes,No,Electronic check
+1271-SJBGZ,0.915,Yes,Critical Risk,12,Month-to-month,43.65,526.95,DSL,No,Yes,Electronic check
+3023-GFLBR,0.915,Yes,Critical Risk,33,Month-to-month,86.15,2745.7,Fiber optic,No,No,Credit card (automatic)
+9734-UYXQI,0.915,Yes,Critical Risk,2,Month-to-month,49.4,106.55,DSL,No,No,Electronic check
+0578-SKVMF,0.915,Yes,Critical Risk,22,Month-to-month,83.3,1845.9,Fiber optic,No,No,Electronic check
+4510-PYUSH,0.915,Yes,Critical Risk,38,Month-to-month,57.15,2250.65,DSL,Yes,No,Credit card (automatic)
+3992-YWPKO,0.915,Yes,Critical Risk,6,Month-to-month,109.9,669.45,Fiber optic,No,Yes,Credit card (automatic)
+9560-ARGQJ,0.915,Yes,Critical Risk,16,Month-to-month,81.0,1312.15,Fiber optic,No,No,Electronic check
+0617-FHSGK,0.915,Yes,Critical Risk,49,Month-to-month,75.2,3678.3,Fiber optic,No,No,Credit card (automatic)
+1750-CSKKM,0.915,Yes,Critical Risk,9,Month-to-month,55.35,449.75,DSL,No,No,Electronic check
+0691-JVSYA,0.915,Yes,Critical Risk,53,One year,94.85,5000.2,Fiber optic,No,No,Bank transfer (automatic)
+4484-GLZOU,0.915,Yes,Critical Risk,52,Month-to-month,105.05,5624.85,Fiber optic,No,No,Electronic check
+8718-PTMEZ,0.915,Yes,Critical Risk,13,Month-to-month,31.05,347.25,DSL,No,No,Electronic check
+3506-LCJDC,0.915,Yes,Critical Risk,1,Month-to-month,19.95,19.95,No,No internet service,No internet service,Bank transfer (automatic)
+9445-SZLCH,0.915,Yes,Critical Risk,36,Month-to-month,97.35,3457.9,Fiber optic,No,No,Bank transfer (automatic)
+8665-UTDHZ,0.915,Yes,Critical Risk,1,Month-to-month,30.2,30.2,DSL,No,No,Electronic check
+7000-WCEVQ,0.915,Yes,Critical Risk,20,Month-to-month,61.6,1174.35,DSL,No,No,Mailed check
+5515-IDEJJ,0.915,Yes,Critical Risk,1,Month-to-month,19.9,19.9,No,No internet service,No internet service,Mailed check
+9565-DJPIB,0.915,Yes,Critical Risk,4,Month-to-month,89.6,365.65,Fiber optic,No,No,Mailed check
+0587-DMGBH,0.915,Yes,Critical Risk,8,Month-to-month,49.85,365.55,DSL,Yes,No,Electronic check
+7133-VBDCG,0.915,Yes,Critical Risk,25,Month-to-month,79.85,2015.35,Fiber optic,Yes,No,Bank transfer (automatic)
+5696-QURRL,0.915,Yes,Critical Risk,1,Month-to-month,45.05,45.05,DSL,No,No,Mailed check
+6365-MTGZX,0.915,Yes,Critical Risk,24,Month-to-month,96.0,2122.45,Fiber optic,No,Yes,Electronic check
+2632-UCGVD,0.915,Yes,Critical Risk,66,Month-to-month,100.05,6871.9,Fiber optic,No,Yes,Credit card (automatic)
+7931-PXHFC,0.915,Yes,Critical Risk,38,One year,62.3,2354.8,DSL,No,Yes,Mailed check
+0596-BQCEQ,0.915,Yes,Critical Risk,62,Month-to-month,100.15,6283.3,Fiber optic,No,No,Electronic check
+2398-YPMUR,0.915,Yes,Critical Risk,13,Month-to-month,70.15,916.75,Fiber optic,No,No,Electronic check
+4430-UZIPO,0.915,Yes,Critical Risk,3,Month-to-month,36.85,108.7,DSL,No,Yes,Mailed check
+0968-GSIKN,0.915,Yes,Critical Risk,1,Month-to-month,70.8,70.8,Fiber optic,No,No,Mailed check
+4505-EXZHB,0.915,Yes,Critical Risk,6,Month-to-month,74.4,434.1,Fiber optic,No,No,Electronic check
+2684-EIWEO,0.915,Yes,Critical Risk,30,Month-to-month,91.7,2758.15,Fiber optic,Yes,No,Credit card (automatic)
+2011-TRQYE,0.915,Yes,Critical Risk,18,Month-to-month,33.5,600,DSL,No,No,Credit card (automatic)
+8614-VGMMV,0.915,Yes,Critical Risk,15,Month-to-month,49.1,679.55,DSL,No,No,Electronic check
+3859-CVCET,0.915,Yes,Critical Risk,4,Month-to-month,45.65,191.05,DSL,No,No,Mailed check
+5590-BYNII,0.915,Yes,Critical Risk,22,Month-to-month,100.75,2095,Fiber optic,Yes,No,Electronic check
+3259-FDWOY,0.915,Yes,Critical Risk,71,Two year,106.0,7723.7,Fiber optic,No,No,Bank transfer (automatic)
+2933-FILNV,0.915,Yes,Critical Risk,2,Month-to-month,24.4,36.55,DSL,No,No,Mailed check
+9540-JYROE,0.915,Yes,Critical Risk,8,Month-to-month,70.1,551.35,Fiber optic,No,No,Mailed check
+3519-ZKXGG,0.915,Yes,Critical Risk,3,Month-to-month,75.85,256.6,Fiber optic,No,No,Electronic check
+8835-VSDSE,0.915,Yes,Critical Risk,2,Month-to-month,70.7,141.45,Fiber optic,No,No,Electronic check
+6686-YPGHK,0.915,Yes,Critical Risk,47,Month-to-month,85.5,4042.3,Fiber optic,Yes,No,Mailed check
+7675-OZCZG,0.915,Yes,Critical Risk,3,Month-to-month,45.0,127.1,DSL,No,No,Electronic check
+5028-GZLDO,0.9125,Yes,Critical Risk,2,Month-to-month,70.7,140.7,Fiber optic,No,No,Credit card (automatic)
+9801-GDWGV,0.91,Yes,Critical Risk,39,Month-to-month,103.45,3994.45,Fiber optic,No,No,Electronic check
+7240-FQLHE,0.91,Yes,Critical Risk,18,Month-to-month,99.75,1836.25,Fiber optic,No,Yes,Bank transfer (automatic)
+4671-LXRDQ,0.91,Yes,Critical Risk,2,Month-to-month,45.0,96.45,DSL,No,No,Mailed check
+9776-CLUJA,0.91,Yes,Critical Risk,51,Month-to-month,77.5,3807.35,Fiber optic,Yes,No,Electronic check
+5016-ETTFF,0.91,Yes,Critical Risk,10,Month-to-month,29.5,255.25,DSL,No,No,Mailed check
+8806-EAGWC,0.91,Yes,Critical Risk,3,Month-to-month,55.15,159.15,DSL,No,No,Mailed check
+8443-ZRDBZ,0.91,Yes,Critical Risk,4,Month-to-month,76.05,318.9,Fiber optic,No,No,Electronic check
+7703-ZEKEF,0.91,Yes,Critical Risk,23,Month-to-month,81.0,1917.1,Fiber optic,No,No,Electronic check
+6979-ZNSFF,0.91,Yes,Critical Risk,8,Month-to-month,87.05,762.1,Fiber optic,No,No,Electronic check
+1324-NLTJE,0.91,Yes,Critical Risk,15,Month-to-month,55.0,757.1,DSL,No,Yes,Credit card (automatic)
+4760-XOHVN,0.91,Yes,Critical Risk,1,Month-to-month,19.45,19.45,No,No internet service,No internet service,Mailed check
+0117-LFRMW,0.91,Yes,Critical Risk,37,Month-to-month,40.2,1448.8,DSL,Yes,No,Bank transfer (automatic)
+8937-RDTHP,0.91,Yes,Critical Risk,1,Month-to-month,84.6,84.6,Fiber optic,Yes,No,Mailed check
+5832-XKAES,0.91,Yes,Critical Risk,2,Month-to-month,69.8,134.7,Fiber optic,No,No,Credit card (automatic)
+7734-DBOAI,0.91,Yes,Critical Risk,1,Month-to-month,40.1,40.1,DSL,No,Yes,Electronic check
+4248-HCETZ,0.91,Yes,Critical Risk,30,Month-to-month,79.65,2365.15,Fiber optic,No,No,Mailed check
+8773-HHUOZ,0.91,Yes,Critical Risk,17,Month-to-month,64.7,1093.1,DSL,No,No,Mailed check
+8327-LZKAS,0.91,Yes,Critical Risk,43,One year,107.55,4533.9,Fiber optic,No,Yes,Electronic check
+8444-WRIDW,0.91,Yes,Critical Risk,66,Month-to-month,80.45,5224.35,Fiber optic,No,No,Credit card (automatic)
+2657-ALMWY,0.91,Yes,Critical Risk,26,Month-to-month,84.95,2169.75,Fiber optic,No,No,Electronic check
+6313-GIDIT,0.91,Yes,Critical Risk,53,Month-to-month,54.45,2854.55,DSL,No,No,Electronic check
+5057-LCOUI,0.91,Yes,Critical Risk,39,Month-to-month,50.75,2011.4,DSL,No,No,Electronic check
+4612-THJBS,0.91,Yes,Critical Risk,56,One year,104.75,5510.65,Fiber optic,No,No,Bank transfer (automatic)
+2357-COQEK,0.91,Yes,Critical Risk,28,Month-to-month,103.3,2890.65,Fiber optic,No,Yes,Electronic check
+1193-RTSLK,0.91,Yes,Critical Risk,38,Month-to-month,83.9,3233.6,Fiber optic,Yes,No,Credit card (automatic)
+5233-GEEAX,0.91,Yes,Critical Risk,8,Month-to-month,29.4,221.9,DSL,No,No,Electronic check
+6158-DWPZT,0.91,Yes,Critical Risk,9,One year,24.1,259.8,DSL,No,No,Bank transfer (automatic)
+1670-SVOWZ,0.91,Yes,Critical Risk,14,Month-to-month,89.65,1208.35,Fiber optic,No,Yes,Credit card (automatic)
+4139-SUGLD,0.91,Yes,Critical Risk,31,Month-to-month,35.4,1077.5,DSL,Yes,Yes,Bank transfer (automatic)
+4607-CHPCA,0.91,Yes,Critical Risk,25,One year,90.4,2178.6,Fiber optic,No,No,Electronic check
+4523-WXCEF,0.91,Yes,Critical Risk,59,Month-to-month,101.1,6039.9,Fiber optic,No,No,Electronic check
+6121-VZNQB,0.91,Yes,Critical Risk,1,Month-to-month,19.1,19.1,No,No internet service,No internet service,Mailed check
+5449-FIBXJ,0.91,Yes,Critical Risk,19,Month-to-month,103.3,2012.7,Fiber optic,No,Yes,Electronic check
+8257-RZAHR,0.91,Yes,Critical Risk,14,Month-to-month,64.7,941,DSL,Yes,No,Bank transfer (automatic)
+5649-TJHOV,0.91,Yes,Critical Risk,27,Month-to-month,36.5,1032,DSL,No,No,Bank transfer (automatic)
+4193-ORFCL,0.91,Yes,Critical Risk,1,Month-to-month,45.1,45.1,DSL,No,No,Mailed check
+4662-EKDPQ,0.91,Yes,Critical Risk,2,Month-to-month,62.05,118.3,DSL,No,No,Bank transfer (automatic)
+0325-XBFAC,0.91,Yes,Critical Risk,8,Month-to-month,94.7,740.3,Fiber optic,No,No,Electronic check
+5167-ZFFMM,0.91,Yes,Critical Risk,1,Month-to-month,90.85,90.85,Fiber optic,No,No,Credit card (automatic)
+3866-MDTUB,0.91,Yes,Critical Risk,2,Month-to-month,70.75,146.9,DSL,Yes,No,Electronic check
+9898-KZQDZ,0.91,Yes,Critical Risk,40,Month-to-month,94.55,3640.45,Fiber optic,No,No,Credit card (automatic)
+5498-TXHLF,0.91,Yes,Critical Risk,34,Month-to-month,87.45,2874.15,Fiber optic,No,No,Electronic check
+2718-GAXQD,0.91,Yes,Critical Risk,4,Month-to-month,46.0,181.6,DSL,No,No,Electronic check
+3211-ILJTT,0.91,Yes,Critical Risk,17,Month-to-month,70.4,1214.05,Fiber optic,No,No,Bank transfer (automatic)
+4903-UYAVB,0.91,Yes,Critical Risk,5,Month-to-month,19.35,126.05,No,No internet service,No internet service,Mailed check
+7549-MYGPK,0.91,Yes,Critical Risk,63,Month-to-month,100.55,6215.35,Fiber optic,Yes,No,Electronic check
+9831-BPFRI,0.91,Yes,Critical Risk,39,One year,89.55,3474.45,Fiber optic,No,Yes,Electronic check
+6376-GAHQE,0.91,Yes,Critical Risk,4,Month-to-month,77.85,299.2,Fiber optic,No,No,Electronic check
+5295-PCJOO,0.91,Yes,Critical Risk,4,Month-to-month,49.4,184.4,DSL,Yes,No,Electronic check
+6230-BSUXY,0.91,Yes,Critical Risk,1,Month-to-month,85.0,85,Fiber optic,No,No,Electronic check
+4183-WCSEP,0.91,Yes,Critical Risk,31,Month-to-month,78.45,2435.15,Fiber optic,No,Yes,Electronic check
+4369-HTUIF,0.91,Yes,Critical Risk,6,Month-to-month,85.15,503.6,Fiber optic,Yes,No,Bank transfer (automatic)
+0265-EDXBD,0.91,Yes,Critical Risk,32,Month-to-month,74.9,2303.35,Fiber optic,No,No,Electronic check
+6982-UQZLY,0.9088,Yes,Critical Risk,1,Month-to-month,20.85,20.85,No,No internet service,No internet service,Mailed check
+5028-HTLJB,0.9077,Yes,Critical Risk,1,Month-to-month,20.05,20.05,No,No internet service,No internet service,Mailed check
+8775-CEBBJ,0.905,Yes,Critical Risk,9,Month-to-month,44.2,403.35,DSL,No,No,Bank transfer (automatic)
+3192-NQECA,0.905,Yes,Critical Risk,68,Two year,110.0,7611.85,Fiber optic,No,Yes,Bank transfer (automatic)
+6366-ZGQGL,0.905,Yes,Critical Risk,1,Month-to-month,24.8,24.8,DSL,No,No,Bank transfer (automatic)
+9210-IAHGH,0.905,Yes,Critical Risk,7,Month-to-month,70.75,450.8,DSL,No,Yes,Credit card (automatic)
+5868-CZJDR,0.905,Yes,Critical Risk,1,Month-to-month,31.35,31.35,DSL,No,No,Mailed check
+0107-WESLM,0.905,Yes,Critical Risk,1,Month-to-month,19.85,19.85,No,No internet service,No internet service,Electronic check
+3927-NLNRY,0.905,Yes,Critical Risk,53,One year,94.25,4867.95,Fiber optic,No,No,Bank transfer (automatic)
+8399-YNDCH,0.905,Yes,Critical Risk,21,Month-to-month,60.05,1236.15,DSL,No,No,Bank transfer (automatic)
+3999-QGRJH,0.905,Yes,Critical Risk,8,Month-to-month,69.7,560.85,Fiber optic,No,No,Electronic check
+0420-BWTPW,0.905,Yes,Critical Risk,8,Month-to-month,25.5,215.2,DSL,No,No,Mailed check
+0137-UDEUO,0.905,Yes,Critical Risk,3,Month-to-month,19.85,63.75,No,No internet service,No internet service,Mailed check
+2479-BRAMR,0.905,Yes,Critical Risk,41,Month-to-month,83.75,3273.55,Fiber optic,Yes,No,Bank transfer (automatic)
+6178-KFNHS,0.905,Yes,Critical Risk,12,Month-to-month,78.3,909.25,Fiber optic,Yes,No,Electronic check
+0260-ZDLGK,0.905,Yes,Critical Risk,9,Month-to-month,72.9,651.4,DSL,No,Yes,Mailed check
+8610-WFCJF,0.905,Yes,Critical Risk,49,Month-to-month,95.6,4783.5,Fiber optic,No,No,Electronic check
+5440-FLBQG,0.905,Yes,Critical Risk,69,Two year,108.4,7318.2,Fiber optic,No,Yes,Bank transfer (automatic)
+5707-ORNDZ,0.905,Yes,Critical Risk,9,Month-to-month,54.55,494.05,DSL,Yes,No,Electronic check
+6425-YQLLO,0.905,Yes,Critical Risk,66,One year,105.95,6975.25,Fiber optic,No,Yes,Credit card (automatic)
+1771-OADNZ,0.905,Yes,Critical Risk,29,Month-to-month,95.9,2745.2,Fiber optic,No,No,Electronic check
+0618-XWMSS,0.905,Yes,Critical Risk,28,Month-to-month,74.9,2068.55,Fiber optic,Yes,No,Bank transfer (automatic)
+2321-OMBXY,0.905,Yes,Critical Risk,38,One year,80.3,3058.65,DSL,Yes,Yes,Credit card (automatic)
+2359-QWQUL,0.905,Yes,Critical Risk,39,One year,104.7,4134.85,Fiber optic,Yes,Yes,Credit card (automatic)
+2433-KMEAS,0.905,Yes,Critical Risk,22,Month-to-month,54.45,1127.35,DSL,Yes,No,Electronic check
+7055-VKGDA,0.905,Yes,Critical Risk,54,One year,105.4,5643.4,Fiber optic,Yes,Yes,Credit card (automatic)
+6715-OFDBP,0.905,Yes,Critical Risk,5,Month-to-month,70.05,346.4,DSL,No,No,Electronic check
+5955-ERIHD,0.905,Yes,Critical Risk,18,Month-to-month,94.7,1687.95,Fiber optic,No,No,Electronic check
+7580-UGXNC,0.905,Yes,Critical Risk,2,Month-to-month,54.85,104.2,DSL,Yes,No,Mailed check
+9821-POOTN,0.905,Yes,Critical Risk,35,Month-to-month,75.2,2576.2,Fiber optic,No,No,Electronic check
+4088-YLDSU,0.905,Yes,Critical Risk,55,One year,104.15,5743.05,Fiber optic,No,Yes,Electronic check
+5922-ABDVO,0.905,Yes,Critical Risk,19,Month-to-month,89.65,1761.05,Fiber optic,No,No,Mailed check
+4398-HSCJH,0.905,Yes,Critical Risk,3,Month-to-month,63.6,155.65,DSL,No,Yes,Electronic check
+3090-HAWSU,0.905,Yes,Critical Risk,61,Two year,111.6,6876.05,Fiber optic,Yes,Yes,Credit card (automatic)
+0617-AQNWT,0.905,Yes,Critical Risk,64,Two year,47.85,3147.5,DSL,Yes,Yes,Electronic check
+4959-JOSRX,0.905,Yes,Critical Risk,2,Month-to-month,44.6,80.55,DSL,No,No,Credit card (automatic)
+3351-NQLDI,0.905,Yes,Critical Risk,67,One year,94.35,6341.45,Fiber optic,Yes,Yes,Credit card (automatic)
+9490-DFPMD,0.905,Yes,Critical Risk,42,Month-to-month,84.65,3541.35,Fiber optic,No,No,Electronic check
+5318-IXUZF,0.905,Yes,Critical Risk,2,Month-to-month,87.15,183.75,Fiber optic,No,No,Bank transfer (automatic)
+4587-VVTOX,0.905,Yes,Critical Risk,6,Month-to-month,105.3,545.2,Fiber optic,No,No,Electronic check
+0397-GZBBC,0.905,Yes,Critical Risk,59,Month-to-month,93.85,5574.75,Fiber optic,No,No,Bank transfer (automatic)
+7551-DACSP,0.905,Yes,Critical Risk,6,Month-to-month,55.3,324.25,DSL,No,No,Mailed check
+3194-ORPIK,0.905,Yes,Critical Risk,50,Month-to-month,84.4,4116.15,Fiber optic,No,No,Bank transfer (automatic)
+4580-TMHJU,0.905,Yes,Critical Risk,43,Month-to-month,56.15,2499.3,DSL,No,No,Electronic check
+8761-NSOBC,0.905,Yes,Critical Risk,44,Month-to-month,100.55,4398.15,Fiber optic,No,Yes,Electronic check
+6302-JGYRJ,0.905,Yes,Critical Risk,31,One year,79.45,2587.7,DSL,No,Yes,Mailed check
+2037-XJFUP,0.905,Yes,Critical Risk,33,One year,95.8,3036.75,Fiber optic,No,No,Electronic check
+5307-DZCVC,0.905,Yes,Critical Risk,32,Month-to-month,85.95,2628.6,Fiber optic,No,No,Credit card (automatic)
+8387-MOJJT,0.905,Yes,Critical Risk,42,Month-to-month,77.95,3384,Fiber optic,No,No,Credit card (automatic)
+2834-SPCJV,0.905,Yes,Critical Risk,52,Month-to-month,84.1,4348.65,Fiber optic,Yes,No,Electronic check
+3030-YZADT,0.9,Yes,Critical Risk,9,Month-to-month,44.95,431,DSL,No,No,Mailed check
+7774-OJSXI,0.9,Yes,Critical Risk,31,One year,103.45,3066.45,Fiber optic,No,No,Electronic check
+5688-KZTSN,0.9,Yes,Critical Risk,15,Month-to-month,20.0,288.05,No,No internet service,No internet service,Electronic check
+0836-SEYLU,0.9,Yes,Critical Risk,9,Month-to-month,40.65,328.95,DSL,No,Yes,Mailed check
+5013-SBUIH,0.9,Yes,Critical Risk,50,Two year,109.65,5551.15,Fiber optic,Yes,Yes,Electronic check
+6849-OYAMU,0.9,Yes,Critical Risk,19,One year,100.0,1888.65,Fiber optic,No,Yes,Bank transfer (automatic)
+2195-ZRVAX,0.9,Yes,Critical Risk,47,Month-to-month,85.3,4045.65,Fiber optic,No,No,Electronic check
+9170-GYZJC,0.9,Yes,Critical Risk,41,Month-to-month,79.9,3326.2,DSL,Yes,Yes,Credit card (automatic)
+3571-RFHAR,0.9,Yes,Critical Risk,65,Month-to-month,109.15,6941.2,Fiber optic,No,Yes,Electronic check
+9249-FXSCK,0.9,Yes,Critical Risk,52,One year,111.25,5916.45,Fiber optic,Yes,Yes,Credit card (automatic)
+4800-CZMPC,0.9,Yes,Critical Risk,48,One year,103.25,5037.55,Fiber optic,Yes,No,Credit card (automatic)
+1577-HKTFG,0.9,Yes,Critical Risk,30,Month-to-month,19.65,655.85,No,No internet service,No internet service,Bank transfer (automatic)
+3870-MQAMG,0.9,Yes,Critical Risk,54,One year,110.35,5893.15,Fiber optic,No,Yes,Electronic check
+8559-CIZFV,0.9,Yes,Critical Risk,21,One year,77.5,1625,DSL,Yes,Yes,Mailed check
+9101-BWFSS,0.9,Yes,Critical Risk,50,One year,108.55,5610.7,Fiber optic,Yes,Yes,Electronic check
+6982-SSHFK,0.9,Yes,Critical Risk,1,Month-to-month,44.4,44.4,DSL,No,No,Mailed check
+0324-BRPCJ,0.9,Yes,Critical Risk,68,Month-to-month,100.2,6851.65,Fiber optic,No,No,Electronic check
+6959-UWKHF,0.9,Yes,Critical Risk,1,Month-to-month,42.9,42.9,DSL,No,No,Electronic check
+1842-EZJMK,0.9,Yes,Critical Risk,50,Month-to-month,103.7,5071.05,Fiber optic,No,Yes,Electronic check
+4652-NNHNY,0.9,Yes,Critical Risk,16,Month-to-month,73.85,1284.2,Fiber optic,No,No,Bank transfer (automatic)
+2100-BDNSN,0.9,Yes,Critical Risk,5,Month-to-month,67.95,350.3,DSL,No,Yes,Bank transfer (automatic)
+0407-BDJKB,0.9,Yes,Critical Risk,60,Month-to-month,95.75,5742.9,Fiber optic,No,No,Electronic check
+8178-EYZUO,0.9,Yes,Critical Risk,46,Month-to-month,93.7,4154.8,Fiber optic,Yes,No,Electronic check
+9318-NKNFC,0.9,Yes,Critical Risk,1,Month-to-month,18.85,18.85,No,No internet service,No internet service,Mailed check
+7817-BOQPW,0.9,Yes,Critical Risk,2,Month-to-month,75.55,166.3,Fiber optic,No,No,Electronic check
+6179-GJPSO,0.9,Yes,Critical Risk,43,Month-to-month,108.15,4600.7,Fiber optic,Yes,Yes,Credit card (automatic)
+6633-MPWBS,0.9,Yes,Critical Risk,5,Month-to-month,49.2,216.9,DSL,No,Yes,Electronic check
+6481-OGDOO,0.9,Yes,Critical Risk,67,One year,90.6,6056.15,Fiber optic,Yes,No,Credit card (automatic)
+1984-FCOWB,0.9,Yes,Critical Risk,70,One year,109.5,7674.55,Fiber optic,No,Yes,Electronic check
+8679-JOEVF,0.9,Yes,Critical Risk,16,Month-to-month,59.4,1023.9,DSL,No,Yes,Electronic check
+2141-RRYGO,0.9,Yes,Critical Risk,4,Month-to-month,68.65,261.25,DSL,No,No,Bank transfer (automatic)
+1373-ORVIZ,0.9,Yes,Critical Risk,11,Month-to-month,66.35,740.8,DSL,No,Yes,Electronic check
+7181-BQYBV,0.9,Yes,Critical Risk,1,Month-to-month,102.45,102.45,Fiber optic,Yes,No,Electronic check
+3714-JTVOV,0.9,Yes,Critical Risk,42,Month-to-month,74.15,3229.4,Fiber optic,Yes,No,Credit card (automatic)
+4745-LSPLO,0.8954,Yes,Critical Risk,1,Month-to-month,20.5,20.5,No,No internet service,No internet service,Mailed check
+0843-WTBXE,0.895,Yes,Critical Risk,53,Month-to-month,85.45,4517.25,Fiber optic,No,No,Bank transfer (automatic)
+3585-ISXZP,0.895,Yes,Critical Risk,8,Month-to-month,95.65,778.1,Fiber optic,No,No,Bank transfer (automatic)
+0689-NKYLF,0.895,Yes,Critical Risk,13,Month-to-month,83.2,1060.6,Fiber optic,No,No,Electronic check
+6214-EDAKZ,0.895,Yes,Critical Risk,22,Month-to-month,55.15,1206.05,DSL,No,Yes,Electronic check
+7614-QVWQL,0.895,Yes,Critical Risk,49,One year,51.8,2541.25,DSL,No,No,Bank transfer (automatic)
+1320-HTRDR,0.895,Yes,Critical Risk,3,Month-to-month,75.5,220.6,Fiber optic,No,No,Electronic check
+2754-VDLTR,0.895,Yes,Critical Risk,10,Month-to-month,95.2,930.4,Fiber optic,No,No,Electronic check
+2865-TCHJW,0.895,Yes,Critical Risk,4,Month-to-month,89.2,346.2,Fiber optic,No,No,Electronic check
+0520-FDVVT,0.895,Yes,Critical Risk,35,One year,102.35,3626.1,Fiber optic,No,No,Bank transfer (automatic)
+2947-DOMLJ,0.895,Yes,Critical Risk,1,Month-to-month,50.6,50.6,DSL,Yes,No,Mailed check
+8182-PNAGI,0.895,Yes,Critical Risk,12,Month-to-month,50.25,593.75,DSL,No,Yes,Bank transfer (automatic)
+4592-IWTJI,0.895,Yes,Critical Risk,3,Month-to-month,29.7,91.7,DSL,Yes,No,Credit card (automatic)
+8623-TMRBY,0.895,Yes,Critical Risk,51,Month-to-month,84.2,4146.05,Fiber optic,No,No,Electronic check
+8519-QJGJD,0.895,Yes,Critical Risk,14,Month-to-month,75.35,1025.95,Fiber optic,No,No,Electronic check
+6240-EURKS,0.895,Yes,Critical Risk,18,Month-to-month,35.0,553,DSL,No,No,Electronic check
+5202-IVJNU,0.895,Yes,Critical Risk,39,Month-to-month,30.1,1131.3,DSL,No,No,Credit card (automatic)
+4927-WWOOZ,0.895,Yes,Critical Risk,2,Month-to-month,91.45,171.45,Fiber optic,No,No,Electronic check
+5980-NOPLP,0.895,Yes,Critical Risk,44,Month-to-month,96.1,4364.1,Fiber optic,No,No,Electronic check
+4566-QVRRW,0.895,Yes,Critical Risk,11,Month-to-month,44.05,483.7,DSL,No,No,Electronic check
+5748-RNCJT,0.895,Yes,Critical Risk,69,Two year,106.5,7348.8,Fiber optic,No,Yes,Bank transfer (automatic)
+8634-CILSZ,0.895,Yes,Critical Risk,69,One year,104.7,7220.35,Fiber optic,No,Yes,Bank transfer (automatic)
+0378-XSZPU,0.895,Yes,Critical Risk,58,One year,60.3,3563.8,DSL,Yes,No,Credit card (automatic)
+3536-IQCTX,0.895,Yes,Critical Risk,32,Month-to-month,85.3,2661.1,Fiber optic,No,No,Electronic check
+4713-LZDRV,0.895,Yes,Critical Risk,2,Month-to-month,79.6,195.05,Fiber optic,No,No,Electronic check
+2157-MXBJS,0.895,Yes,Critical Risk,13,One year,75.3,989.45,DSL,No,No,Mailed check
+6559-ILWKJ,0.895,Yes,Critical Risk,71,Two year,49.35,3515.25,DSL,No,No,Electronic check
+5813-UECBU,0.895,Yes,Critical Risk,33,Month-to-month,83.85,2716.3,Fiber optic,No,No,Credit card (automatic)
+2575-GFSOE,0.895,Yes,Critical Risk,7,Month-to-month,69.0,506.9,Fiber optic,No,No,Electronic check
+2382-BCKQJ,0.895,Yes,Critical Risk,62,One year,100.15,6413.65,Fiber optic,No,No,Electronic check
+3009-JWMPU,0.895,Yes,Critical Risk,62,One year,96.75,6125.4,Fiber optic,No,No,Electronic check
+2460-FPSYH,0.895,Yes,Critical Risk,40,Month-to-month,55.8,2109.35,DSL,Yes,No,Electronic check
+2845-HSJCY,0.895,Yes,Critical Risk,14,Month-to-month,87.25,1258.6,Fiber optic,No,No,Electronic check
+0991-BRRFB,0.895,Yes,Critical Risk,18,Month-to-month,49.4,874.8,DSL,Yes,No,Electronic check
+8699-ASUFO,0.895,Yes,Critical Risk,7,Month-to-month,74.4,527.9,Fiber optic,No,No,Mailed check
+4925-LMHOK,0.895,Yes,Critical Risk,15,Month-to-month,58.6,939.7,DSL,No,Yes,Credit card (automatic)
+4307-KTUMW,0.895,Yes,Critical Risk,53,Month-to-month,93.9,5029.2,Fiber optic,Yes,No,Electronic check
+9526-BIHHD,0.895,Yes,Critical Risk,1,Month-to-month,29.7,29.7,DSL,Yes,No,Mailed check
+7530-HDYDS,0.895,Yes,Critical Risk,38,Month-to-month,84.25,3264.5,Fiber optic,No,Yes,Credit card (automatic)
+1853-UDXBW,0.895,Yes,Critical Risk,1,Month-to-month,70.0,70,Fiber optic,No,No,Electronic check
+5572-ZDXHY,0.895,Yes,Critical Risk,22,Month-to-month,84.3,1855.65,Fiber optic,No,No,Mailed check
+7776-QWNFX,0.895,Yes,Critical Risk,30,Month-to-month,50.4,1527.5,DSL,No,No,Bank transfer (automatic)
+2237-ZFSMY,0.895,Yes,Critical Risk,39,One year,95.55,3692.85,Fiber optic,Yes,Yes,Electronic check
+2858-MOFSQ,0.895,Yes,Critical Risk,17,One year,55.85,937.5,DSL,No,No,Mailed check
+1322-AGOQM,0.895,Yes,Critical Risk,46,Month-to-month,30.3,1380.1,DSL,No,No,Bank transfer (automatic)
+0461-CVKMU,0.895,Yes,Critical Risk,23,Month-to-month,83.8,1900.25,Fiber optic,No,Yes,Electronic check
+5501-TVMGM,0.895,Yes,Critical Risk,1,Month-to-month,55.25,55.25,DSL,No,No,Electronic check
+0471-LVHGK,0.895,Yes,Critical Risk,41,One year,73.0,3001.2,DSL,No,No,Electronic check
+1114-CENIM,0.895,Yes,Critical Risk,54,Month-to-month,55.0,3092.65,DSL,No,No,Credit card (automatic)
+2207-OBZNX,0.895,Yes,Critical Risk,7,Month-to-month,51.0,354.05,DSL,Yes,No,Mailed check
+0867-MKZVY,0.895,Yes,Critical Risk,20,Month-to-month,82.4,1592.35,Fiber optic,Yes,No,Electronic check
+0278-YXOOG,0.895,Yes,Critical Risk,5,Month-to-month,21.05,113.85,No,No internet service,No internet service,Mailed check
+8637-XJIVR,0.895,Yes,Critical Risk,12,Month-to-month,78.95,927.35,Fiber optic,Yes,No,Electronic check
+1699-HPSBG,0.895,Yes,Critical Risk,12,One year,59.8,727.8,DSL,No,Yes,Electronic check
+1051-GEJLJ,0.8938,Yes,Critical Risk,2,Month-to-month,19.5,27.55,No,No internet service,No internet service,Mailed check
+2886-KEFUM,0.89,Yes,Critical Risk,63,One year,107.5,6873.75,Fiber optic,No,No,Electronic check
+5515-AKOAJ,0.89,Yes,Critical Risk,54,Month-to-month,100.1,5440.9,Fiber optic,No,Yes,Electronic check
+7136-RVDTZ,0.89,Yes,Critical Risk,70,One year,45.25,3264.45,DSL,No,No,Electronic check
+7595-EUIVN,0.89,Yes,Critical Risk,1,Month-to-month,75.8,75.8,Fiber optic,No,No,Electronic check
+1265-XTECC,0.89,Yes,Critical Risk,68,One year,96.55,6581.9,Fiber optic,Yes,No,Credit card (automatic)
+5174-RNGBH,0.89,Yes,Critical Risk,9,Month-to-month,66.25,620.55,DSL,No,Yes,Mailed check
+7767-UXAGJ,0.89,Yes,Critical Risk,1,Month-to-month,50.45,50.45,DSL,No,No,Electronic check
+2484-DGXPZ,0.89,Yes,Critical Risk,31,Month-to-month,19.55,658.95,No,No internet service,No internet service,Mailed check
+8260-NGFNY,0.89,Yes,Critical Risk,1,Month-to-month,25.2,25.2,DSL,No,No,Mailed check
+6038-GCYEC,0.89,Yes,Critical Risk,24,Month-to-month,54.15,1240.25,DSL,No,No,Credit card (automatic)
+1518-VOWAV,0.89,Yes,Critical Risk,9,Month-to-month,74.65,703.55,DSL,Yes,No,Electronic check
+1142-WACZW,0.89,Yes,Critical Risk,2,Month-to-month,29.85,75.6,DSL,No,Yes,Bank transfer (automatic)
+0917-EZOLA,0.89,Yes,Critical Risk,72,Two year,104.15,7689.95,Fiber optic,No,No,Bank transfer (automatic)
+3763-GCZHZ,0.89,Yes,Critical Risk,66,One year,104.05,6890,Fiber optic,No,Yes,Electronic check
+0748-RDGGM,0.89,Yes,Critical Risk,70,One year,109.5,7534.65,Fiber optic,Yes,Yes,Bank transfer (automatic)
+3419-SNJJD,0.89,Yes,Critical Risk,65,Month-to-month,105.25,6786.4,Fiber optic,Yes,No,Bank transfer (automatic)
+9259-PACGQ,0.89,Yes,Critical Risk,34,Month-to-month,62.65,2274.9,DSL,Yes,Yes,Electronic check
+4083-EUGRJ,0.89,Yes,Critical Risk,9,Month-to-month,20.25,178.5,No,No internet service,No internet service,Mailed check
+1120-BMWUB,0.89,Yes,Critical Risk,16,Month-to-month,53.9,834.15,DSL,No,Yes,Mailed check
+8496-EJAUI,0.89,Yes,Critical Risk,19,Month-to-month,73.85,1424.5,Fiber optic,No,No,Credit card (automatic)
+1725-MIMXW,0.89,Yes,Critical Risk,1,Month-to-month,19.45,19.45,No,No internet service,No internet service,Mailed check
+0268-QKIWO,0.89,Yes,Critical Risk,3,Month-to-month,19.75,58.85,No,No internet service,No internet service,Electronic check
+1513-XNPPH,0.89,Yes,Critical Risk,12,Month-to-month,89.4,1095.65,Fiber optic,No,Yes,Electronic check
+2815-CPTUL,0.89,Yes,Critical Risk,5,Month-to-month,70.25,331.9,Fiber optic,No,No,Mailed check
+2027-OAQQC,0.89,Yes,Critical Risk,43,Month-to-month,49.05,2076.2,DSL,No,No,Bank transfer (automatic)
+3627-FCRDW,0.89,Yes,Critical Risk,9,Month-to-month,71.0,672.55,Fiber optic,No,No,Electronic check
+3104-OWCGK,0.89,Yes,Critical Risk,60,One year,90.95,5453.4,Fiber optic,No,No,Electronic check
+9360-AHGNL,0.89,Yes,Critical Risk,43,One year,109.55,4830.25,Fiber optic,Yes,Yes,Mailed check
+2150-UWTFY,0.89,Yes,Critical Risk,22,Month-to-month,61.15,1422.05,DSL,Yes,No,Mailed check
+9170-CCKOU,0.89,Yes,Critical Risk,17,Month-to-month,90.2,1454.15,Fiber optic,Yes,No,Credit card (automatic)
+3757-NJYBX,0.89,Yes,Critical Risk,32,Month-to-month,106.35,3520.75,Fiber optic,No,No,Bank transfer (automatic)
+6804-GDMOI,0.89,Yes,Critical Risk,61,Two year,106.6,6428.4,Fiber optic,No,Yes,Electronic check
+0576-WNXXC,0.89,Yes,Critical Risk,27,Month-to-month,95.55,2510.2,Fiber optic,No,No,Electronic check
+1899-VXWXM,0.89,Yes,Critical Risk,48,One year,106.1,5082.8,Fiber optic,No,No,Credit card (automatic)
+9572-MTILT,0.89,Yes,Critical Risk,59,Month-to-month,106.75,6252.9,Fiber optic,Yes,Yes,Electronic check
+5708-EVONK,0.89,Yes,Critical Risk,58,Month-to-month,93.4,5435.6,Fiber optic,Yes,No,Bank transfer (automatic)
+7721-JXEAW,0.89,Yes,Critical Risk,59,Month-to-month,41.05,2452.7,DSL,No,No,Bank transfer (automatic)
+0883-EIBTI,0.89,Yes,Critical Risk,2,Month-to-month,19.5,31.55,No,No internet service,No internet service,Mailed check
+4143-HHPMK,0.89,Yes,Critical Risk,52,Month-to-month,85.35,4338.6,Fiber optic,No,No,Electronic check
+0516-WJVXC,0.885,Yes,Critical Risk,5,Month-to-month,54.2,308.25,DSL,Yes,Yes,Electronic check
+2311-QYMUQ,0.885,Yes,Critical Risk,16,Month-to-month,89.45,1430.25,Fiber optic,No,No,Credit card (automatic)
+1208-DNHLN,0.885,Yes,Critical Risk,23,One year,48.35,1067.15,DSL,No,No,Credit card (automatic)
+0634-SZPQA,0.885,Yes,Critical Risk,23,Month-to-month,90.05,2169.8,Fiber optic,Yes,No,Bank transfer (automatic)
+5180-UCIIQ,0.885,Yes,Critical Risk,22,Month-to-month,40.05,880.2,DSL,Yes,No,Mailed check
+9518-RWHZL,0.885,Yes,Critical Risk,64,One year,100.05,6254.2,Fiber optic,No,No,Credit card (automatic)
+9835-ZIITK,0.885,Yes,Critical Risk,66,One year,110.85,7491.75,Fiber optic,No,Yes,Electronic check
+5073-WXOYN,0.885,Yes,Critical Risk,60,Month-to-month,50.8,3027.4,DSL,No,No,Electronic check
+0637-UBJRP,0.885,Yes,Critical Risk,13,Month-to-month,84.05,1095.3,Fiber optic,Yes,No,Electronic check
+7639-SUPCW,0.885,Yes,Critical Risk,22,Month-to-month,48.8,1054.6,DSL,Yes,No,Credit card (automatic)
+1228-FZFRV,0.885,Yes,Critical Risk,50,Month-to-month,105.95,5341.8,Fiber optic,Yes,No,Credit card (automatic)
+8945-MUQUF,0.885,Yes,Critical Risk,51,One year,94.8,4837.6,Fiber optic,Yes,No,Electronic check
+4390-KYULV,0.885,Yes,Critical Risk,3,Month-to-month,20.55,51.15,No,No internet service,No internet service,Credit card (automatic)
+4554-YGZIH,0.885,Yes,Critical Risk,49,Month-to-month,90.05,4547.25,Fiber optic,No,No,Credit card (automatic)
+6532-YLWSI,0.885,Yes,Critical Risk,53,One year,20.8,1021.8,No,No internet service,No internet service,Bank transfer (automatic)
+0875-CABNR,0.885,Yes,Critical Risk,10,Month-to-month,84.6,865.55,Fiber optic,No,No,Credit card (automatic)
+3957-LXOLK,0.885,Yes,Critical Risk,28,Month-to-month,106.15,3152.5,Fiber optic,No,No,Electronic check
+6023-YEBUP,0.885,Yes,Critical Risk,3,Month-to-month,100.95,329.95,Fiber optic,No,No,Electronic check
+6986-IJDHX,0.885,Yes,Critical Risk,39,Month-to-month,86.3,3266,Fiber optic,No,No,Mailed check
+4488-PSYCG,0.885,Yes,Critical Risk,16,Month-to-month,20.25,327.45,No,No internet service,No internet service,Bank transfer (automatic)
+7632-MNYOY,0.885,Yes,Critical Risk,66,One year,110.9,7432.05,Fiber optic,No,Yes,Credit card (automatic)
+2834-JRTUA,0.885,Yes,Critical Risk,71,Two year,108.05,7532.15,Fiber optic,Yes,Yes,Electronic check
+0022-TCJCI,0.885,Yes,Critical Risk,45,One year,62.7,2791.5,DSL,Yes,No,Credit card (automatic)
+4081-DYXAV,0.885,Yes,Critical Risk,19,One year,44.85,893.55,DSL,No,No,Credit card (automatic)
+8624-GIOUT,0.885,Yes,Critical Risk,49,Month-to-month,59.75,2934.3,DSL,Yes,No,Credit card (automatic)
+1596-BBVTG,0.885,Yes,Critical Risk,35,Month-to-month,75.35,2636.05,Fiber optic,No,No,Credit card (automatic)
+2225-ZRGSG,0.885,Yes,Critical Risk,70,Two year,93.9,6579.05,Fiber optic,Yes,Yes,Bank transfer (automatic)
+7016-BPGEU,0.885,Yes,Critical Risk,29,Month-to-month,25.1,712.85,DSL,No,No,Credit card (automatic)
+4588-YBNIB,0.8812,Yes,Critical Risk,1,Month-to-month,19.6,19.6,No,No internet service,No internet service,Mailed check
+9651-GTSAQ,0.88,Yes,Critical Risk,53,One year,106.1,5769.75,Fiber optic,Yes,No,Bank transfer (automatic)
+9863-JZAIC,0.88,Yes,Critical Risk,35,Month-to-month,55.0,2010.55,DSL,No,No,Mailed check
+3422-LYEPQ,0.88,Yes,Critical Risk,1,Month-to-month,71.0,71,Fiber optic,No,No,Electronic check
+4576-CSAJH,0.88,Yes,Critical Risk,22,One year,55.15,1193.05,DSL,No,Yes,Credit card (automatic)
+7541-YLXCL,0.88,Yes,Critical Risk,36,One year,65.4,2498.4,DSL,No,Yes,Mailed check
+1016-DJTSV,0.88,Yes,Critical Risk,8,Month-to-month,69.7,572.85,Fiber optic,No,No,Electronic check
+3208-YPIOE,0.88,Yes,Critical Risk,39,Month-to-month,75.25,3017.65,Fiber optic,No,No,Electronic check
+1625-JAIIY,0.88,Yes,Critical Risk,68,One year,83.0,5685.8,Fiber optic,No,No,Electronic check
+8749-JMNKX,0.88,Yes,Critical Risk,51,Month-to-month,93.8,4750.95,Fiber optic,Yes,No,Bank transfer (automatic)
+2302-ANTDP,0.88,Yes,Critical Risk,48,Month-to-month,117.45,5438.9,Fiber optic,Yes,Yes,Electronic check
+6857-VWJDT,0.88,Yes,Critical Risk,1,Month-to-month,95.65,95.65,Fiber optic,No,No,Mailed check
+2929-QNSRW,0.88,Yes,Critical Risk,56,One year,98.25,5508.35,Fiber optic,No,No,Electronic check
+3230-WYKIR,0.88,Yes,Critical Risk,18,One year,82.0,1425.45,DSL,No,Yes,Credit card (automatic)
+4791-QRGMF,0.88,Yes,Critical Risk,59,One year,99.5,5961.1,Fiber optic,No,No,Bank transfer (automatic)
+0354-WYROK,0.88,Yes,Critical Risk,31,Month-to-month,98.9,2911.3,Fiber optic,No,Yes,Electronic check
+4818-DRBQT,0.88,Yes,Critical Risk,29,Month-to-month,80.15,2265.25,Fiber optic,No,No,Bank transfer (automatic)
+0348-SDKOL,0.88,Yes,Critical Risk,58,Month-to-month,102.1,5885.4,Fiber optic,No,Yes,Credit card (automatic)
+7993-PYKOF,0.88,Yes,Critical Risk,8,Month-to-month,75.0,632.95,Fiber optic,Yes,No,Electronic check
+2794-XIMMO,0.88,Yes,Critical Risk,53,One year,60.45,3184.25,DSL,No,Yes,Electronic check
+3842-IYKUE,0.88,Yes,Critical Risk,35,Month-to-month,85.3,2917.5,Fiber optic,No,Yes,Credit card (automatic)
+9053-JZFKV,0.88,Yes,Critical Risk,67,Two year,116.2,7752.3,Fiber optic,Yes,Yes,Credit card (automatic)
+8380-PEFPE,0.88,Yes,Critical Risk,1,Month-to-month,71.65,71.65,Fiber optic,No,No,Electronic check
+6689-KXGBO,0.88,Yes,Critical Risk,1,Month-to-month,50.55,50.55,DSL,No,No,Electronic check
+4503-BDXBD,0.88,Yes,Critical Risk,11,Month-to-month,74.95,815.5,Fiber optic,No,No,Electronic check
+6608-QQLVK,0.88,Yes,Critical Risk,1,Month-to-month,50.5,50.5,DSL,No,No,Electronic check
+4195-SMMNX,0.88,Yes,Critical Risk,2,Month-to-month,20.35,33.2,No,No internet service,No internet service,Mailed check
+4628-WQCQQ,0.88,Yes,Critical Risk,35,One year,85.15,3030.6,Fiber optic,No,No,Electronic check
+7481-ATQQS,0.88,Yes,Critical Risk,49,Month-to-month,90.85,4515.85,Fiber optic,No,No,Credit card (automatic)
+9907-SWKKF,0.88,Yes,Critical Risk,1,Month-to-month,25.05,25.05,DSL,No,No,Mailed check
+6990-YNRIO,0.88,Yes,Critical Risk,65,Two year,108.65,6937.95,Fiber optic,Yes,Yes,Bank transfer (automatic)
+3580-REOAC,0.88,Yes,Critical Risk,10,Month-to-month,44.85,435.4,DSL,No,No,Credit card (automatic)
+3884-HCSWG,0.88,Yes,Critical Risk,17,Month-to-month,70.0,1144.5,Fiber optic,No,No,Electronic check
+6289-CPNLD,0.88,Yes,Critical Risk,33,One year,73.9,2405.05,DSL,No,Yes,Mailed check
+1597-FZREH,0.88,Yes,Critical Risk,2,Month-to-month,76.4,160.8,DSL,No,Yes,Electronic check
+6207-WIOLX,0.88,Yes,Critical Risk,25,Month-to-month,58.6,1502.65,DSL,Yes,No,Credit card (automatic)
+6166-ILMNY,0.8798,Yes,Critical Risk,2,Month-to-month,69.75,144.55,Fiber optic,No,No,Bank transfer (automatic)
+6032-IGALN,0.875,Yes,Critical Risk,1,Month-to-month,25.1,25.1,DSL,No,No,Mailed check
+8640-SDGKB,0.875,Yes,Critical Risk,4,Month-to-month,74.4,299.7,DSL,No,Yes,Electronic check
+6097-EQISJ,0.875,Yes,Critical Risk,66,One year,102.45,6615.15,Fiber optic,No,No,Credit card (automatic)
+7762-URZQH,0.875,Yes,Critical Risk,66,Two year,106.05,6981.35,Fiber optic,Yes,No,Credit card (automatic)
+0691-IFBQW,0.875,Yes,Critical Risk,46,One year,110.0,4874.8,Fiber optic,Yes,No,Electronic check
+4789-KWMXN,0.875,Yes,Critical Risk,47,One year,110.85,5275.8,Fiber optic,Yes,Yes,Credit card (automatic)
+7083-YNSKY,0.875,Yes,Critical Risk,15,Month-to-month,25.4,399.6,No,No internet service,No internet service,Credit card (automatic)
+0623-IIHUG,0.875,Yes,Critical Risk,21,Month-to-month,41.9,840.1,DSL,Yes,No,Electronic check
+1527-SXDPN,0.875,Yes,Critical Risk,52,Two year,96.25,4990.25,Fiber optic,No,Yes,Bank transfer (automatic)
+6034-ZRYCV,0.875,Yes,Critical Risk,72,Two year,54.2,3937.45,DSL,No,No,Electronic check
+1623-NLDOT,0.875,Yes,Critical Risk,42,One year,33.55,1445.3,DSL,No,Yes,Mailed check
+7593-JNWRU,0.875,Yes,Critical Risk,6,Month-to-month,44.6,260.8,DSL,No,No,Bank transfer (automatic)
+7627-JKIAZ,0.875,Yes,Critical Risk,37,Month-to-month,78.95,2839.65,Fiber optic,No,No,Credit card (automatic)
+4710-FDUIZ,0.875,Yes,Critical Risk,56,One year,100.3,5614.45,Fiber optic,No,No,Credit card (automatic)
+2817-NTQDO,0.875,Yes,Critical Risk,13,Month-to-month,45.55,597,DSL,Yes,Yes,Credit card (automatic)
+0031-PVLZI,0.875,Yes,Critical Risk,4,Month-to-month,20.35,76.35,No,No internet service,No internet service,Mailed check
+4895-TMWIR,0.875,Yes,Critical Risk,11,Month-to-month,19.95,214.75,No,No internet service,No internet service,Mailed check
+2115-BFTIW,0.875,Yes,Critical Risk,25,Month-to-month,70.95,1767.35,Fiber optic,No,No,Mailed check
+8627-EHGIP,0.875,Yes,Critical Risk,44,One year,53.95,2375.4,DSL,No,No,Mailed check
+8976-OQHGT,0.875,Yes,Critical Risk,4,Month-to-month,56.5,235.1,DSL,No,Yes,Mailed check
+5766-XQXMQ,0.875,Yes,Critical Risk,29,Month-to-month,68.85,1970.5,DSL,Yes,No,Bank transfer (automatic)
+5649-VUKMC,0.875,Yes,Critical Risk,12,One year,95.5,1115.15,Fiber optic,No,No,Mailed check
+3092-IGHWF,0.875,Yes,Critical Risk,67,One year,87.4,5918.8,Fiber optic,No,No,Electronic check
+0565-IYCGT,0.875,Yes,Critical Risk,69,One year,78.6,5356.45,DSL,Yes,Yes,Credit card (automatic)
+5906-CVLHP,0.87,Yes,Critical Risk,45,One year,54.15,2319.8,DSL,No,Yes,Credit card (automatic)
+5876-HZVZM,0.87,Yes,Critical Risk,6,Month-to-month,55.9,365.35,DSL,Yes,No,Credit card (automatic)
+7657-DYEPJ,0.87,Yes,Critical Risk,38,One year,70.15,2497.35,DSL,No,Yes,Credit card (automatic)
+2223-KAGMX,0.87,Yes,Critical Risk,15,Month-to-month,19.4,289.3,No,No internet service,No internet service,Bank transfer (automatic)
+1732-VHUBQ,0.87,Yes,Critical Risk,47,Month-to-month,70.55,3309.25,Fiber optic,No,No,Bank transfer (automatic)
+9878-TNQGW,0.87,Yes,Critical Risk,2,Month-to-month,80.95,171.15,Fiber optic,No,No,Electronic check
+7989-CHGTL,0.87,Yes,Critical Risk,1,Month-to-month,19.6,19.6,No,No internet service,No internet service,Mailed check
+6345-ULYRW,0.87,Yes,Critical Risk,44,One year,88.4,3912.9,Fiber optic,No,No,Mailed check
+9334-GWGOW,0.87,Yes,Critical Risk,7,Month-to-month,74.85,485.25,Fiber optic,No,No,Electronic check
+2153-MREFK,0.87,Yes,Critical Risk,37,One year,99.2,3754.6,Fiber optic,Yes,Yes,Electronic check
+5458-CQJTA,0.87,Yes,Critical Risk,65,Two year,74.8,4820.15,DSL,Yes,Yes,Bank transfer (automatic)
+5493-SDRDQ,0.87,Yes,Critical Risk,2,Month-to-month,55.1,113.35,DSL,Yes,No,Mailed check
+2439-LYPMQ,0.87,Yes,Critical Risk,38,Month-to-month,102.6,4009.2,Fiber optic,No,No,Electronic check
+4187-CINZD,0.87,Yes,Critical Risk,46,One year,95.25,4424.2,Fiber optic,No,No,Credit card (automatic)
+6821-BUXUX,0.87,Yes,Critical Risk,13,Month-to-month,96.65,1244.5,Fiber optic,Yes,No,Electronic check
+8205-OTCHB,0.87,Yes,Critical Risk,22,One year,43.75,903.6,DSL,No,No,Bank transfer (automatic)
+5287-QWLKY,0.87,Yes,Critical Risk,71,Month-to-month,105.1,7548.1,Fiber optic,Yes,No,Credit card (automatic)
+2495-INZWQ,0.87,Yes,Critical Risk,4,Month-to-month,44.55,174.3,DSL,No,No,Electronic check
+5616-PRTNT,0.87,Yes,Critical Risk,20,Month-to-month,19.4,374.5,No,No internet service,No internet service,Electronic check
+3707-LRWZD,0.87,Yes,Critical Risk,32,One year,84.05,2781.85,Fiber optic,No,No,Electronic check
+1585-MQSSU,0.87,Yes,Critical Risk,17,Month-to-month,51.5,900.5,DSL,No,Yes,Mailed check
+6630-UJZMY,0.87,Yes,Critical Risk,4,Month-to-month,83.25,308.05,Fiber optic,No,No,Electronic check
+1871-MOWRM,0.87,Yes,Critical Risk,12,Month-to-month,80.85,866.45,Fiber optic,Yes,Yes,Bank transfer (automatic)
+8919-FYFQZ,0.87,Yes,Critical Risk,44,Month-to-month,30.35,1359.7,DSL,No,No,Electronic check
+7619-ODSGN,0.87,Yes,Critical Risk,24,Month-to-month,54.75,1338.15,DSL,Yes,No,Electronic check
+6543-XRMYR,0.87,Yes,Critical Risk,30,Month-to-month,99.7,2967.35,Fiber optic,No,No,Electronic check
+3285-UCQVC,0.865,Yes,Critical Risk,37,Month-to-month,28.6,973.55,DSL,No,Yes,Credit card (automatic)
+1432-FPAXX,0.865,Yes,Critical Risk,29,Month-to-month,30.6,856.35,DSL,No,No,Electronic check
+2665-NPTGL,0.865,Yes,Critical Risk,26,Month-to-month,98.1,2510.7,Fiber optic,No,No,Bank transfer (automatic)
+2187-LZGPL,0.865,Yes,Critical Risk,7,Month-to-month,40.1,293.3,DSL,No,No,Credit card (automatic)
+6861-OKBCE,0.865,Yes,Critical Risk,11,Month-to-month,20.1,221.35,No,No internet service,No internet service,Credit card (automatic)
+7694-VLBWQ,0.865,Yes,Critical Risk,67,One year,104.1,7040.85,Fiber optic,No,No,Electronic check
+5089-IFSDP,0.865,Yes,Critical Risk,58,Two year,109.45,6144.55,Fiber optic,Yes,No,Bank transfer (automatic)
+2202-CUYXZ,0.865,Yes,Critical Risk,1,Month-to-month,84.85,84.85,Fiber optic,No,No,Electronic check
+2889-FPWRM,0.865,Yes,Critical Risk,72,One year,117.8,8684.8,Fiber optic,Yes,Yes,Bank transfer (automatic)
+7459-RRWQZ,0.865,Yes,Critical Risk,15,Month-to-month,64.65,994.55,DSL,Yes,No,Bank transfer (automatic)
+2810-FTLEM,0.865,Yes,Critical Risk,16,Month-to-month,50.15,762.25,DSL,Yes,No,Electronic check
+4404-HIBDJ,0.865,Yes,Critical Risk,25,One year,74.3,1863.8,DSL,Yes,Yes,Mailed check
+4913-EHYUI,0.865,Yes,Critical Risk,56,One year,104.55,5794.65,Fiber optic,Yes,No,Bank transfer (automatic)
+2565-JSLRY,0.865,Yes,Critical Risk,1,Month-to-month,24.05,24.05,No,No internet service,No internet service,Mailed check
+8199-ZLLSA,0.865,Yes,Critical Risk,67,One year,118.35,7804.15,Fiber optic,Yes,Yes,Bank transfer (automatic)
+7683-CBDKJ,0.865,Yes,Critical Risk,14,Month-to-month,65.45,937.6,DSL,Yes,No,Electronic check
+4735-ASGMA,0.865,Yes,Critical Risk,26,Month-to-month,98.35,2515.3,Fiber optic,No,No,Electronic check
+7845-URHJN,0.865,Yes,Critical Risk,8,Month-to-month,20.15,156.25,No,No internet service,No internet service,Bank transfer (automatic)
+3034-ZBEQN,0.865,Yes,Critical Risk,48,One year,34.7,1604.5,DSL,No,No,Mailed check
+0203-HHYIJ,0.865,Yes,Critical Risk,25,One year,25.3,676.35,No,No internet service,No internet service,Bank transfer (automatic)
+3863-IUBJR,0.865,Yes,Critical Risk,12,One year,53.65,696.35,DSL,No,No,Credit card (automatic)
+7571-YXDAD,0.8638,Yes,Critical Risk,2,Month-to-month,74.9,147.15,Fiber optic,No,No,Credit card (automatic)
+8563-IIOXK,0.86,Yes,Critical Risk,7,One year,49.75,331.3,DSL,Yes,No,Electronic check
+6680-NENYN,0.86,Yes,Critical Risk,43,Two year,104.6,4759.85,Fiber optic,No,No,Electronic check
+8292-TYSPY,0.86,Yes,Critical Risk,19,Month-to-month,55.0,1046.5,DSL,No,Yes,Credit card (automatic)
+5419-CONWX,0.86,Yes,Critical Risk,4,Month-to-month,99.8,442.85,Fiber optic,No,No,Credit card (automatic)
+0807-ZABDG,0.86,Yes,Critical Risk,3,Month-to-month,55.1,154.65,DSL,Yes,Yes,Mailed check
+7716-YTYHG,0.86,Yes,Critical Risk,48,One year,82.05,4029.95,Fiber optic,No,No,Mailed check
+5510-BOIUJ,0.86,Yes,Critical Risk,1,Month-to-month,19.25,19.25,No,No internet service,No internet service,Mailed check
+9507-EXLTT,0.86,Yes,Critical Risk,1,Month-to-month,79.35,79.35,Fiber optic,No,No,Bank transfer (automatic)
+0568-ONFPC,0.86,Yes,Critical Risk,5,Month-to-month,25.9,135,No,No internet service,No internet service,Bank transfer (automatic)
+5294-CDGWY,0.86,Yes,Critical Risk,51,One year,59.3,3014.65,DSL,Yes,No,Electronic check
+4817-VYYWS,0.86,Yes,Critical Risk,30,Month-to-month,100.2,2983.8,Fiber optic,No,No,Electronic check
+8035-BUYVG,0.86,Yes,Critical Risk,40,One year,42.35,1716.45,DSL,Yes,No,Electronic check
+6839-ITVZJ,0.86,Yes,Critical Risk,26,Month-to-month,60.05,1616.15,DSL,No,Yes,Electronic check
+6261-RCVNS,0.86,Yes,Critical Risk,42,One year,73.9,3160.55,DSL,Yes,Yes,Credit card (automatic)
+5186-SAMNZ,0.86,Yes,Critical Risk,1,Month-to-month,69.5,69.5,Fiber optic,No,No,Bank transfer (automatic)
+1043-YCUTE,0.86,Yes,Critical Risk,56,Two year,25.15,1327.15,No,No internet service,No internet service,Credit card (automatic)
+4229-CZMLL,0.86,Yes,Critical Risk,6,Month-to-month,74.9,469.8,Fiber optic,No,No,Electronic check
+2027-FECZV,0.855,Yes,Critical Risk,12,Month-to-month,106.7,1253.9,Fiber optic,No,No,Electronic check
+9962-BFPDU,0.855,Yes,Critical Risk,1,Month-to-month,20.05,20.05,No,No internet service,No internet service,Mailed check
+2332-EFBJY,0.855,Yes,Critical Risk,16,Month-to-month,19.7,342.4,No,No internet service,No internet service,Mailed check
+4174-LPGTI,0.855,Yes,Critical Risk,41,One year,66.5,2728.6,DSL,No,Yes,Bank transfer (automatic)
+2634-HCZGT,0.855,Yes,Critical Risk,53,One year,60.05,3229.65,DSL,Yes,Yes,Electronic check
+4322-RCYMT,0.855,Yes,Critical Risk,68,One year,75.8,5293.95,DSL,No,Yes,Bank transfer (automatic)
+9667-EQRXU,0.855,Yes,Critical Risk,30,Month-to-month,40.3,1172.95,DSL,No,No,Electronic check
+0516-VRYBW,0.855,Yes,Critical Risk,18,One year,20.15,390.85,No,No internet service,No internet service,Bank transfer (automatic)
+5995-OIGLP,0.855,Yes,Critical Risk,12,Month-to-month,56.65,654.85,DSL,Yes,Yes,Mailed check
+6635-MYYYZ,0.855,Yes,Critical Risk,30,One year,85.35,2530.4,DSL,Yes,Yes,Bank transfer (automatic)
+8809-RIHDD,0.855,Yes,Critical Risk,72,Two year,103.4,7372.65,Fiber optic,No,No,Electronic check
+4106-HADHQ,0.85,Yes,Critical Risk,39,One year,80.0,3182.95,DSL,Yes,Yes,Credit card (automatic)
+4355-HBJHH,0.85,Yes,Critical Risk,67,Two year,79.7,5293.4,DSL,Yes,No,Electronic check
+2667-WYLWJ,0.85,Yes,Critical Risk,8,One year,19.75,145,No,No internet service,No internet service,Mailed check
+0112-QWPNC,0.85,Yes,Critical Risk,49,One year,84.35,4059.35,DSL,Yes,Yes,Electronic check
+0607-DAAHE,0.85,Yes,Critical Risk,53,Two year,19.75,1052.35,No,No internet service,No internet service,Bank transfer (automatic)
+1009-IRMNA,0.85,Yes,Critical Risk,7,Month-to-month,20.0,137.6,No,No internet service,No internet service,Bank transfer (automatic)
+1575-KRZZE,0.85,Yes,Critical Risk,4,Month-to-month,55.2,220.65,DSL,Yes,No,Electronic check
+8739-XNIKG,0.85,Yes,Critical Risk,5,Month-to-month,84.0,424.75,Fiber optic,No,No,Electronic check
+0322-CHQRU,0.85,Yes,Critical Risk,2,Month-to-month,45.35,89.5,DSL,No,No,Electronic check
+7130-VTEWQ,0.85,Yes,Critical Risk,8,Month-to-month,75.75,606.25,Fiber optic,No,No,Electronic check
+1502-XFCVR,0.85,Yes,Critical Risk,58,One year,106.45,6145.85,Fiber optic,Yes,No,Electronic check
+1591-NFNLQ,0.85,Yes,Critical Risk,51,Month-to-month,80.0,4242.35,Fiber optic,No,No,Credit card (automatic)
+3930-ZGWVE,0.8478,Yes,Critical Risk,1,Month-to-month,19.75,19.75,No,No internet service,No internet service,Mailed check
+7239-HZZCX,0.8478,Yes,Critical Risk,1,Month-to-month,19.75,19.75,No,No internet service,No internet service,Mailed check
+2277-VWCNI,0.845,Yes,Critical Risk,4,Month-to-month,48.75,179.85,DSL,No,No,Mailed check
+8785-EPNCG,0.845,Yes,Critical Risk,11,Month-to-month,23.15,245.2,No,No internet service,No internet service,Credit card (automatic)
+0687-ZVTHB,0.845,Yes,Critical Risk,65,One year,72.45,4653.85,DSL,Yes,No,Credit card (automatic)
+7317-GGVPB,0.845,Yes,Critical Risk,71,Two year,108.6,7690.9,Fiber optic,No,Yes,Credit card (automatic)
+1536-HBSWP,0.845,Yes,Critical Risk,1,Month-to-month,49.9,49.9,DSL,No,Yes,Electronic check
+0685-MLYYM,0.845,Yes,Critical Risk,2,Month-to-month,70.75,154.85,Fiber optic,No,No,Electronic check
+1449-XQEMT,0.845,Yes,Critical Risk,3,Month-to-month,19.8,58.15,No,No internet service,No internet service,Mailed check
+7587-RZNME,0.845,Yes,Critical Risk,3,Month-to-month,43.3,123.65,DSL,No,No,Electronic check
+6849-WLEYG,0.845,Yes,Critical Risk,1,Month-to-month,19.75,19.75,No,No internet service,No internet service,Mailed check
+8079-XRJRS,0.845,Yes,Critical Risk,65,One year,89.75,5769.6,Fiber optic,Yes,No,Electronic check
+4892-VLANZ,0.8448,Yes,Critical Risk,1,Month-to-month,19.8,19.8,No,No internet service,No internet service,Mailed check
+0761-AETCS,0.8442,Yes,Critical Risk,1,Month-to-month,19.3,19.3,No,No internet service,No internet service,Electronic check
+3677-IYRBF,0.84,Yes,Critical Risk,2,Month-to-month,30.4,78.65,DSL,No,No,Electronic check
+1349-WXNGG,0.84,Yes,Critical Risk,1,Month-to-month,20.05,20.05,No,No internet service,No internet service,Bank transfer (automatic)
+6927-WTFIV,0.84,Yes,Critical Risk,20,Month-to-month,71.3,1389.2,Fiber optic,No,No,Credit card (automatic)
+1731-TVIUK,0.84,Yes,Critical Risk,4,Month-to-month,93.5,362.2,Fiber optic,No,Yes,Electronic check
+2077-MPJQO,0.84,Yes,Critical Risk,7,Month-to-month,75.4,533.05,Fiber optic,No,No,Electronic check
+4597-ELFTS,0.84,Yes,Critical Risk,56,One year,24.9,1334,No,No internet service,No internet service,Electronic check
+4765-OXPPD,0.84,Yes,Critical Risk,9,Month-to-month,65.0,663.05,DSL,Yes,Yes,Mailed check
+5485-WUYWF,0.84,Yes,Critical Risk,2,Month-to-month,66.4,94.55,DSL,Yes,No,Bank transfer (automatic)
+8873-GLDMH,0.8383,Yes,Critical Risk,6,Month-to-month,73.85,401.3,Fiber optic,No,No,Mailed check
+8631-NBHFZ,0.835,Yes,Critical Risk,66,Two year,79.4,5154.6,DSL,Yes,Yes,Credit card (automatic)
+8166-ZZTFS,0.835,Yes,Critical Risk,66,Two year,80.55,5265.1,DSL,No,No,Bank transfer (automatic)
+1555-DJEQW,0.835,Yes,Critical Risk,70,Two year,114.2,7723.9,Fiber optic,Yes,Yes,Bank transfer (automatic)
+6818-WOBHJ,0.835,Yes,Critical Risk,68,Month-to-month,89.6,6127.6,Fiber optic,No,No,Bank transfer (automatic)
+7253-UVNDW,0.835,Yes,Critical Risk,46,Two year,54.35,2460.15,DSL,No,Yes,Credit card (automatic)
+4013-GUXND,0.8312,Yes,Critical Risk,1,Month-to-month,20.8,20.8,No,No internet service,No internet service,Mailed check
+8245-UMPYT,0.83,Yes,Critical Risk,16,Month-to-month,96.4,1581.2,Fiber optic,No,No,Electronic check
+0376-YMCJC,0.83,Yes,Critical Risk,23,Month-to-month,90.6,1943.2,Fiber optic,No,Yes,Electronic check
+5687-DKDTV,0.83,Yes,Critical Risk,4,Month-to-month,20.35,77.5,No,No internet service,No internet service,Mailed check
+6137-NICCO,0.83,Yes,Critical Risk,6,Month-to-month,94.05,518.75,Fiber optic,No,No,Mailed check
+9611-CTWIH,0.83,Yes,Critical Risk,3,Month-to-month,89.45,240.45,Fiber optic,No,No,Electronic check
+3948-XHGNA,0.83,Yes,Critical Risk,24,Month-to-month,49.55,1210.4,DSL,Yes,No,Bank transfer (automatic)
+1038-ZAGBI,0.83,Yes,Critical Risk,12,One year,19.8,229.6,No,No internet service,No internet service,Bank transfer (automatic)
+1383-EZRWL,0.83,Yes,Critical Risk,7,Month-to-month,20.05,164.85,No,No internet service,No internet service,Mailed check
+8901-HJXTF,0.83,Yes,Critical Risk,12,Month-to-month,29.2,309.1,DSL,No,No,Mailed check
+4512-ZUIYL,0.8298,Yes,Critical Risk,2,Month-to-month,70.0,153.05,Fiber optic,No,No,Bank transfer (automatic)
+7243-LCGGZ,0.8297,Yes,Critical Risk,1,Month-to-month,20.9,20.9,No,No internet service,No internet service,Mailed check
+0426-TIRNE,0.8297,Yes,Critical Risk,1,Month-to-month,20.9,20.9,No,No internet service,No internet service,Mailed check
+7434-SHXLS,0.8297,Yes,Critical Risk,1,Month-to-month,20.9,20.9,No,No internet service,No internet service,Mailed check
+3512-IZIKN,0.825,Yes,Critical Risk,70,Two year,65.3,4759.75,DSL,Yes,Yes,Credit card (automatic)
+0235-KGSLC,0.825,Yes,Critical Risk,1,Month-to-month,85.55,85.55,Fiber optic,No,No,Credit card (automatic)
+5052-PNLOS,0.825,Yes,Critical Risk,3,Month-to-month,105.35,323.25,Fiber optic,No,No,Bank transfer (automatic)
+8361-LTMKD,0.825,Yes,Critical Risk,4,Month-to-month,74.4,306.6,Fiber optic,No,No,Mailed check
+1400-MMYXY,0.825,Yes,Critical Risk,3,Month-to-month,105.9,334.65,Fiber optic,No,No,Electronic check
+7812-FZHPE,0.825,Yes,Critical Risk,17,Month-to-month,24.1,409.9,No,No internet service,No internet service,Mailed check
+0616-ATFGB,0.825,Yes,Critical Risk,1,Month-to-month,25.05,25.05,DSL,No,No,Electronic check
+1628-BIZYP,0.825,Yes,Critical Risk,1,Month-to-month,85.0,85,Fiber optic,No,No,Electronic check
+8515-OCTJS,0.825,Yes,Critical Risk,25,Two year,24.75,692.1,No,No internet service,No internet service,Credit card (automatic)
+7359-SSBJK,0.82,Yes,Critical Risk,64,Two year,70.2,4481,DSL,Yes,Yes,Credit card (automatic)
+6386-SZZKH,0.82,Yes,Critical Risk,49,Two year,107.95,5293.2,Fiber optic,No,Yes,Bank transfer (automatic)
+5698-BQJOH,0.82,Yes,Critical Risk,9,Month-to-month,94.4,857.25,Fiber optic,No,No,Electronic check
+4706-AXVKM,0.82,Yes,Critical Risk,11,Month-to-month,84.8,906.85,Fiber optic,No,No,Credit card (automatic)
+2957-LOLHO,0.82,Yes,Critical Risk,12,Month-to-month,45.4,518.9,DSL,No,No,Bank transfer (automatic)
+7951-QKZPL,0.82,Yes,Critical Risk,33,Two year,24.5,740.3,No,No internet service,No internet service,Mailed check
+5020-ZSTTY,0.82,Yes,Critical Risk,54,One year,82.45,4350.1,DSL,Yes,Yes,Bank transfer (automatic)
+2754-SDJRD,0.82,Yes,Critical Risk,8,Month-to-month,100.15,908.55,Fiber optic,No,Yes,Credit card (automatic)
+3721-CNEYS,0.815,Yes,Critical Risk,2,Month-to-month,70.95,137.95,Fiber optic,No,No,Electronic check
+6323-AYBRX,0.815,Yes,Critical Risk,59,Two year,19.35,1099.6,No,No internet service,No internet service,Mailed check
+7363-QTBIW,0.815,Yes,Critical Risk,9,Month-to-month,79.75,769.1,Fiber optic,No,No,Electronic check
+2530-ENDWQ,0.81,Yes,Critical Risk,71,Two year,93.7,6585.35,Fiber optic,No,No,Bank transfer (automatic)
+6899-PPEEA,0.81,Yes,Critical Risk,37,Month-to-month,96.55,3580.3,Fiber optic,No,No,Electronic check
+5760-FXFVO,0.81,Yes,Critical Risk,6,Month-to-month,78.95,494.95,Fiber optic,Yes,No,Electronic check
+6680-WKXRZ,0.809,Yes,Critical Risk,3,Month-to-month,74.4,215.8,Fiber optic,No,No,Bank transfer (automatic)
+4140-WJAWW,0.805,Yes,Critical Risk,5,Month-to-month,19.85,108.05,No,No internet service,No internet service,Credit card (automatic)
+5380-WJKOV,0.805,Yes,Critical Risk,34,Month-to-month,106.35,3549.25,Fiber optic,No,No,Electronic check
+1448-PWKYE,0.805,Yes,Critical Risk,1,Month-to-month,80.0,80,Fiber optic,No,No,Electronic check
+8650-RHRKE,0.8,Yes,Critical Risk,4,Month-to-month,29.65,118.5,DSL,No,No,Electronic check
+2025-JKFWI,0.8,Yes,Critical Risk,13,Month-to-month,99.0,1301.7,Fiber optic,No,Yes,Mailed check
+1725-IQNIY,0.8,Yes,Critical Risk,54,Two year,109.75,6110.2,Fiber optic,Yes,Yes,Bank transfer (automatic)
+5159-YFPKQ,0.8,Yes,Critical Risk,2,Month-to-month,75.8,160.75,Fiber optic,No,No,Electronic check
+0201-OAMXR,0.8,Yes,Critical Risk,70,One year,115.55,8127.6,Fiber optic,Yes,Yes,Credit card (automatic)
+6651-AZVTJ,0.8,Yes,Critical Risk,49,Month-to-month,99.8,4872.45,Fiber optic,No,No,Electronic check
