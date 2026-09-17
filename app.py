@@ -161,8 +161,8 @@ st.sidebar.markdown("## Customer Churn Agent")
 navigation_option = st.sidebar.radio(
     "Navigation",
     options=[
-        "Executive Overview",
         "Upload Customer Data",
+        "Executive Overview",
         "Customer Risk Explorer",
         "Customer 360 & AI Explanation",
         "High-Risk Retention Actions",
