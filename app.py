@@ -42,7 +42,7 @@ st.markdown("""
     .main-header {
         font-size: 2.2rem;
         font-weight: 700;
-        color: #1E293B;
+        color: #FFFFFF;
         margin-bottom: 0.1rem;
     }
     .sub-header {
@@ -162,6 +162,7 @@ navigation_option = st.sidebar.radio(
     "Navigation",
     options=[
         "Executive Overview",
+        "Upload Customer Data",
         "Customer Risk Explorer",
         "Customer 360 & AI Explanation",
         "High-Risk Retention Actions",
@@ -308,6 +309,43 @@ if navigation_option == "Executive Overview":
         f"3. **Operational Alerts:** The agent generated **{alert_summary['critical']:,} Critical Alerts** requiring immediate outreach by Customer Success managers.\n"
         "4. **Feature Stickiness:** Observational analysis shows **Online Security** and **Tech Support** provide the highest churn reduction anchor (>16% absolute lower churn)."
     )
+
+
+# =============================================================================
+# UPLOAD CUSTOMER DATA
+# =============================================================================
+elif navigation_option == "Upload Customer Data":
+    st.markdown("### 📂 Upload Customer Data")
+    st.markdown("Upload new customer records in CSV format for churn risk evaluation and retention analysis.")
+
+    uploaded_file = st.file_uploader("Choose a CSV file", type=["csv"])
+
+    if uploaded_file is not None:
+        try:
+            uploaded_df = pd.read_csv(uploaded_file)
+            st.success(f"File `{uploaded_file.name}` uploaded successfully!")
+
+            st.markdown("<br>", unsafe_allow_html=True)
+
+            # Metadata KPI metrics
+            m_col1, m_col2, m_col3 = st.columns(3)
+            with m_col1:
+                st.markdown(f'<div class="kpi-card"><div class="kpi-title">Filename</div><div class="kpi-value" style="font-size: 1.2rem; word-break: break-all;">{uploaded_file.name}</div></div>', unsafe_allow_html=True)
+            with m_col2:
+                st.markdown(f'<div class="kpi-card"><div class="kpi-title">Total Rows</div><div class="kpi-value">{len(uploaded_df):,}</div></div>', unsafe_allow_html=True)
+            with m_col3:
+                st.markdown(f'<div class="kpi-card"><div class="kpi-title">Total Columns</div><div class="kpi-value">{len(uploaded_df.columns):,}</div></div>', unsafe_allow_html=True)
+
+            st.markdown("<br>", unsafe_allow_html=True)
+            st.markdown("#### Dataset Preview (First 5 Rows)")
+            st.dataframe(uploaded_df.head(5), use_container_width=True)
+
+            st.info("The uploaded dataset will be used for customer churn analysis in the next processing step.")
+
+        except Exception as e:
+            st.error(f"Error reading uploaded CSV file: {e}")
+    else:
+        st.info("Please upload a CSV file containing customer feature records to proceed.")
 
 
 # =============================================================================
